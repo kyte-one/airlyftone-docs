@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "AirLyft Documentation",
   tagline:
-    "AirLyft is a Web3 marketing tool to build, scale & engage communities. Projects create campaigns and distribute tokens, NFTs, POAPs, in-game assets, NFT-based tickets & more. Community members can support projects on AirLyft for a meaningful & rewarding experience.",
+    "Welcome to AirLyft! This documentation website is for Projects as well as Community members.",
   url: "https://docs.airlyft.one",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -40,13 +40,6 @@ const config = {
           editUrl:
             "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-        },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -66,11 +59,28 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "intro",
+            to: "docs/overview",
+            docId: 'overview/index',
+            activeBasePath: 'docs/overview/',
             position: "left",
-            label: "Tutorial",
+            label: "Overview",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          {
+            type: "doc",
+            to: "docs/projects",
+            docId: 'projects/index',
+            activeBasePath: 'docs/projects/',
+            position: "left",
+            label: "Projects",
+          },
+          {
+            type: "doc",
+            to: "docs/users",
+            docId: 'users/index',
+            activeBasePath: 'docs/users/',
+            position: "left",
+            label: "Users",
+          },
           {
             href: "https://github.com/facebook/docusaurus",
             label: "GitHub",
@@ -112,7 +122,7 @@ const config = {
             items: [
               {
                 label: "AirLyft App",
-                to: "/blog",
+                to: "https://www.airlyft.one",
               },
               {
                 label: "GitHub",
