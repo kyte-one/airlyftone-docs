@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="115px" height="115px" viewBox="0 0 115 115" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LOGO" transform="translate(0.000000, -7.000000)">
+            <circle id="Oval" fill="#292930" cx="57.5" cy="64.5" r="57.5"></circle>
+            <text id="A" font-family="Helvetica-Bold, Helvetica" font-size="80" font-weight="bold" fill="#FFFFFF">
+                <tspan x="29" y="78">A</tspan>
+            </text>
+            <path d="M29.0636444,83.9389075 C27.0711969,80.8079186 36.3218458,66.4338335 50.4112956,63.58748 C61.7967096,61.3103972 73.0398059,67.2877395 79.3017836,75.399847 C80.7249603,77.2499768 89.9756092,89.0623438 84.7098552,102.15557 C80.0133719,113.540984 67.9163696,116.81429 66.4931928,117.098926 C65.6392868,110.69463 63.9314747,104.432653 60.0888975,103.151794 C54.9654612,101.586299 49.6997072,110.12536 46.1417653,108.559865 C41.5875997,106.282782 48.4188481,90.0585675 41.8722351,85.0774489 C37.4603872,81.519507 30.6291388,86.3583079 29.0636444,83.9389075 Z" id="Path" stroke="#292930" fill="#FFDC5F" fill-rule="nonzero" transform="translate(57.554853, 90.098926) rotate(-40.000000) translate(-57.554853, -90.098926) "></path>
+        </g>
+    </g>
+</svg>
