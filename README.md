@@ -1,8 +1,8 @@
 # AirLyft Documentation Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/45b2361f-4401-4bb8-bbbf-3f17cc1fcbc8/deploy-status)](https://app.netlify.com/sites/keen-hotteok-e806a2/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/45b2361f-4401-4bb8-bbbf-3f17cc1fcbc8/deploy-status)](https://app.netlify.com/sites/keen-hotteok-e806a2/deploys) https://keen-hotteok-e806a2.netlify.app
 
-This is the readme for the AirLyft Documentation Website hosted on https://docs.airlyft.one and is built using [Docusaurus 2](https://docusaurus.io/).
+This is the readme for the AirLyft Documentation Website (will be hosted on https://docs.airlyft.one) and is built using [Docusaurus 2](https://docusaurus.io/).
 
 ### Installation
 
