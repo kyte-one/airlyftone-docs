@@ -8,7 +8,7 @@ Now, that you have been successfully onboarded and have created your project at 
 - NFT Whitelist
 - NFT Giveaway
 - Coupons
-- Secret Codes
+- Secret Code
 
 
 ![](https://paper-attachments.dropboxusercontent.com/s_AC17CE9A16D80CE2A27434BDB257AD14F98DEBCDA1B2446AA4ADE263A794110E_1667402745655_Event+Types.png)
