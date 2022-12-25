@@ -26,11 +26,11 @@ Paste the JSON ABI in the contract field on ABI as shown below.
 
 ![](../../images/web3JSONAirLyft.png)
 
-- Based on all the functions that are available in the ABIs, our Method would pick them up exactly and view them for you to select and then put a condition on. Now, the instance that we are discussing is to check if the user holds 10 KTE or not, let's select the ** balanceof ** function.
+- The method drop-down will show all the read functions in your ABI that you can select and put conditions. Now, the instance that we are discussing is to check if the user holds 10 KTE or not, let's select the ** balanceof ** function.
 
 ![](../../images/web3Method.png)
 
-- Once you have the method selected, you will be asked to enter the inputs of the interaction method and output conditions. Here you can set the options based on your requirements and put conditions accordingly. So, for the example that we are discussing, select the Value under the interaction method as "Users Connected Wallet Address" or "Ask users to enter manually" and then select in output conditions (=, <, <=, >, >=) on your requirement and finally enter the criteria (numeral values only). 
+- Once you have the method selected, you will be asked to enter the inputs of the interaction method and output conditions.  So, for the example that we are discussing, select the Value under the interaction method as "Users Connected Wallet Address" or "Ask users to enter manually" and then select in output conditions (=, <, <=, >, >=) on your requirement and finally enter the criteria (numberic values only). 
 
 ![](../../images/web3Conditions.png)
 
@@ -39,3 +39,5 @@ Paste the JSON ABI in the contract field on ABI as shown below.
 - Finally, click on Add Task button and that's it... Your first EVM Based decentralized action is successfully created. 
 
 These EVM-based tasks support conditions on all sorts of tokens such as ERC 20, ERC 721, and ERC 1155. You can have conditions set on them based on your campaign requirements and have these actions verified on-chain without any issues. 
+
+If you are facing any issues with EVM Based task creation, please drop a line at ** support@kyte.one **!
