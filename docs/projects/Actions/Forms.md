@@ -21,7 +21,7 @@ Forms are an integral part of growth activities when you want to take users' inp
     - Checkboxes - For entries of choosing multiple options.
     - Select - For a selection of one option. 
 
-Recently our partner used this integration in their giveaways where they created a form to collect Names (Simple Input Field), addresses (Multiline Input Field), Tshirt Size (Radio Button), and Colors (Checkboxes). Similarly, based on your requirements and campaign strategy, you can create form tasks and accept users' inputs.
+Recently our partner used this integration in their giveaways where they created a form to collect Names (Simple Input Field), addresses (Multiline Input Field), Tshirt Size (Radio Button), and Colors (Checkboxes). Similarly, based on your requirements and campaign strategy, you can create form tasks and accept users' inputs. Some of the giveaways campaigns you can run here are reward survey, optin form, online contest entry form, etc.
 
 ![](../../images/FormElements.png)
 

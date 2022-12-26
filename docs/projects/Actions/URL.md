@@ -5,7 +5,7 @@ Projects often have this requirement where they need to redirect users to their 
     - Share a particular on social channels.
     - Visit any particular link on web browsers.
 
-Let's dive deep into understanding how to create such tasks at AirLyft.
+One of the examples giveaway is like and share facebook competition that you can conduct using this feature to promote your growth on Facebook social channel. Let's dive deep into understanding how to create such tasks at AirLyft.
 
 - Login to AirLyft and create an event. On the event page, click on the select Apps tab where you can find the URL section.
 
