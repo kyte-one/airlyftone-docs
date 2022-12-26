@@ -1,4 +1,4 @@
-# Web 3.0 EVM
+# Web 3.0 EVM Tasks
 
 At AirLyft, putting conditions on EVM smart contract method to create decentralized on-chain tasks is straightforward. Let's dive deep into how can we create a web 3.0 EVM task at AirLyft! 
 
