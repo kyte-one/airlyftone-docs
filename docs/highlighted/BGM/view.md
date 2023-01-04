@@ -25,14 +25,12 @@ Checking owned NFTs at OpenSea is a 3 steps process. Please follow the steps bel
 
 
 
-:::note
+:::tip Stuck somewhere?
 
-If you have any problems in claiming the NFT you can:
+1. Visit the AirLyft team at stall G28 during BGM'23
+2. Email us at support@kyte.one
+3. Join [this Whatsapp group](https://chat.whatsapp.com/KSBWRBfGvKq95Lp6tXc8eN): https://chat.whatsapp.com/KSBWRBfGvKq95Lp6tXc8eN
 
-1. Visit the AirLyft team at Booth No. 28 in the Birla Auditorium between 6th to 8th Jan
-2. Drop us an email before 30th January at support@kyte.one
-3. Join [this Whatsapp group](https://chat.whatsapp.com/KSBWRBfGvKq95Lp6tXc8eN) and ask for help from the AirLyft Team: https://chat.whatsapp.com/KSBWRBfGvKq95Lp6tXc8eN
-
-**_AirLyft is a platform to run marketing events, campaigns, quests and automatically distribute NFTs or Tokens as rewards._**
+**_The AirLyft Team is there to help you. AirLyft is a platform to run marketing events, campaigns, quests and automatically distribute NFTs or Tokens as rewards._**
 
 :::
