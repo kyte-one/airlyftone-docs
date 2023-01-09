@@ -15,7 +15,7 @@ sidebar_position: 3
 8. Once you have both tasks completed, the NFT will be sent automatically to your connected Metamask wallet address within the next 5–10 minutes.
 ![](./images/usewallet.png)
 
-[Go to the Next Page - "Part 3: View NFT" or click here.](./part3)
+[Go to the Next Page - "Part 3: View NFT" or click here.](part3)
 
 :::tip Stuck somewhere?
 

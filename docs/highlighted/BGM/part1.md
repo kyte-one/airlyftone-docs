@@ -13,7 +13,7 @@ sidebar_position: 2
 6. Click on **“Approve”** and then **“Switch to Network”**. 
 ![](./images/switchnetwork.png)
 
-[Go to the Next Page - "Part 2: Claim NFT" or click here.](./part2)
+[Go to the Next Page - "Part 2: Claim NFT" or click here.](part2)
 
 :::tip Stuck somewhere?
 

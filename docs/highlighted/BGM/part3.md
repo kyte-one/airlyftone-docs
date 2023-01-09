@@ -17,8 +17,8 @@ sidebar_position: 4
 You can view your NFTs in any NFT marketplace. The beauty of the technology does not bind you to any specific tool, technology or product. Which means even AirLyft or BGM will not have control over your NFT once you claim it. It is yours just like a physical object is yours once it's given to you. For this tutorial, we will use OpenSea to view your NFT.
 
 Want to know more? Read some Frequently asked questions
-1. [NFT FAQs](./faq)
-1. [Claim FAQs](./claimfaqs.md)
+1. [NFT FAQs](faq)
+1. [Claim FAQs](claimfaqs)
 
 :::tip Stuck somewhere?
 
