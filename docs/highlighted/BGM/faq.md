@@ -1,7 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 ---
-# BGM'23 NFT Introduction
+# NFT FAQs
 
 ### What is an NFT?
 
@@ -25,15 +25,10 @@ NFTs can easily be listed on famous available NFT marketplaces such as Opensea, 
 
 So think of a painting that you painted. Now, someone can click a photograph and get a print out, however, the painting is still yours and you are the owner. In the same way, as we mentioned above, the metadata of NFTs are stored on the blockchain using the smart contract code which validates your authenticity or proof of ownership to a particular digital asset. You can clearly view the entire history of NFT i.e. from its point of origin to its trade history and who is the current owner. 
 
-
-Now that you have understood what is an NFT, lets [open the next page and understand how to use AirLyft to claim your own](claim).
-
-
 :::tip Stuck somewhere?
 
-1. Visit the AirLyft team at stall G28 during BGM'23
-2. Email us at support@kyte.one
-3. Join [this Whatsapp group](https://chat.whatsapp.com/KSBWRBfGvKq95Lp6tXc8eN): https://chat.whatsapp.com/KSBWRBfGvKq95Lp6tXc8eN
+1. Email us at support@kyte.one
+2. Join [this Whatsapp group](https://chat.whatsapp.com/KSBWRBfGvKq95Lp6tXc8eN): https://chat.whatsapp.com/KSBWRBfGvKq95Lp6tXc8eN
 
 **_The AirLyft Team is there to help you. AirLyft is a platform to run marketing events, campaigns, quests and automatically distribute NFTs or Tokens as rewards._**
 
