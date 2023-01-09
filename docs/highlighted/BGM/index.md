@@ -8,7 +8,16 @@ AirLyft is happy to be the official NFT Partner for Bits Pilani Alumni Associati
 
 ![](./images/nft.jpg)
 
-Let's start! [Go to the Next Page - "Part 1: Wallet Setup" or click here.](./part1)
+Let's start! [Go to the Next Page - "Part 1: Wallet Setup" or click here.](BGM/part1)
+
+**Full Tutorial**
+1. [Part 1: Wallet Setup](BGM/part1)
+1. [Part 2: Claim NFT](BGM/part2)
+1. [Part 3: View your NFT](BGM/part3)
+
+Want to know more? Read some Frequently asked questions
+1. [NFT FAQs](BGM/faq)
+1. [Claim FAQs](BGM/claimfaqs)
 
 :::tip Stuck somewhere?
 

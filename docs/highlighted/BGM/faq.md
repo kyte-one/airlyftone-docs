@@ -25,6 +25,15 @@ NFTs can easily be listed on famous available NFT marketplaces such as Opensea, 
 
 So think of a painting that you painted. Now, someone can click a photograph and get a print out, however, the painting is still yours and you are the owner. In the same way, as we mentioned above, the metadata of NFTs are stored on the blockchain using the smart contract code which validates your authenticity or proof of ownership to a particular digital asset. You can clearly view the entire history of NFT i.e. from its point of origin to its trade history and who is the current owner. 
 
+**Full Tutorial**
+1. [Part 1: Wallet Setup](part1)
+1. [Part 2: Claim NFT](part2)
+1. [Part 3: View your NFT](part3)
+
+Want to know more? Read some Frequently asked questions
+1. [NFT FAQs](faq)
+1. [Claim FAQs](claimfaqs)
+
 :::tip Stuck somewhere?
 
 1. Email us at support@kyte.one

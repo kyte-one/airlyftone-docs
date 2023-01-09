@@ -32,6 +32,15 @@ You can install metamask as a [browser extension](https://chrome.google.com/webs
 
 You can find your MetaMask address under account name which would be in below format ** 0X12ac..22f **. Just copy that wallet address and you can share this with others in order to send or receive digital assets over a blockchain.
 
+**Full Tutorial**
+1. [Part 1: Wallet Setup](part1)
+1. [Part 2: Claim NFT](part2)
+1. [Part 3: View your NFT](part3)
+
+Want to know more? Read some Frequently asked questions
+1. [NFT FAQs](faq)
+1. [Claim FAQs](claimfaqs)
+
 :::tip Stuck somewhere?
 
 1. Email us at support@kyte.one

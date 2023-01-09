@@ -17,6 +17,15 @@ sidebar_position: 3
 
 [Go to the Next Page - "Part 3: View NFT" or click here.](part3)
 
+**Full Tutorial**
+1. [Part 1: Wallet Setup](part1)
+1. [Part 2: Claim NFT](part2)
+1. [Part 3: View your NFT](part3)
+
+Want to know more? Read some Frequently asked questions
+1. [NFT FAQs](faq)
+1. [Claim FAQs](claimfaqs)
+
 :::tip Stuck somewhere?
 
 1. Email us at support@kyte.one
