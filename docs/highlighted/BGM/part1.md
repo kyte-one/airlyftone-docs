@@ -3,8 +3,8 @@ sidebar_position: 2
 ---
 
 # Part 1: Wallet Setup
-1. Download “Metamask” on your phone from Play Store or App Store (click here).
-2. Open the downloaded app and click on “Create a new wallet” & create a password.
+1. Download “Metamask” on your phone from [Play Store or App Store (click here)](https://metamask.io/download/).
+2. Open the downloaded app and click on **“Create a new wallet”** & create a password.
 3. Then click on start and write down your Secret Recovery Phase _which you will need to enter again on the next page so please write it down carefully._ The next screen will ask you to enter the seed phrase again.
 ![](./images/wallet.png)
 4. Reenter your password and click on **“I Agree”**
