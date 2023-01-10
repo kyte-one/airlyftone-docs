@@ -3,6 +3,7 @@ sidebar_position: 4
 ---
 
 # Part 3: View NFT
+Once you receive the email that your NFT has been transferred, you need to import it to your metamask wallet to be able to view it.
 1. To view your NFT, you need to Import it in Metamask.
 2. Again open the metamask app and click on “NFTs” and then click on “Import NFTs”
 ![](./images/importnft.png)

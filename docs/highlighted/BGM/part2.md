@@ -12,7 +12,7 @@ sidebar_position: 3
 6. Verify the network or connect to **BNB Smart Chain**.
 ![](./images/walletconnect.png)
 7. After clicking on connect, you will then see that your wallet address has been fetched on AirLyft successfully. Click on the Use button and that’s it!
-8. Once you have both tasks completed, the NFT will be sent automatically to your connected Metamask wallet address within the next 5–10 minutes.
+8. Once you have both tasks completed, the NFT will be sent automatically to your connected Metamask wallet address by AirLyft. It usually takes 5-10minutes for the NFT to arrive, but can sometimes take longer. You will also get an email when the NFT is successfully transferred. Once you receive that, you can go to the next step.
 ![](./images/usewallet.png)
 
 [Go to the Next Page - "Part 3: View NFT" or click here.](part3)
