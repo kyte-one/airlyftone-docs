@@ -38,6 +38,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/kyte-one/airlyftone-docs/tree/main/",
+          routeBasePath: "/"
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -99,7 +100,7 @@ const config = {
             items: [
               {
                 label: "Tutorial",
-                to: "/docs/overview",
+                to: "/overview",
               },
             ],
           },
