@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 6
 ---
 
-# Claim your NFT
+# Claim FAQs
 
 To claim your NFT, you need a decentralized wallet on your phone or laptop. This wallet will be free to download & setup, and represents your address on the blockchain.
 
@@ -32,19 +32,20 @@ You can install metamask as a [browser extension](https://chrome.google.com/webs
 
 You can find your MetaMask address under account name which would be in below format ** 0X12ac..22f **. Just copy that wallet address and you can share this with others in order to send or receive digital assets over a blockchain.
 
-### How can I claim the NFT?
+**Full Tutorial**
+1. [Part 1: Wallet Setup](part1)
+1. [Part 2: Claim NFT](part2)
+1. [Part 3: View your NFT](part3)
 
-Wonderful, you have not claimed the NFT! [Click here, or on Next, to understand how to view it on the blockchain](view).
+Want to know more? Read some Frequently asked questions
+1. [NFT FAQs](faq)
+1. [Claim FAQs](claimfaqs)
 
+:::tip Stuck somewhere?
 
-:::note
+1. Email us at support@kyte.one
+2. Join [this Whatsapp group](https://chat.whatsapp.com/KSBWRBfGvKq95Lp6tXc8eN): https://chat.whatsapp.com/KSBWRBfGvKq95Lp6tXc8eN
 
-If you have any problems in claiming the NFT you can:
-
-1. Visit the AirLyft team at Booth No. 28 in the Birla Auditorium between 6th to 8th Jan
-2. Drop us an email before 30th January at support@kyte.one
-3. Join [this Whatsapp group](https://chat.whatsapp.com/KSBWRBfGvKq95Lp6tXc8eN) and ask for help from the AirLyft Team: https://chat.whatsapp.com/KSBWRBfGvKq95Lp6tXc8eN
-
-**_AirLyft is a platform to run marketing events, campaigns, quests and automatically distribute NFTs or Tokens as rewards._**
+**_The AirLyft Team is there to help you. AirLyft is a platform to run marketing events, campaigns, quests and automatically distribute NFTs or Tokens as rewards._**
 
 :::

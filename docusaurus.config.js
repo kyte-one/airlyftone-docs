@@ -37,11 +37,15 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/kyte-one/airlyftone-docs/tree/main/",
+          routeBasePath: "/"
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
+        },
+        gtag: {
+          trackingID: "G-BDVRPXL5C7",
+          anonymizeIP: true,
         },
       }),
     ],
@@ -68,8 +72,8 @@ const config = {
           {
             type: "doc",
             to: "docs/guides",
-            docId: 'guides/index',
-            activeBasePath: 'docs/guides/',
+            docId: "guides/index",
+            activeBasePath: "docs/guides/",
             position: "left",
             label: "Guides",
           },
@@ -82,7 +86,7 @@ const config = {
           //   label: "Users",
           // },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/kyte-one/airlyftone-docs",
             label: "GitHub",
             position: "right",
           },
@@ -96,7 +100,7 @@ const config = {
             items: [
               {
                 label: "Tutorial",
-                to: "/docs/overview",
+                to: "/overview",
               },
             ],
           },

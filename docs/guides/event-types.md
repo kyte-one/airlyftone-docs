@@ -1,3 +1,5 @@
+# Event Types
+
 Types of Events
 Now, that you have been successfully onboarded and have created your project at AirLyft, let’s take a look at type of events that can be created at AirLyft. At AirLyft, we have researched it well and understand each and every requirements that you may have in the coming future. Basing on that, we would have tons of options available which is listed below. 
 
