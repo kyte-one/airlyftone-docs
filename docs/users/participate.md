@@ -1,4 +1,4 @@
-# ERC20 Token
+# Participate in an event
 
 :::tip This document is in progress, for instant help
 

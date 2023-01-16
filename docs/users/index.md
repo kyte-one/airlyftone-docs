@@ -1,4 +1,8 @@
-# ERC20 Token
+---
+sidebar_position: 3
+---
+
+# User Guides
 
 :::tip This document is in progress, for instant help
 

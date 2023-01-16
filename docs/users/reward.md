@@ -1,4 +1,4 @@
-# ERC20 Token
+# Different Reward Types
 
 :::tip This document is in progress, for instant help
 
