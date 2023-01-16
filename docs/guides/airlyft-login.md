@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Logging In
 Ahoy mate! Welcome to the world of decentralized marketing or in more simpler terms decentralized growth. Let’s start with the very first learning session of AirLyft which is logging into AirLyft.One application. 
 

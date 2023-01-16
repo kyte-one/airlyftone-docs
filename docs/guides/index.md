@@ -2,6 +2,6 @@
 sidebar_position: 2
 ---
 
-# Project Host Guides
+# Project Account Dashboard
 
-This is the guides section of AirLyft's documentation, here you will understand how to use the platform.
+This guild portion of AirLyft's project account documentation will walk you through using the platform step-by-step.

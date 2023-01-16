@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Creating a new project
 This tutorial focuses on how a project can create multiple sub projects within AirLyft. It is mostly seen that along with having a global channels, projects also have region specific channels and want to have regional events and not mix it up with events happening on global channels. Projects can simply create their regional sub projects and get things rolling. Let's dive deep into how to create a new project within AirLyft. 
 
