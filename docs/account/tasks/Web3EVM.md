@@ -1,6 +1,6 @@
 # Web 3.0 EVM Tasks
 
-At AirLyft, putting conditions on EVM smart contract method to create decentralized on-chain tasks is straightforward. Let's dive deep into how can we create a web 3.0 EVM task at AirLyft! 
+Using the Web3.0 EVM Task, you can easily put conditions on a smart contract and verify onchain actions. Let's dive deep into how can we create a web 3.0 EVM task at AirLyft! 
 
 - Login to AirLyft and create an event. On this, head to the select Apps section and select Web 3.0 EVM block as shown in the screenshot below. 
 

@@ -1,1 +1,5 @@
-# Other Documents
+---
+sidebar_position: 1
+---
+
+# Miscellaneous Documents

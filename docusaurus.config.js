@@ -38,7 +38,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/kyte-one/airlyftone-docs/tree/main/",
-          routeBasePath: "/"
+          routeBasePath: "/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -48,6 +48,19 @@ const config = {
           anonymizeIP: true,
         },
       }),
+    ],
+  ],
+
+  plugins: [
+    [
+      "@docusaurus/plugin-ideal-image",
+      {
+        quality: 70,
+        max: 1030, // max resized image's size.
+        min: 640, // min resized image's size. if original is lower, use that size.
+        steps: 2, // the max number of images generated between min and max (inclusive)
+        disableInDev: false,
+      },
     ],
   ],
 
@@ -61,30 +74,36 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
-          // {
-          //   type: "doc",
-          //   to: "docs/overview",
-          //   docId: 'overview/index',
-          //   activeBasePath: 'docs/overview/',
-          //   position: "left",
-          //   label: "Overview",
-          // },
           {
-            type: "doc",
-            to: "docs/guides",
-            docId: "guides/index",
-            activeBasePath: "docs/guides/",
+            to: "overview",
             position: "left",
-            label: "Guides",
+            label: "Overview",
           },
-          // {
-          //   type: "doc",
-          //   to: "docs/users",
-          //   docId: 'users/index',
-          //   activeBasePath: 'docs/users/',
-          //   position: "left",
-          //   label: "Users",
-          // },
+          {
+            to: "account",
+            position: "left",
+            label: "Projects",
+          },
+          {
+            to: "templates",
+            position: "left",
+            label: "Templates",
+          },
+          {
+            to: "users",
+            position: "left",
+            label: "Users",
+          },
+          {
+            to: "docs",
+            position: "left",
+            label: "Misc.",
+          },
+          {
+            href: "https://app.airlyft.one",
+            label: "Use App",
+            position: "right",
+          },
           {
             href: "https://github.com/kyte-one/airlyftone-docs",
             label: "GitHub",

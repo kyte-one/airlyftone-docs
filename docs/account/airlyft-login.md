@@ -1,9 +1,9 @@
 ---
-sidebar_position: 5
+sidebar_position: 2
 ---
 
 # Logging In
-Ahoy mate! Welcome to the world of decentralized marketing or in more simpler terms decentralized growth. Let’s start with the very first learning session of AirLyft which is logging into AirLyft.One application. 
+There are three different ways to log in to the AirLyft's account dashboard , in this document we will discuss all three.
 
 * Access your favorite browser and navigate to the website “https://account.airlyft.one/login” ! Allow the page to load and you can then see 3 modes of login with Google, Twitter, Metamask.
   
