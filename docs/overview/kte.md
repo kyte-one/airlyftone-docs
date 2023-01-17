@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # The KTE Token
 
-The KTE Token is at the core of all products built by Kyte. 
+The KTE Token will be at the core of all products built by Kyte. 
 
 **Token Ticker:** KTE
 

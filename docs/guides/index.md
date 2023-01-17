@@ -1,7 +1,0 @@
----
-sidebar_position: 2
----
-
-# Project Account Dashboard
-
-This guild portion of AirLyft's project account documentation will walk you through using the platform step-by-step.

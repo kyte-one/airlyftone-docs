@@ -1,4 +1,4 @@
-# Creating Discord Task
+# Creating Discord Tasks
 
 AirLyft now supports Discord integration to promote your discord server. You can create Discord based tasks to check if participants have joined your discord server or not. Please follow the steps below on how to create a Discord tasks.
 
