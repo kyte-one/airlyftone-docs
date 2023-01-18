@@ -70,7 +70,7 @@ function getCardImage(eventTemplate: EventTemplate): string {
 function ShowcaseCard({ eventTemplate }: { eventTemplate: EventTemplate }) {
   const image = getCardImage(eventTemplate);
   return (
-    <li key={eventTemplate.title} className={clsx(styles.showcaseCard, "card")}>
+    <div key={eventTemplate.title} className="card">
       <div className={clsx("card__image", styles.showcaseCardImage)}>
         <Image img={image} alt={eventTemplate.title} />
       </div>
@@ -90,7 +90,7 @@ function ShowcaseCard({ eventTemplate }: { eventTemplate: EventTemplate }) {
         </div>
         <p className={styles.showcaseCardBody}>{eventTemplate.description}</p>
       </div>
-      <div className={clsx("card__footer")}>
+      <div className="card__footer">
         <div className="button-group button-group--block">
           <button
             onClick={() => window.open(eventTemplate.website)}
@@ -106,7 +106,7 @@ function ShowcaseCard({ eventTemplate }: { eventTemplate: EventTemplate }) {
           </button> */}
         </div>
       </div>
-    </li>
+    </div>
   );
 }
 

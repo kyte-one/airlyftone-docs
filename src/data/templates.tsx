@@ -79,7 +79,7 @@ const EventTemplates: EventTemplate[] = [
     tags: ['form'],
   },
   {
-    title: 'Incentivise onchain actions like adding liquidity',
+    title: 'Incentivised onchain actions',
     description: 'Incentivise stake, liquidity, holding an NFT, interacting wiht GameFi & verify the onchain actions.',
     preview: require('./templates/liquidity.png'),
     website: 'https://app.airlyft.one/airlyft-docs/liquidity-incentive-campaign',
