@@ -96,14 +96,14 @@ function ShowcaseCard({ eventTemplate }: { eventTemplate: EventTemplate }) {
             onClick={() => window.open(eventTemplate.website)}
             className="button button--secondary"
           >
-            Live Demo
+            View Live Demo
           </button>
-          <button
+          {/* <button
             onClick={() => window.open(eventTemplate.source)}
             className="button button--secondary"
           >
             Use This
-          </button>
+          </button> */}
         </div>
       </div>
     </li>
