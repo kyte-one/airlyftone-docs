@@ -6,6 +6,8 @@
 
 /* You can override the default Infima variables here. */
 :root {
+  --site-color-tooltip: #fff;
+  --site-color-tooltip-background: #353738;
   --ifm-color-primary: #5948d1;
   --ifm-color-primary-dark: #3c32ab;
   --ifm-color-primary-darker: #252085;
@@ -14,6 +16,7 @@
   --ifm-color-primary-lighter: #a99beb;
   --ifm-color-primary-lightest: #d4cbf7;
   --ifm-code-font-size: 95%;
+  --ifm-button-color: var(--ifm-color-gray-900);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
@@ -26,7 +29,11 @@
   --ifm-color-primary-light: #f7db75;
   --ifm-color-primary-lighter: #feeaa2;
   --ifm-color-primary-lightest: #f9edc1;
+  --ifm-button-background-color: #f9edc1;
+  --ifm-color-secondary: #373737;
+  --ifm-button-color: var(--ifm-color-white-100)
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  
 }
 
 .screen-reader-only {
@@ -40,4 +47,12 @@
   position: absolute;
   width: 1px;
   white-space: nowrap;
+}
+
+.button.button--secondary {
+  color: var(--ifm-button-color);
+}
+
+.button.button--secondary:hover {
+  background-color: var(--ifm-color-secondary) ;
 }

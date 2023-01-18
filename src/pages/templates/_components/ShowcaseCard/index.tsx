@@ -70,34 +70,42 @@ function getCardImage(eventTemplate: EventTemplate): string {
 function ShowcaseCard({ eventTemplate }: { eventTemplate: EventTemplate }) {
   const image = getCardImage(eventTemplate);
   return (
-    <li key={eventTemplate.title} className="card shadow--md">
+    <li key={eventTemplate.title} className={clsx(styles.showcaseCard, "card")}>
       <div className={clsx("card__image", styles.showcaseCardImage)}>
         <Image img={image} alt={eventTemplate.title} />
       </div>
       <div className="card__body">
         <div className={clsx(styles.showcaseCardHeader)}>
           <h4 className={styles.showcaseCardTitle}>
-            <Link href={eventTemplate.website} className={styles.showcaseCardLink}>
+            <Link
+              href={eventTemplate.website}
+              className={styles.showcaseCardLink}
+            >
               {eventTemplate.title}
             </Link>
           </h4>
-          {eventTemplate.source && (
-            <Link
-              href={eventTemplate.source}
-              className={clsx(
-                "button button--secondary button--sm",
-                styles.showcaseCardSrcBtn
-              )}
-            >
-              <Translate id="showcase.card.sourceLink">Use This</Translate>
-            </Link>
-          )}
+        </div>
+        <div>
+          <ShowcaseCardTag tags={eventTemplate.tags} />
         </div>
         <p className={styles.showcaseCardBody}>{eventTemplate.description}</p>
       </div>
-      <ul className={clsx("card__footer", styles.cardFooter)}>
-        <ShowcaseCardTag tags={eventTemplate.tags} />
-      </ul>
+      <div className={clsx("card__footer")}>
+        <div className="button-group button-group--block">
+          <button
+            onClick={() => window.open(eventTemplate.website)}
+            className="button button--secondary"
+          >
+            Live Demo
+          </button>
+          <button
+            onClick={() => window.open(eventTemplate.source)}
+            className="button button--secondary"
+          >
+            Use This
+          </button>
+        </div>
+      </div>
     </li>
   );
 }
