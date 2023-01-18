@@ -63,6 +63,14 @@ export const EventTemplates: EventTemplate[] = [
     tags: ['twitter'],
   },
   {
+    title: 'NFT Giveaway',
+    description: 'Promote your NFTs by giving some free ones away to users who complete meaningful actions.',
+    preview: require('./templates/nft.jpg'),
+    website: 'https://app.airlyft.one/airlyft-docs/nft-giveaway',
+    source: 'https://account.airlyft.one',
+    tags: ['telegram','social', 'discord', 'evm'],
+  },
+  {
     title: 'Learn to Earn Campaign',
     description: 'Use a youtube video & a quiz task for a learn to earn campaign',
     preview: require('./templates/quiz.jpeg'),
@@ -109,6 +117,14 @@ export const EventTemplates: EventTemplate[] = [
     website: 'https://app.airlyft.one/airlyft-docs/social-media-contest',
     source: 'https://account.airlyft.one',
     tags: ['twitter', 'social', 'evm'],
+  },
+  {
+    title: 'Join Telegram Community Promotion',
+    description: 'This template boosts your TG community while also verifying whether a user has actually joined your group.',
+    preview: require('./templates/tg.jpeg'),
+    website: 'https://app.airlyft.one/airlyft-docs/telegram-giveaway',
+    source: 'https://account.airlyft.one',
+    tags: ['telegram','social'],
   },
 ];
 
