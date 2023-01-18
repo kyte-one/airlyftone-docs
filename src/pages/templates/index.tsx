@@ -16,7 +16,7 @@ import Link from "@docusaurus/Link";
 import Layout from "@theme/Layout";
 import FavoriteIcon from "../../components/svgIcons/FavoriteIcon";
 import {
-  sortedEventTemplates,
+  EventTemplates,
   Tags,
   TagList,
   type EventTemplate,
@@ -119,7 +119,7 @@ function useFilteredEventTemplates() {
   return useMemo(
     () =>
       filterEventTemplates(
-        sortedEventTemplates,
+        EventTemplates,
         selectedTags,
         operator,
         searchName
@@ -202,13 +202,6 @@ function ShowcaseFilters() {
     </section>
   );
 }
-
-// const favoriteEventTemplates = sortedEventTemplates.filter((eventTemplate) =>
-//   eventTemplate.tags.includes("favorite")
-// );
-// const otherEventTemplates = sortedEventTemplates.filter(
-//   (eventTemplate) => !eventTemplate.tags.includes("favorite")
-// );
 
 function SearchBar() {
   const history = useHistory();

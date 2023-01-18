@@ -13,76 +13,12 @@ export type TagType =
 
 // Add sites to this list
 // prettier-ignore
-const EventTemplates: EventTemplate[] = [
-  {
-    title: 'Twitter Giveaway',
-    description: 'Use this template to drive engagement to your twitter account.',
-    preview: require('./templates/twitterbanner.jpeg'),
-    website: 'https://app.airlyft.one/airlyft-docs/twitter-giveaway',
-    source: 'https://account.airlyft.one',
-    tags: ['twitter'],
-  },
-  {
-    title: 'Learn to Earn Campaign',
-    description: 'Use a youtube video & a quiz task for a learn to earn campaign',
-    preview: require('./templates/quiz.jpeg'),
-    website: 'https://app.airlyft.one/airlyft-docs/quiz-contest',
-    source: 'https://account.airlyft.one',
-    tags: ['learn', 'social'],
-  },
-  {
-    title: 'Multichain HODL Contest',
-    description: 'Reward entries to HODLers of your token on one or more chains (together!).',
-    preview: require('./templates/hodlbanner.jpeg'),
-    website: 'https://app.airlyft.one/airlyft-docs/hodl-a-token',
-    source: 'https://account.airlyft.one',
-    tags: ['evm'],
-  },
+export const EventTemplates: EventTemplate[] = [
   {
     title: 'Swap & Win DEX Promotion',
     description: 'Promote onchain actions on your dApp like a DEX by verifying the actions and giving rewards using this simple template.',
     preview: require('./templates/swapandwin.jpg'),
     website: 'https://app.airlyft.one/airlyft-docs/swap-and-win-dex-promotion',
-    source: 'https://account.airlyft.one',
-    tags: ['evm'],
-  },
-  {
-    title: 'Twitter Hashtag Contest',
-    description: 'Get users to Tweet from a pre-made template, or let users Tweet from scratch with your designated hashtag',
-    preview: require('./templates/hashtag.png'),
-    website: 'https://app.airlyft.one/airlyft-docs/twitter-hashtag-contest',
-    source: 'https://account.airlyft.one',
-    tags: ['twitter'],
-  },
-  {
-    title: 'Discord Server Promotion',
-    description: 'Use this template to grow your Discord community. Drive engagement to your servers and cultivate loyalty.',
-    preview: require('./templates/discordserver.png'),
-    website: 'https://app.airlyft.one/airlyft-docs/discord-server-promotion',
-    source: 'https://account.airlyft.one',
-    tags: ['discord'],
-  },
-  {
-    title: 'Social Media Contest',
-    description: 'Use this template to grow your following and engage users across all of your social media platforms.',
-    preview: require('./templates/socialmediacontest.png'),
-    website: 'https://app.airlyft.one/airlyft-docs/social-media-contest',
-    source: 'https://account.airlyft.one',
-    tags: ['twitter', 'social', 'evm'],
-  },
-  {
-    title: 'Run a Survey Contest',
-    description: 'Get more survey responses by using our form task. Users can simply fill out the form to enter your campaign',
-    preview: require('./templates/survey.png'),
-    website: 'https://app.airlyft.one/airlyft-docs/run-a-survey-contest',
-    source: 'https://account.airlyft.one',
-    tags: ['form'],
-  },
-  {
-    title: 'Incentivised onchain actions',
-    description: 'Incentivise stake, liquidity, holding an NFT, interacting wiht GameFi & verify the onchain actions.',
-    preview: require('./templates/liquidity.png'),
-    website: 'https://app.airlyft.one/airlyft-docs/liquidity-incentive-campaign',
     source: 'https://account.airlyft.one',
     tags: ['evm'],
   },
@@ -109,6 +45,70 @@ const EventTemplates: EventTemplate[] = [
     website: 'https://app.airlyft.one/airlyft-docs/polkadotjs-and-telegram',
     source: 'https://account.airlyft.one',
     tags: ['dotsama', 'discord'],
+  },
+  {
+    title: 'Multichain HODL Contest',
+    description: 'Reward entries to HODLers of your token on one or more chains (together!).',
+    preview: require('./templates/hodlbanner.jpeg'),
+    website: 'https://app.airlyft.one/airlyft-docs/hodl-a-token',
+    source: 'https://account.airlyft.one',
+    tags: ['evm'],
+  },
+  {
+    title: 'Twitter Giveaway',
+    description: 'Use this template to drive engagement to your twitter account.',
+    preview: require('./templates/twitterbanner.jpeg'),
+    website: 'https://app.airlyft.one/airlyft-docs/twitter-giveaway',
+    source: 'https://account.airlyft.one',
+    tags: ['twitter'],
+  },
+  {
+    title: 'Learn to Earn Campaign',
+    description: 'Use a youtube video & a quiz task for a learn to earn campaign',
+    preview: require('./templates/quiz.jpeg'),
+    website: 'https://app.airlyft.one/airlyft-docs/quiz-contest',
+    source: 'https://account.airlyft.one',
+    tags: ['learn', 'social'],
+  },
+  {
+    title: 'Incentivised onchain actions',
+    description: 'Incentivise stake, liquidity, holding an NFT, interacting wiht GameFi & verify the onchain actions.',
+    preview: require('./templates/liquidity.png'),
+    website: 'https://app.airlyft.one/airlyft-docs/liquidity-incentive-campaign',
+    source: 'https://account.airlyft.one',
+    tags: ['evm'],
+  },
+  {
+    title: 'Run a Survey Contest',
+    description: 'Get more survey responses by using our form task. Users can simply fill out the form to enter your campaign',
+    preview: require('./templates/survey.png'),
+    website: 'https://app.airlyft.one/airlyft-docs/run-a-survey-contest',
+    source: 'https://account.airlyft.one',
+    tags: ['form'],
+  },
+  {
+    title: 'Twitter Hashtag Contest',
+    description: 'Get users to Tweet from a pre-made template, or let users Tweet from scratch with your designated hashtag',
+    preview: require('./templates/hashtag.png'),
+    website: 'https://app.airlyft.one/airlyft-docs/twitter-hashtag-contest',
+    source: 'https://account.airlyft.one',
+    tags: ['twitter'],
+  },
+  {
+    title: 'Discord Server Promotion',
+    description: 'Use this template to grow your Discord community. Drive engagement to your servers and cultivate loyalty.',
+    preview: require('./templates/discordserver.png'),
+    website: 'https://app.airlyft.one/airlyft-docs/discord-server-promotion',
+    source: 'https://account.airlyft.one',
+    tags: ['discord'],
+  },
+  {
+    title: 'Social Media Contest',
+    description: 'Use this template to grow your following and engage users across all of your social media platforms.',
+    preview: require('./templates/socialmediacontest.png'),
+    website: 'https://app.airlyft.one/airlyft-docs/social-media-contest',
+    source: 'https://account.airlyft.one',
+    tags: ['twitter', 'social', 'evm'],
   },
 ];
 
@@ -203,10 +203,3 @@ export const Tags: { [type in TagType]: Tag } = {
 };
 
 export const TagList = Object.keys(Tags) as TagType[];
-function sortEventTemplates() {
-  let result = EventTemplates;
-  result = sortBy(result, (e) => e.title.toLowerCase());
-  return result;
-}
-
-export const sortedEventTemplates = sortEventTemplates();
