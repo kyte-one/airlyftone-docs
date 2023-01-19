@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # ERC20 Token
 
 :::tip This document is in progress, for instant help

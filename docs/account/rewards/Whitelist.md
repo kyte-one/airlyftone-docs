@@ -1,5 +1,9 @@
-# Whitelist/Shortlist Reward
-AirLyft now supports Whitelist Campaigns as well. Create your campaigns in simple steps and shortlist your campaign winners as per your criteria. Please follow the steps below on how to conduct a Whitelist Reward Giveaway.
+---
+sidebar_position: 2
+---
+
+# Whitelist/Shortlist
+AirLyft now supports "Whitelist" as a reward type. Create your campaigns in simple steps and shortlist your campaign winners as per your criteria. Please follow the steps below on how to conduct a Whitelist Reward Giveaway.
 
 ## What is a whitelist/shortlist?
 A "whitelist" or a "shortlist" means that you (the event host) will get a list of winners from the event and you can use that list in any way you please.
