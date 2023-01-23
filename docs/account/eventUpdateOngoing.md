@@ -1,13 +1,8 @@
 ---
-sidebar_position: 12
+sidebar_position: 10
 ---
 
-# Analytics
-
-## Over all analytics
-
-
-## Task wise analytics
+# Event update when ongoing
 
 
 

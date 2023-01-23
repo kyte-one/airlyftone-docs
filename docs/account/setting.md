@@ -1,13 +1,8 @@
 ---
-sidebar_position: 12
+sidebar_position: 17
 ---
 
-# Analytics
-
-## Over all analytics
-
-
-## Task wise analytics
+# Project Setting
 
 
 

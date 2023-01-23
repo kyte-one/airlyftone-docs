@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 5
 ---
 
 # Event
@@ -13,7 +13,7 @@ This tutorial focuses on how to create and update the event in AirLyft. An event
 
 ![Create Event](../images/CreateEvent.png)
 
-- Upon clicking the button, you will get a list of options like "Create from Scratch" or select from a range of templates. Click on "Create from Scratch" for now. To know the steps for creation from template is here. 
+- Upon clicking the button, you will get a list of options like "Create from Scratch" or select from a range of templates. Click on "Create from Scratch" for now. To know the steps for creation from template is [here](https://docs.airlyft.one/account/eventTemplate). 
 
 ![Event](../images/EventScratchTemplate.png)
 

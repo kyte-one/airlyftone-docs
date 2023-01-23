@@ -1,13 +1,10 @@
 ---
-sidebar_position: 12
+sidebar_position: 16
 ---
 
-# Analytics
+# Event Settle
 
-## Over all analytics
-
-
-## Task wise analytics
+## Manual Settle (Whitelist Reward)
 
 
 

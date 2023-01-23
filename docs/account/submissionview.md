@@ -1,3 +1,7 @@
+---
+sidebar_position: 13
+---
+
 # Submission View
 
 At times, projects in order to guage the performance of campaign needs to check participation data of ongoing events. With that in mind, we have built a submission view at AirLyft in which you can view task level breakdown of users, the number of entries they scored for that particular task, the status of their entry and other things. 

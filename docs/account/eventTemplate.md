@@ -1,15 +1,8 @@
 ---
-sidebar_position: 12
+sidebar_position: 6
 ---
 
-# Analytics
-
-## Over all analytics
-
-
-## Task wise analytics
-
-
+# Event From Template
 
 :::tip This document is in progress, for instant help
 
