@@ -1,3 +1,7 @@
+---
+sidebar_position: 14
+---
+
 # Participant List View
 
 AirLyft provides projects the flexibility to view participants entries at any point during the event. You can check on a overall scale the number of the entries a particular user has scored, the number of tasks they have completed, and also check on what actions have they performed as a part of this event. Let's take a deep look at where can we view the participant list. 

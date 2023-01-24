@@ -1,8 +1,13 @@
 ---
-sidebar_position: 7
+sidebar_position: 12
 ---
 
-# Analytics & More
+# Analytics
+
+## Over all analytics
+
+
+## Task wise analytics
 
 AirLyft provides its projects the flexibility to track their campaign performance analytically. While there are hundreds of analytical development that can be brought in, however, we have current developed our Analytics module based on certain parameter which is required by projects on day to day basis. To check for event analytics, please follow the steps below.
 
