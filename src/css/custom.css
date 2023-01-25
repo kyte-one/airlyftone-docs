@@ -43,7 +43,6 @@ html {
   --ifm-button-color: var(--ifm-color-white-100);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
-/*
 .screen-reader-only {
   border: 0;
   clip: rect(0 0 0 0);
@@ -56,6 +55,8 @@ html {
   width: 1px;
   white-space: nowrap;
 }
+/*
+
 
 .button.button--secondary {
   color: var(--ifm-button-color);
