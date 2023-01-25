@@ -1,10 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: 'Inter', sans-serif;
+}
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+/* You can override the default Infima variables here.*/
 :root {
   --site-color-tooltip: #fff;
   --site-color-tooltip-background: #353738;
@@ -18,11 +26,12 @@
   --ifm-code-font-size: 95%;
   --ifm-button-color: var(--ifm-color-gray-900);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-footer-link-color: #d4cbf7;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* For readability concerns, you should choose a lighter palette in dark mode.*/
 [data-theme='dark'] {
-  --ifm-color-primary: #FFDC5F;
+  --ifm-color-primary: #ffdc5f;
   --ifm-color-primary-dark: #f8d34c;
   --ifm-color-primary-darker: #f7d042;
   --ifm-color-primary-darkest: #f3c20f;
@@ -31,11 +40,10 @@
   --ifm-color-primary-lightest: #f9edc1;
   --ifm-button-background-color: #f9edc1;
   --ifm-color-secondary: #373737;
-  --ifm-button-color: var(--ifm-color-white-100)
+  --ifm-button-color: var(--ifm-color-white-100);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  
 }
-
+/*
 .screen-reader-only {
   border: 0;
   clip: rect(0 0 0 0);
@@ -55,4 +63,4 @@
 
 .button.button--secondary:hover {
   background-color: var(--ifm-color-secondary) ;
-}
+}*/
