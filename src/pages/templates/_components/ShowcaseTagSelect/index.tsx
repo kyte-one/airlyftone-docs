@@ -65,7 +65,7 @@ function ShowcaseTagSelect(
       <input
         type="checkbox"
         id={id}
-        className="screen-reader-only"
+        className="appearance-none"
         onKeyDown={(e) => {
           if (e.key === "Enter") {
             toggleTag();

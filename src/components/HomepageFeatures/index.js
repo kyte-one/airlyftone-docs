@@ -53,7 +53,7 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="flex flex-col md:flex-row flex-warp py-16">
+        <div className="flex flex-col py-16 md:flex-row flex-warp">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}

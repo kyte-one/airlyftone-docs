@@ -17,7 +17,7 @@ html {
   --site-color-tooltip: #fff;
   --site-color-tooltip-background: #353738;
   --ifm-color-primary: #5948d1;
-  --ifm-color-primary-dark: #3c32ab;
+  --ifm-color-primary-dark: #4338ca;
   --ifm-color-primary-darker: #252085;
   --ifm-color-primary-darkest: #13125e;
   --ifm-color-primary-light: #806fde;
@@ -26,7 +26,11 @@ html {
   --ifm-code-font-size: 95%;
   --ifm-button-color: var(--ifm-color-gray-900);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --ifm-footer-link-color: #d4cbf7;
+  --ifm-footer-link-color: #eef2ff;
+  --ifm-footer-background-color: #4338ca;
+  --ifm-footer-title-color: #eef2ff;
+  --ifm-footer-color: #eef2ff;
+  --ifm-footer-link-hover-color: #e0e7ff;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode.*/
@@ -43,7 +47,7 @@ html {
   --ifm-button-color: var(--ifm-color-white-100);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
-.screen-reader-only {
+/* .screen-reader-only {
   border: 0;
   clip: rect(0 0 0 0);
   clip-path: polygon(0 0, 0 0, 0 0);
@@ -54,8 +58,9 @@ html {
   position: absolute;
   width: 1px;
   white-space: nowrap;
-}
+} */
 /*
+
 
 
 .button.button--secondary {
@@ -65,3 +70,6 @@ html {
 .button.button--secondary:hover {
   background-color: var(--ifm-color-secondary) ;
 }*/
+.link-button {
+  @apply bg-accent-600 flex items-center hover:bg-opacity-90 transition-colors hover:no-underline hover:text-white justify-center gap-2 text-white px-4 py-2 border-none rounded-md font-medium;
+}
