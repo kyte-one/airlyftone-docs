@@ -5,6 +5,9 @@ module.exports = {
       center: true,
       padding: '16px',
     },
+    fontFamily: {
+      heading: ['Poppins', 'sans-serif'],
+    },
     extend: {
       colors: {
         black: '#212b36',
