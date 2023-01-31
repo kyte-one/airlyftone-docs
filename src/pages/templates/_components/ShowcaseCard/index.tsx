@@ -72,7 +72,7 @@ function ShowcaseCard({ eventTemplate }: { eventTemplate: EventTemplate }) {
   return (
     <div
       key={eventTemplate.title}
-      className="flex flex-col overflow-hidden transition-colors bg-white rounded-md drop-shadow-lg hover:bg-light"
+      className="flex flex-col overflow-hidden transition-colors bg-white rounded-md drop-shadow-md"
     >
       <div className="">
         <Image img={image}  alt={eventTemplate.title} />
