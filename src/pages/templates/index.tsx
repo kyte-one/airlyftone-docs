@@ -156,7 +156,7 @@ function ShowcaseFilters() {
   const filteredEventTemplates = useFilteredEventTemplates();
   const siteCountPlural = useSiteCountPlural();
   return (
-    <section className="container margin-top--l margin-bottom--lg">
+    <section className="container">
       <div className={clsx("margin-bottom--sm", styles.filterCheckbox)}>
         <div>
           <h2>
@@ -282,7 +282,7 @@ function ShowcaseCards() {
 export default function Showcase(): JSX.Element {
   return (
     <Layout title={TITLE} description={DESCRIPTION}>
-      <main className="margin-vert--lg">
+      <main className="container mx-auto">
         <ShowcaseHeader />
         <ShowcaseFilters />
         <ShowcaseCards />
