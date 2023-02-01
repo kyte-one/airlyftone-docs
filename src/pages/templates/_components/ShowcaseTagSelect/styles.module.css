@@ -8,6 +8,7 @@
 .checkboxLabel:hover {
   opacity: 1;
   box-shadow: 0 0 2px 1px var(--ifm-color-secondary-darkest);
+
 }
 
 input[type='checkbox'] + .checkboxLabel {
@@ -28,11 +29,11 @@ input:focus-visible + .checkboxLabel {
 
 input:checked + .checkboxLabel {
   opacity: 0.9;
-  background-color: var(--site-color-checkbox-checked-bg);
+  background-color: var(--ifm-color-primary-lightest);
   border: 2px solid var(--ifm-color-primary-darkest);
 }
 
 input:checked + .checkboxLabel:hover {
   opacity: 0.75;
-  box-shadow: 0 0 2px 1px var(--ifm-color-primary-dark);
+  /* box-shadow: 0 0 2px 1px var(--ifm-color-primary-dark); */
 }

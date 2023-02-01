@@ -46,25 +46,34 @@ export default function ShowcaseFilterToggle(): JSX.Element {
 
   return (
     <div>
-      <input
-        type="checkbox"
-        id={id}
-        className="appearance-none"
-        aria-label="Toggle between or and and for the tags you selected"
-        onChange={toggleOperator}
-        onKeyDown={(e) => {
-          if (e.key === 'Enter') {
-            toggleOperator();
-          }
-        }}
-        checked={operator}
-      />
-      <label htmlFor={id} className={clsx(styles.checkboxLabel, 'shadow--md')}>
+      <div className="flex items-center px-3 py-2 space-x-3 border-solid rounded-full shadow border-accent-200">
         {/* eslint-disable @docusaurus/no-untranslated-text */}
-        <span className={styles.checkboxLabelOr}>OR</span>
-        <span className={styles.checkboxLabelAnd}>AND</span>
+        <span className="text-sm font-medium uppercase">OR</span>
         {/* eslint-enable @docusaurus/no-untranslated-text */}
-      </label>
+        <label
+          htmlFor={id}
+          className="relative inline-flex items-center cursor-pointer"
+        >
+          <input
+            type="checkbox"
+            id={id}
+            className="sr-only peer"
+            aria-label="Toggle between or and and for the tags you selected"
+            onChange={toggleOperator}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter') {
+                toggleOperator();
+              }
+            }}
+            checked={operator}
+          />
+
+          <div className="h-6 w-11 rounded-full bg-accent-500 after:absolute after:top-0.5 after:left-0.5 after:h-5 after:w-5 after:rounded-full after:bg-white after:shadow after:transition-all after:content-['']  peer-checked:bg-accent-600 peer-checked:after:translate-x-full peer-checked:after:border-white peer-focus:ring-4 peer-focus:ring-accent-200 peer-disabled:cursor-not-allowed peer-disabled:bg-gray-100 peer-disabled:after:bg-gray-50"></div>
+        </label>
+        {/* eslint-disable @docusaurus/no-untranslated-text */}
+        <div className="text-sm font-medium uppercase">AND</div>
+        {/* eslint-enable @docusaurus/no-untranslated-text */}
+      </div>
     </div>
   );
 }

@@ -126,8 +126,8 @@ function useFilteredEventTemplates() {
 function ShowcaseHeader() {
   return (
     <section className="py-16 text-center">
-      <h1 className='text-4xl font-heading'>{TITLE}</h1>
-      <p className='text-lg'>{DESCRIPTION}</p>
+      <h1 className="text-4xl font-heading">{TITLE}</h1>
+      <p className="text-lg">{DESCRIPTION}</p>
     </section>
   );
 }
@@ -152,48 +152,52 @@ function ShowcaseFilters() {
   const siteCountPlural = useSiteCountPlural();
   return (
     <section className="container">
-      <div className={clsx('margin-bottom--sm', styles.filterCheckbox)}>
-        <div>
-          <h2>
-            <Translate id="showcase.filters.title">Filter Task Types</Translate>
-          </h2>
-          <span>{siteCountPlural(filteredEventTemplates.length)}</span>
+      <div className="p-4 border-2 border-solid rounded-md shadow border-accent-300 bg-light">
+        <div className={clsx('', styles.filterCheckbox)}>
+          <div className="flex-col md:flex-row">
+            <h2 className='flex flex-col items-center md:flex-row'>
+              <Translate id="showcase.filters.title">
+                Filter Task Types
+              </Translate>
+              <span className='px-2 py-1 mx-2 text-sm font-normal text-white rounded-full whitespace-nowrap bg-accent-500'>{siteCountPlural(filteredEventTemplates.length)}</span>
+            </h2>
+          </div>
+          <ShowcaseFilterToggle />
         </div>
-        <ShowcaseFilterToggle />
-      </div>
-      <ul className={clsx('clean-list', styles.checkboxList)}>
-        {TagList.map((tag, i) => {
-          const { label, description, color } = Tags[tag];
-          const id = `showcase_checkbox_id_${tag}`;
+        <ul className={clsx('clean-list', styles.checkboxList)}>
+          {TagList.map((tag, i) => {
+            const { label, description, color } = Tags[tag];
+            const id = `showcase_checkbox_id_${tag}`;
 
-          return (
-            <li key={i} className={styles.checkboxListItem}>
-              <ShowcaseTooltip
-                id={id}
-                text={description}
-                anchorEl="#__docusaurus"
-              >
-                <ShowcaseTagSelect
-                  tag={tag}
+            return (
+              <li key={i} className={styles.checkboxListItem}>
+                <ShowcaseTooltip
                   id={id}
-                  label={label}
-                  icon={
-                    <span
-                      style={{
-                        backgroundColor: color,
-                        width: 10,
-                        height: 10,
-                        borderRadius: '50%',
-                        marginLeft: 8,
-                      }}
-                    />
-                  }
-                />
-              </ShowcaseTooltip>
-            </li>
-          );
-        })}
-      </ul>
+                  text={description}
+                  anchorEl="#__docusaurus"
+                >
+                  <ShowcaseTagSelect
+                    tag={tag}
+                    id={id}
+                    label={label}
+                    icon={
+                      <span
+                        style={{
+                          backgroundColor: color,
+                          width: 10,
+                          height: 10,
+                          borderRadius: '50%',
+                          marginLeft: 8,
+                        }}
+                      />
+                    }
+                  />
+                </ShowcaseTooltip>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
     </section>
   );
 }
@@ -210,7 +214,7 @@ function SearchBar() {
       <input
         id="searchbar"
         placeholder={translate({
-          message: 'Search for site name...',
+          message: 'Search for template...',
           id: 'showcase.searchBar.placeholder',
         })}
         value={value ?? undefined}

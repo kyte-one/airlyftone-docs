@@ -18,11 +18,11 @@ html {
   --site-color-tooltip-background: #353738;
   --ifm-color-primary: #5948d1;
   --ifm-color-primary-dark: #4338ca;
-  --ifm-color-primary-darker: #252085;
-  --ifm-color-primary-darkest: #13125e;
+  --ifm-color-primary-darker: #3730a3;
+  --ifm-color-primary-darkest: #312e81;
   --ifm-color-primary-light: #806fde;
   --ifm-color-primary-lighter: #a99beb;
-  --ifm-color-primary-lightest: #d4cbf7;
+  --ifm-color-primary-lightest: #eef2ff;
   --ifm-code-font-size: 95%;
   --ifm-button-color: var(--ifm-color-gray-900);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
