@@ -22,11 +22,7 @@ At times, projects in order to guage the performance of campaign needs to check 
 
 ![submissions data](../images/submissionpage.png)
 
-:::tip This document is in progress, for instant help
-
+:::tip For instant help
 1. Email us at support@kyte.one
-2. Join [this Telegram group](https://t.me/kyteone): https://t.me/kyteone
-
-**_The AirLyft Team is there to help you. AirLyft is a platform to run marketing events, campaigns, quests and automatically distribute NFTs or Tokens as rewards._**
-
+2. Join our official [Telegram group](https://t.me/kyteone)
 :::
