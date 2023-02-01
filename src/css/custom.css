@@ -31,6 +31,8 @@ html {
   --ifm-footer-title-color: #eef2ff;
   --ifm-footer-color: #eef2ff;
   --ifm-footer-link-hover-color: #e0e7ff;
+  --ifm-menu-link-padding-vertical: 0.7rem;
+  /* --ifm-menu-link-padding-vertical: 0.7rem; */
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode.*/
@@ -46,6 +48,7 @@ html {
   --ifm-color-secondary: #373737;
   --ifm-button-color: var(--ifm-color-white-100);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-emphasis-300: #e0e7ff;
 }
 /* .screen-reader-only {
   border: 0;
@@ -72,4 +75,10 @@ html {
 }*/
 .link-button {
   @apply bg-accent-600 flex items-center hover:bg-opacity-90 transition-colors hover:no-underline hover:text-white justify-center gap-2 text-white px-4 py-2 border-none rounded-md font-medium;
+}
+.pagination-nav__link {
+  background-color: #f3f4fe;
+}
+.pagination-nav__link:hover {
+  background-color: #eef2ff;
 }
