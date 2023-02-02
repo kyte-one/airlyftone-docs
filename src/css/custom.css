@@ -1,28 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Poppins:wght@700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: 'Inter', sans-serif;
+}
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+/* You can override the default Infima variables here.*/
 :root {
   --site-color-tooltip: #fff;
   --site-color-tooltip-background: #353738;
   --ifm-color-primary: #5948d1;
-  --ifm-color-primary-dark: #3c32ab;
-  --ifm-color-primary-darker: #252085;
-  --ifm-color-primary-darkest: #13125e;
+  --ifm-color-primary-dark: #4338ca;
+  --ifm-color-primary-darker: #3730a3;
+  --ifm-color-primary-darkest: #312e81;
   --ifm-color-primary-light: #806fde;
   --ifm-color-primary-lighter: #a99beb;
-  --ifm-color-primary-lightest: #d4cbf7;
+  --ifm-color-primary-lightest: #eef2ff;
   --ifm-code-font-size: 95%;
   --ifm-button-color: var(--ifm-color-gray-900);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-footer-link-color: #eef2ff;
+  --ifm-footer-background-color: #4338ca;
+  --ifm-footer-title-color: #eef2ff;
+  --ifm-footer-color: #eef2ff;
+  --ifm-footer-link-hover-color: #e0e7ff;
+  --ifm-menu-link-padding-vertical: 0.7rem;
+  /* --ifm-menu-link-padding-vertical: 0.7rem; */
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* For readability concerns, you should choose a lighter palette in dark mode.*/
 [data-theme='dark'] {
-  --ifm-color-primary: #FFDC5F;
+  --ifm-color-primary: #ffdc5f;
   --ifm-color-primary-dark: #f8d34c;
   --ifm-color-primary-darker: #f7d042;
   --ifm-color-primary-darkest: #f3c20f;
@@ -31,12 +46,11 @@
   --ifm-color-primary-lightest: #f9edc1;
   --ifm-button-background-color: #f9edc1;
   --ifm-color-secondary: #373737;
-  --ifm-button-color: var(--ifm-color-white-100)
+  --ifm-button-color: var(--ifm-color-white-100);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  
+  --ifm-color-emphasis-300: #e0e7ff;
 }
-
-.screen-reader-only {
+/* .screen-reader-only {
   border: 0;
   clip: rect(0 0 0 0);
   clip-path: polygon(0 0, 0 0, 0 0);
@@ -47,7 +61,10 @@
   position: absolute;
   width: 1px;
   white-space: nowrap;
-}
+} */
+/*
+
+
 
 .button.button--secondary {
   color: var(--ifm-button-color);
@@ -55,4 +72,13 @@
 
 .button.button--secondary:hover {
   background-color: var(--ifm-color-secondary) ;
+}*/
+.link-button {
+  @apply bg-accent-600 flex items-center hover:bg-opacity-90 transition-colors hover:no-underline hover:text-white justify-center gap-2 text-white px-4 py-2 border-none rounded-md font-medium;
+}
+.pagination-nav__link {
+  background-color: #f3f4fe;
+}
+.pagination-nav__link:hover {
+  background-color: #eef2ff;
 }

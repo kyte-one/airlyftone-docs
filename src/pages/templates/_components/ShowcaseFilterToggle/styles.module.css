@@ -6,7 +6,7 @@
  */
 
 .checkboxLabel {
-  --height: 25px;
+  --height: 30px;
   --width: 80px;
   --border: 2px;
   display: flex;
@@ -21,6 +21,7 @@
   transition: opacity var(--ifm-transition-fast)
     var(--ifm-transition-timing-default);
   box-shadow: var(--ifm-global-shadow-md);
+  font-weight: 500;
 }
 
 .checkboxLabel:hover {
@@ -50,6 +51,9 @@ input:focus-visible ~ .checkboxLabel::after {
   font-size: 0.8rem;
   color: inherit;
   transition: opacity 150ms ease-in 50ms;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 input:checked ~ .checkboxLabel::after {
