@@ -119,7 +119,7 @@ const config = {
             type: 'html',
             position: 'right',
             value:
-              '<a target="_blank" href="https://apps.airlyft.one" class="link-button">Use App <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#eef2ff" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><rect x="40" y="72" width="144" height="144" rx="8" opacity="0.2"></rect><polyline points="216 100 216 40 156 40" fill="none" stroke="#eef2ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline><line x1="144" y1="112" x2="216" y2="40" fill="none" stroke="#eef2ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></line><path d="M184,144v64a8,8,0,0,1-8,8H48a8,8,0,0,1-8-8V80a8,8,0,0,1,8-8h64" fill="none" stroke="#eef2ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path></svg></a>',
+              '<a target="_blank" href="https://app.airlyft.one" class="link-button">Go to App <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#eef2ff" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><rect x="40" y="72" width="144" height="144" rx="8" opacity="0.2"></rect><polyline points="216 100 216 40 156 40" fill="none" stroke="#eef2ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline><line x1="144" y1="112" x2="216" y2="40" fill="none" stroke="#eef2ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></line><path d="M184,144v64a8,8,0,0,1-8,8H48a8,8,0,0,1-8-8V80a8,8,0,0,1,8-8h64" fill="none" stroke="#eef2ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></path></svg></a>',
           },
           {
             type: 'html',
