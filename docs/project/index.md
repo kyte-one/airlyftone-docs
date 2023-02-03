@@ -1,10 +1,10 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 ---
 
-# Dashboard
+# Project
 
-This guide portion of AirLyft's project account documentation will walk you through using the platform step-by-step.
+A Project is a starting point to Airlyft. Here you can specify your project details like website, socials, tokenomincs and so on.
 
 :::tip For instant help
 
