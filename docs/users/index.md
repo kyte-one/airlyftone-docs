@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
 
-# User Guides
+# Participation Guides
 
 :::tip This document is in progress, for instant help
 

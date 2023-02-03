@@ -45,13 +45,14 @@
 
 .searchContainer {
   margin-left: auto;
+  margin-bottom: 0.5rem;
 }
 
 .searchContainer input {
-  height: 30px;
-  border-radius: 15px;
-  padding: 10px;
-  border: 1px solid gray;
+  border-radius: 20px;
+  padding: 10px 15px;
+  border: 2px solid gray;
+  font-size: 1rem;
 }
 
 .showcaseList {
