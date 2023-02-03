@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 ---
 
 # Blockchains Supported
@@ -8,10 +8,9 @@ sidebar_position: 8
 
 | Chain               | Read Contracts | Create ERC1155 | Create ERC721 | Lock Existing ERC1155 | Lock Existing ERC721 | Lock Existing ERC20 |
 | ------------------- | -------------- | -------------- | ------------- | --------------------- | -------------------- | ------------------- |
-| BNB Chain           | Yes            | Yes            | Yes           | Yes                   | No                   | No                  |
-| Moonriver           | Yes            | No             | No            | No                    | No                   | No                  |
-| Moonbeam            | Yes            | No             | No            | No                    | No                   | No                  |
-| Shardeum Libery 2.1 | Yes            | No             | No            | No                    | No                   | No                  |
+| BNB Chain           | Yes            | Yes            | Yes           | Coming Soon           | Coming Soon          | Coming Soon         |
+| Moonriver           | Yes            | Yes            | Yes           | Coming Soon           | Coming Soon          | Coming Soon         |
+| Moonbeam            | Yes            | Yes            | Yes           | Coming Soon           | Coming Soon          | Coming Soon         |
 | Telos               | Yes            | No             | No            | No                    | No                   | No                  |
 | Avalanche           | Yes            | No             | No            | No                    | No                   | No                  |
 | Polygon             | Yes            | No             | No            | No                    | No                   | No                  |
