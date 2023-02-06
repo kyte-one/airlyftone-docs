@@ -5,41 +5,38 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import React, { useState, useMemo, useEffect } from 'react';
-import clsx from 'clsx';
-import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
-import Translate, { translate } from '@docusaurus/Translate';
-import { useHistory, useLocation } from '@docusaurus/router';
-import { usePluralForm } from '@docusaurus/theme-common';
+import ExecutionEnvironment from "@docusaurus/ExecutionEnvironment";
+import { useHistory, useLocation } from "@docusaurus/router";
+import { usePluralForm } from "@docusaurus/theme-common";
+import Translate, { translate } from "@docusaurus/Translate";
+import clsx from "clsx";
+import React, { useEffect, useMemo, useState } from "react";
 
-import Link from '@docusaurus/Link';
-import Layout from '@theme/Layout';
-import FavoriteIcon from '../../components/svgIcons/FavoriteIcon';
+import Layout from "@theme/Layout";
 import {
   EventTemplates,
-  Tags,
   TagList,
+  Tags,
   type EventTemplate,
   type TagType,
-} from '../../data/templates';
+} from "../../data/templates";
+import ShowcaseCard from "./_components/ShowcaseCard";
+import ShowcaseFilterToggle, {
+  readOperator,
+  type Operator,
+} from "./_components/ShowcaseFilterToggle";
 import ShowcaseTagSelect, {
   readSearchTags,
-} from './_components/ShowcaseTagSelect';
-import ShowcaseFilterToggle, {
-  type Operator,
-  readOperator,
-} from './_components/ShowcaseFilterToggle';
-import ShowcaseCard from './_components/ShowcaseCard';
-import ShowcaseTooltip from './_components/ShowcaseTooltip';
+} from "./_components/ShowcaseTagSelect";
+import ShowcaseTooltip from "./_components/ShowcaseTooltip";
 
-import styles from './styles.module.css';
+import styles from "./styles.module.css";
 
-const TITLE = translate({ message: 'AirLyft Event Templates' });
+const TITLE = translate({ message: "AirLyft Event Templates" });
 const DESCRIPTION = translate({
   message:
-    'Browse through contests, giveaways and marketing campaign templates that you can use for growing your web3 project.',
+    "Browse through contests, giveaways and marketing campaign templates that you can use for growing your web3 project.",
 });
-const SUBMIT_URL = 'https://github.com/facebook/docusaurus/discussions/7826';
 
 type EventTemplateState = {
   scrollTopPosition: number;
@@ -69,7 +66,7 @@ export function prepareEventTemplateState(): EventTemplateState | undefined {
   return undefined;
 }
 
-const SearchNameQueryKey = 'name';
+const SearchNameQueryKey = "name";
 
 function readSearchName(search: string) {
   return new URLSearchParams(search).get(SearchNameQueryKey);
@@ -94,7 +91,7 @@ function filterEventTemplates(
     if (eventTemplate.tags.length === 0) {
       return false;
     }
-    if (operator === 'AND') {
+    if (operator === "AND") {
       return selectedTags.every((tag) => eventTemplate.tags.includes(tag));
     }
     return selectedTags.some((tag) => eventTemplate.tags.includes(tag));
@@ -103,7 +100,7 @@ function filterEventTemplates(
 
 function useFilteredEventTemplates() {
   const location = useLocation<EventTemplateState>();
-  const [operator, setOperator] = useState<Operator>('OR');
+  const [operator, setOperator] = useState<Operator>("OR");
   // On SSR / first mount (hydration) no tag is selected
   const [selectedTags, setSelectedTags] = useState<TagType[]>([]);
   const [searchName, setSearchName] = useState<string | null>(null);
@@ -127,7 +124,7 @@ function ShowcaseHeader() {
   return (
     <section className="py-16 text-center">
       <h1 className="text-4xl font-heading">{TITLE}</h1>
-      <p className="text-lg">{DESCRIPTION}</p>
+      <p className="text-lg">{DESCRIPTION} </p>
     </section>
   );
 }
@@ -139,8 +136,8 @@ function useSiteCountPlural() {
       sitesCount,
       translate(
         {
-          id: 'showcase.filters.resultCount',
-          message: '1 template|{sitesCount} templates',
+          id: "showcase.filters.resultCount",
+          message: "1 template|{sitesCount} templates",
         },
         { sitesCount }
       )
@@ -153,18 +150,20 @@ function ShowcaseFilters() {
   return (
     <section className="container">
       <div className="p-4 border-2 border-solid rounded-md shadow border-accent-300 bg-light">
-        <div className={clsx('', styles.filterCheckbox)}>
+        <div className={clsx("", styles.filterCheckbox)}>
           <div className="flex-col md:flex-row">
-            <h2 className='flex flex-col items-center md:flex-row'>
+            <h2 className="flex flex-col items-center md:flex-row">
               <Translate id="showcase.filters.title">
                 Filter Task Types
               </Translate>
-              <span className='px-2 py-1 mx-2 text-sm font-normal text-white rounded-full whitespace-nowrap bg-accent-500'>{siteCountPlural(filteredEventTemplates.length)}</span>
+              <span className="px-2 py-1 mx-2 text-sm font-normal text-white rounded-full whitespace-nowrap bg-accent-500">
+                {siteCountPlural(filteredEventTemplates.length)}
+              </span>
             </h2>
           </div>
           <ShowcaseFilterToggle />
         </div>
-        <ul className={clsx('clean-list', styles.checkboxList)}>
+        <ul className={clsx("clean-list", styles.checkboxList)}>
           {TagList.map((tag, i) => {
             const { label, description, color } = Tags[tag];
             const id = `showcase_checkbox_id_${tag}`;
@@ -186,7 +185,7 @@ function ShowcaseFilters() {
                           backgroundColor: color,
                           width: 10,
                           height: 10,
-                          borderRadius: '50%',
+                          borderRadius: "50%",
                           marginLeft: 8,
                         }}
                       />
@@ -214,8 +213,8 @@ function SearchBar() {
       <input
         id="searchbar"
         placeholder={translate({
-          message: 'Search for template...',
-          id: 'showcase.searchBar.placeholder',
+          message: "Search for template...",
+          id: "showcase.searchBar.placeholder",
         })}
         value={value ?? undefined}
         onInput={(e) => {
@@ -231,7 +230,7 @@ function SearchBar() {
             state: prepareEventTemplateState(),
           });
           setTimeout(() => {
-            document.getElementById('searchbar')?.focus();
+            document.getElementById("searchbar")?.focus();
           }, 0);
         }}
       />
@@ -261,11 +260,20 @@ function ShowcaseCards() {
     <section className="margin-top--lg margin-bottom--xl">
       <div className="container">
         <div
-          className={clsx('margin-bottom--md', styles.showcaseFavoriteHeader)}
+          className={clsx("margin-bottom--md", styles.showcaseFavoriteHeader)}
         >
+          <div>
+            <a
+              target="_blank"
+              href="/event/event-create-update/event-template"
+              className="link-button"
+            >
+              Learn to use templates
+            </a>
+          </div>
           <SearchBar />
         </div>
-        <ul className={clsx('clean-list', styles.showcaseList)}>
+        <ul className={clsx("clean-list", styles.showcaseList)}>
           {filteredEventTemplates.map((eventTemplate) => (
             <ShowcaseCard
               key={eventTemplate.title}
