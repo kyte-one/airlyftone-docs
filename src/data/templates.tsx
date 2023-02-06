@@ -1,5 +1,4 @@
 import { translate } from "@docusaurus/Translate";
-import { sortBy } from "../utils/jsUtils";
 
 export type TagType =
   | "twitter"
@@ -14,6 +13,14 @@ export type TagType =
 // Add sites to this list
 // prettier-ignore
 export const EventTemplates: EventTemplate[] = [
+  {
+    title: 'Proof of Love V-Day',
+    description: 'Quickly create your Proof of Love NFT Campaign using this easy to use, Valentines Day template',
+    preview: require('./templates/love.jpeg'),
+    website: 'https://app.airlyft.one/airlyft-docs/ValentinesTemplate',
+    source: 'https://account.airlyft.one',
+    tags: ['evm', 'twitter', 'telegram', 'discord'],
+  },
   {
     title: 'Swap & Win DEX Promotion',
     description: 'Promote onchain actions on your dApp like a DEX by verifying the actions and giving rewards using this simple template.',

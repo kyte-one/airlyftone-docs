@@ -44,8 +44,7 @@
 }
 
 .searchContainer {
-  margin-left: auto;
-  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
 }
 
 .searchContainer input {
@@ -70,6 +69,7 @@
 .showcaseFavoriteHeader {
   display: flex;
   align-items: center;
+  justify-content: end;
 }
 
 .showcaseFavoriteHeader > h2 {
