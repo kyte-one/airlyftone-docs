@@ -8,31 +8,31 @@ It is possible that the marketing strategies change last minute and projects mig
 
 - Login to AirLyft and once you are on the dashboard, please click on AirPool icon as shown in the screenshot below.
 
-![AirPool Dashboard](../../../images/createErc20pool.png)
+![AirPool Dashboard](../images/createErc20pool.png)
 
 ## Deposit
 
 - In order to deposit more funds to your existing AirPool, select the pool on which you would like to add funds and then click on the More option against that pool. 
 
-![Deposit Fund](../../../images/depositairpool.png)
+![Deposit Fund](../images/depositairpool.png)
 
 - Next, deposit box opens up in which you can view the already existing pool details and below, it would ask you to enter the amount you want to deposit more along with selection of wallet from which you would be adding the funds. Once selected, click on approve button as shown in screenshot below.
 
-![deposit approve](../../../images/depositapprove.png)
+![deposit approve](../images/depositapprove.png)
 
 - Once approved, you will now be presented with the deposit option. Click on deposit and voila, you have successfully added funds to your AirPool reward pool.
 
-![deposit final](../../../images/depositfinal.png)
+![deposit final](../images/depositfinal.png)
 
 ## Withdraw
 
 - To withdraw from created reward pool, select the pool on which you would like to add funds and then click on the More option against that pool and select Withdraw from the drop-down list.
 
-![Deposit Fund](../../../images/depositairpool.png)
+![Deposit Fund](../images/depositairpool.png)
 
 - Next, withdraw box opens up in which you can view the already existing pool details and below, it would ask you to enter the amount you want to withdraw along with selection of wallet on which you would be withdrawing the funds. Once selected, click on Withdraw button as shown in screenshot below.
 
-![Withdraw Final](../../../images/withdrawfinal.png)
+![Withdraw Final](../images/withdrawfinal.png)
 
 - And voila, your funds have been successfully withdrawn to your source account. 
 
