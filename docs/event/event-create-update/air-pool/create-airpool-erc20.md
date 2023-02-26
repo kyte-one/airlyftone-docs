@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Creating ERC 20 Air Pool
+# Creating ERC20 Air Pool
 
 This article focuses on how to create your first ERC20 or XC20 reward pool on AirLyft.
 
