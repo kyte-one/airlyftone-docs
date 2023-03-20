@@ -38,6 +38,14 @@ export const EventTemplates: EventTemplate[] = [
     tags: ['evm', 'dotsama'],
   },
   {
+    title: 'Viral Share Campaigns',
+    description: 'Use this template to create viral campaigns, & give referral bonus through the Airboost Referral task.',
+    preview: require('./templates/refer.jpg'),
+    website: 'https://app.airlyft.one/airlyft-docs/referral-giveaway',
+    source: 'https://account.airlyft.one',
+    tags: ['twitter','evm'],
+  },
+  {
     title: 'Metamask connect with twitter tasks',
     description: 'Ask users to spread the word on twitter and connect their metamask wallets for rewards (10+ blockchains supported).',
     preview: require('./templates/twittermetamask.jpeg'),
