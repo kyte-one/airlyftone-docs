@@ -1,6 +1,6 @@
 # REST API Integration
 
-Since not all data is stored on a blockchain, AirLyft offers a comprehensive solution for those seeking to create and validate more in-depth actions based on your own product functionality. Simply prepare your custom endpoints and connect them to our quests making your campaign experience smoother.
+Since not all data is stored on a blockchain, AirLyft offers a comprehensive solution for those seeking to create and validate more in-depth actions based on your own product functionality. Simply let your development team create custom endpoints and connect them to our quests making your campaign experience smoother.
 
 AirLyft integrates with any system that provides REST API access. Users can link their EVM/Substrate wallets, provide signatures for ownership verification, and then transmit their wallet address to the API, either as query params, body, or headers.
 
