@@ -12,7 +12,7 @@ XP denotes Experience Points that you have earned. XP determines:
 
 1. The Level of a participant in a community
 2. The position of the user in the leaderboard
-3. The rank a user receives in a [Ranked Random Raffle](./event-create-update/rewards/ranked-random)
+3. The rank a user receives in a Ranked Random Raffle (Only the XP earned within a campaign)
 
 # What is Fuel
 
