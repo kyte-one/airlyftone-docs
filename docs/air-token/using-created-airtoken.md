@@ -6,8 +6,6 @@ Now that you have your ERC 721 abd ERC 1155 AirToken created, the next step is t
 
 - Next, headover to top right part of your screen where you can see the button "Create Event". Click on the button as shown in screenshot below.
 
-    ![Create Event](../images/CreateEvent.png)
-
 - Next, fill up the basic details and then creation actions on the select apps tab. While these are self explanatory, however, you can still refer to the event creation and task creation documents here for a much better understanding. 
 
 - Once your details are filled and tasks have been created, the last step is to create your reward distribution strategy. Just so that we are on the same page, here is a screenshot showing the reward distribution page. 
