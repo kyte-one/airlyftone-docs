@@ -8,11 +8,14 @@ Indexing Protocol is a way used by applications to query open APIs to get data t
 
 Based on what indexing protocol is implemented at your product to store on-chain data, you can select based on your requirements and then move ahead with the creation of on-chain decentralized action. Let's take a deep dive look at how we can create a decentralized action using Indexing Protocol integration.
 
-- Login to AirLyft and create an event. On the event page, click on the select Apps tab where you can find the Subquery, SubGraph, and SubSquid integration blocks. 
+- Login to AirLyft and create an event. On the event page, click on the select Apps tab where you can find the Graph Indexer integration block. 
 
 ![Indexer Integration](../../images/indexMain.png)
 
-- Next, select the sort of indexing protocol your project supports and click on it. 
+- Next, select the sort of indexing protocol your project supports and click on it.
+
+![Indexer Types](../../images/indexTypes.png)
+
 - Expand the basic details option to enter the Title, Description, and Entries. It is advisable to elaborate on the title and description so that participants have a much greater understanding of the task. 
 - Secondly, select the type of blockchain on which you want to create this on-chain decentralized action. i.e. EVM, Dotsama, or any upcoming blockchains.
 - Next, select the Blockchain for the participant's wallet, the network on which a participant will be performing the on-chain task. 

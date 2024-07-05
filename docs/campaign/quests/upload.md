@@ -6,7 +6,9 @@ Projects love engaging with the community and on a regular basis perform engagem
 
 ![Media Main](../../images/MediaMain.png)
 
-- Next, expand the basic details option to enter the Title, Description, and Entries. It is advisable to elaborate on the title and description so that participants have a much greater understanding of the task. You can also provide a screenshot example that gives a better perspective of what type of contents users need to upload. **Do take a note of the dimensions which is 598px X 288px!**
+- Next, expand the basic details option to enter the Title, Description, and Entries. It is advisable to elaborate on the title and description so that participants have a much greater understanding of the task. You can also provide a screenshot example that gives a better perspective of what type of contents users need to upload. **Do take a note of the dimensions which is 640px X 360px!**
+
+- Then select the type of verification you want for the task. If you select 'Manually verify submissions', then you'll be able to manually mark submissions to accept, if you select 'Accept all submissions', then all submissions will be accepted.
 
 ![Media Basic](../../images/Mediabasic.png)
 

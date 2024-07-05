@@ -2,8 +2,7 @@
 
 Twitter is by far one of the most important social channel that probably any web 3 companies look forward to for building, scaling, and engaging their communities. With that in mind, we have integrated Twitter actions on AirLyft that projects can create action on and ask their community members to complete. In this module, we will be discussing below Twitter actions. 
 
-- [Retweet a post on Twitter](#retweet-a-post-on-twitter)
-- [Like a post on Twitter](#like-a-post-on-twitter)
+- [Like and Retweet a post on Twitter](#like-and-retweet-a-post-on-twitter)
 - [Tweet Specific Content on Twitter](#tweet-specific-content-on-twitter)
 - [Follow an account on Twitter](#follow-an-account-on-twitter)
 - [User Generated Content on Twitter](#user-generated-content-on-twitter)
@@ -18,33 +17,20 @@ Creating these actions are very simple and straight forward at AirLyft. Let's di
 
 ![](../../images/TwitterOptions.png)
 
-#### Retweet a post on Twitter
+#### Like and Retweet a post on Twitter
 
-Follow these simple steps below on how to create retweet tasks on AirLyft. 
+Follow these simple steps below on how to create like & retweet tasks on AirLyft. 
 
-- As shown in screenshot above, click on the Twitter box where you can find the Retweet option. Click on it. 
-- Next, click on the basic details option to enter the Title, Description and Entries. It is advisable to elaborate the title and description so that participants have a much greater understanding of task. 
+- As shown in screenshot above, click on the Twitter box where you can find the Like & Retweet option. Click on it. 
+- Next, click on the basic details option to enter the Title, Description, XP and cFuel. It is advisable to elaborate the title and description so that participants have a much greater understanding of task. 
 
-![](../../images/RetweetBasics.png)
+![](../../images/LikeRetweetBasics.png)
 
-- Now the only thing left is to enter the URL of tweet that you want your participants to retweet.
+- Now the only thing left is to enter the URL of tweet that you want your participants to like and retweet, and under actions select the actions that you want the user to perform.
 
-![](../../images/RetweetURL.png)
+![](../../images/LikeRetweetURL.png)
 
-- Finally, click on Add Task Button and your Retweet task has been added successfully. 
-
-#### Like a post on Twitter
-
-- Like we did earlier, headover to Twitter box and now click on the Like option. 
-- Next, click on the basic details option to enter the Title, Description and Entries. It is advisable to elaborate the title and description so that participants have a much greater understanding of task. 
-
-![](../../images/LikeBasics.png)
-
-- Now the only thing left is to enter the URL of tweet that you want your participants to Like.
-
-![](../../images/LikeURL.png)
-
-- Finally, click on ** Add Task ** Button and your Like task has been added successfully. 
+- Finally, click on ** Add Task ** Button and your Like & Retweet task has been added successfully. 
 
 #### Tweet Specific Content on Twitter
 

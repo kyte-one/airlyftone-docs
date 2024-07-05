@@ -10,11 +10,11 @@ Certain projects prefer manual distribution of rewards, or wants to distribute r
 
 ![Wallet Options](../../images/WalletEvmDotsama.png)
 
-- Let's first select EVM Wallet address. Click on it and you will be provided with two input where firstly, you need to enter the basic details of task such as Title, Description, Entries. And the second input is to select the blockchain for which you want to verify and collect users public address. Once selected, click on Add Task to add this to your upcoming campaign.
+- Let's first select EVM Wallet address. Click on it and you will be provided with two input where firstly, you need to enter the basic details of task such as Title, Description, Entries. And the second input is to select the blockchain for which you want to verify and collect users public address. Then, select the 'Wallet Collection Type' and 'Verification Type' you want. Once selected, click on Add Task to add this to your upcoming campaign.
 
 ![EVM Wallet Address Collect](../../images/EVMWalletCollect.png)
 
-- Moving towards collection of Dotsama Wallet Address. Click on it and you will be provided with two input where firstly, you need to enter the basic details of task such as Title, Description, Entries. And the second input is to select from the list of Dotsama parachains, sister chains from the list, for which you want to verify and collect users public address. Once selected, click on Add Task to add this to your upcoming campaign.
+- Moving towards collection of Dotsama Wallet Address. Click on it and you will be provided with two input where firstly, you need to enter the basic details of task such as Title, Description, Entries. And the second input is to select from the list of Dotsama parachains, sister chains from the list, for which you want to verify and collect users public address. Then, select the 'Wallet Collection Type' and 'Verification Type' you want. After that choose the wallets you want to allow. Once selected, click on Add Task to add this to your upcoming campaign.
 
 ![Dotsama Wallet Collect](../../images/DotsamaWalletCollect.png)
 
