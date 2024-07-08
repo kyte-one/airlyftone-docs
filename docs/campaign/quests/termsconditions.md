@@ -17,6 +17,6 @@ The Terms & Conditions module allows companies to define the rules and guideline
 
 ![Terms & Conditions Box](../../images/TermsConditionsBox.png)
 
-- Now, lets take a look at how to add the **Dotsama Wallet Signature** task, select the T&C Box option , then enter the basic details like title, description, cFuel and XP. You can also add the conditions for completing this task. After that, select the blockchain required to sign the terms, then write the terms & conditions for the giveaway. Then, click on 'Add Task'.
+- Now, lets take a look at how to add the **Dotsama Wallet Signature** task, select the DOtsama Wallet Signature option , then enter the basic details and the conditions for completing this task. After that, select the blockchain required to sign the terms, then write the terms & conditions for the giveaway. Then, click on 'Add Task'.
 
 ![Dotsama Wallet Signature](../../images/TermsConditionsDotsama.png)

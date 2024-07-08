@@ -24,7 +24,7 @@ Let's dive deep on how we can create these actions at AirLyft.
         - **Date:** It only allows user to perform a task before or after the set date.
         - **Max Participants:** The task is locked after a certain number of users have completed it.
 
-![email basic](../../images/EmailBasic.png)
+![Email Basic](../../images/EmailBasics.png)
 
 - Coming to the main part, which is Verification type, projects are provided with 2 options as mentioned below. 
     - **Reward Entries to all verified members**: As the name suggests, entries will be rewarded to every participant who would enter their email and verify those emails by clicking on the verification link that will be generated. Please check your SPAM folder too if the email isn't in your inbox. 

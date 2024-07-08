@@ -12,7 +12,7 @@ Projects love engaging with the community and on a regular basis perform engagem
     - **Manually verify submissions:** Manually select which submission to mark as valid.
     - **Accept all submissions:** All submissions are automatically marked as valid.
 
-![Media Basic](../../images/MediaBasic.png)
+![Media Basics](../../images/MediaBasics.png)
 
 - Finally click on **Add Task** and that's it. Your media task creation is complete and ready for campaign.
 

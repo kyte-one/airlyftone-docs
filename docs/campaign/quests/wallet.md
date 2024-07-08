@@ -14,7 +14,7 @@ Certain projects prefer manual distribution of rewards, or wants to distribute r
 
 ![EVM Wallet Address Collect](../../images/EVMWalletCollect.png)
 
-- Moving towards collection of Dotsama Wallet Address. Click on it and you will be provided with two input where firstly, you need to enter the basic details of task such as Title, Description, cFuel and XP. And the second input is to select the conditions you want for the task, there are four options: Task Completed (based on another task's status), Date (before or after a set date), Max Participants (limits number of completions). Then, select from the list of Dotsama parachains, sister chains from the list, for which you want to verify and collect users public address. Then, select the 'Wallet Collection Type' and 'Verification Type' you want. After that choose the wallets you want to allow. Once selected, click on Add Task to add this to your upcoming campaign.
+- Moving towards collection of Dotsama Wallet Address. Click on it and enter the basic details and select the task conditions. Then, select from the list of Dotsama parachains, sister chains from the list, for which you want to verify and collect users public address. Then, select the 'Wallet Collection Type' and 'Verification Type' you want. After that choose the wallets you want to allow. Once selected, click on Add Task to add this to your upcoming campaign.
 
 ![Dotsama Wallet Collect](../../images/DotsamaWalletCollect.png)
 
