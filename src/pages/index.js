@@ -46,7 +46,7 @@ export default function Home() {
             <div className="overflow-hidden bg-white border-2 border-solid shadow-lg rounded-2xl hover:bg-light border-accent-100">
               <a
                 className="block p-6 bg-white hover:no-underline hover:bg-light sm:p-8"
-                href="/overview"
+                href="/community"
               >
                 <div className=" sm:pr-8">
                   <div className="text-blue-700 w-14 ">
@@ -82,10 +82,10 @@ export default function Home() {
                   </div>
 
                   <h3 className="mt-2 text-xl font-bold text-gray-900 ">
-                    Overview
+                    Project Guide
                   </h3>
                   <p className="mt-2 text-sm text-gray-600">
-                    An overview of AirLyft & the Kyte.One Family.
+                    Getting started with your community.
                   </p>
                 </div>
               </a>
@@ -93,7 +93,7 @@ export default function Home() {
             <div className="overflow-hidden bg-white border-2 border-solid shadow-lg rounded-2xl hover:bg-light border-accent-100">
               <a
                 className="block p-6 bg-white hover:no-underline hover:bg-light sm:p-8"
-                href="/account"
+                href="/campaign"
               >
                 <div className=" sm:pr-8">
                   <div className="text-blue-700 w-14 ">
@@ -181,7 +181,7 @@ export default function Home() {
                   </div>
 
                   <h3 className="mt-2 text-xl font-bold text-gray-900 ">
-                    Project Guide
+                    Campaign
                   </h3>
                   <p className="mt-2 text-sm text-gray-600">
                     Learn how to create marketing campaigns to drive engagement.

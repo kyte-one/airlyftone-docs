@@ -2,13 +2,27 @@
 
 AirLyft now supports Telegram integration and you can create Telegram-based tasks for AirLyft to check if the participants have joined your Telegram group/channel or not. Please follow the steps below on how to create Telegram tasks.
 
-- Login to AirLyft and create an event. On the event page, click on the select Apps tab where you can find the Telegram block. 
+- Login to AirLyft and create an event. On the event page, click on the Quests tab where you can find the Telegram block. 
 
 ![](../../images/TelegramMain.png)
 
 - Next, enter the basic details of the Telegram tasks that you are creating. Click on the basic details option to enter the Title, Description, and Entries. It is advisable to elaborate on the title and description so that participants have a much greater understanding of the task.
 
 ![](../../images/TelegramBasics.png)
+
+- Then expand 'Task Condition and Recurrence' option to set the task frequency and task conditions. 
+    - 'Task Frequency' determines how often users can complete a task. There are four options:
+        - **None:** The task can only be completed once.
+        - **Daily:** The task resets daily at midnight.
+        - **Weekly:** The task resets at the start of every week.
+        - **Monthly:** The task resets at the start of every month.
+
+    - 'Task Conditions' determines if a user can perform a task or not. There are four options:
+        - **Task Completed:** It only allows a user to perform a task if he has either completed or not completed another task.
+        - **Date:** It only allows user to perform a task before or after the set date.
+        - **Max Participants:** The task is locked after a certain number of users have completed it.
+
+![](../../images/TelegramFrequency.png)
 
 - After you have filled in the basic details, the next step is to enter the public group or channel handle. Once you have entered the handle, AirLyft will fetch its validity and show the name of the group/channel that you are entering. Please take a look at the screenshot below. 
 

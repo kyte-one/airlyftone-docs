@@ -2,15 +2,14 @@
 
 Twitter is by far one of the most important social channel that probably any web 3 companies look forward to for building, scaling, and engaging their communities. With that in mind, we have integrated Twitter actions on AirLyft that projects can create action on and ask their community members to complete. In this module, we will be discussing below Twitter actions. 
 
-- [Retweet a post on Twitter](#retweet-a-post-on-twitter)
-- [Like a post on Twitter](#like-a-post-on-twitter)
+- [Like and Retweet a post on Twitter](#like-and-retweet-a-post-on-twitter)
 - [Tweet Specific Content on Twitter](#tweet-specific-content-on-twitter)
 - [Follow an account on Twitter](#follow-an-account-on-twitter)
 - [User Generated Content on Twitter](#user-generated-content-on-twitter)
 
 Creating these actions are very simple and straight forward at AirLyft. Let's dive deep into steps on how to create Twitter Actions on AirLyft.
 
-- First Login onto AirLyft App, Create an event, and head over to Select Actions tab as shown in the screenshot below. 
+- First Login onto AirLyft App, Create an event, and head over to Quests tab as shown in the screenshot below. 
 
 ![](../../images/TwitterAction.png)
 
@@ -18,33 +17,34 @@ Creating these actions are very simple and straight forward at AirLyft. Let's di
 
 ![](../../images/TwitterOptions.png)
 
-#### Retweet a post on Twitter
+#### Like and Retweet a post on Twitter
 
-Follow these simple steps below on how to create retweet tasks on AirLyft. 
+Follow these simple steps below on how to create like & retweet tasks on AirLyft. 
 
-- As shown in screenshot above, click on the Twitter box where you can find the Retweet option. Click on it. 
-- Next, click on the basic details option to enter the Title, Description and Entries. It is advisable to elaborate the title and description so that participants have a much greater understanding of task. 
+- As shown in screenshot above, click on the Twitter box where you can find the Like & Retweet option. Click on it. 
+- Next, click on the basic details option to enter the Title, Description, cFuel and XP. It is advisable to elaborate the title and description so that participants have a much greater understanding of task. 
 
-![](../../images/RetweetBasics.png)
+![](../../images/LikeRetweetBasics.png)
 
-- Now the only thing left is to enter the URL of tweet that you want your participants to retweet.
+- Then expand 'Task Condition and Recurrence' option to set the task frequency and task conditions. 
+    - 'Task Frequency' determines how often users can complete a task. There are four options:
+        - **None:** The task can only be completed once.
+        - **Daily:** The task resets daily at midnight.
+        - **Weekly:** The task resets at the start of every week.
+        - **Monthly:** The task resets at the start of every month.
 
-![](../../images/RetweetURL.png)
+    - 'Task Conditions' determines if a user can perform a task or not. There are four options:
+        - **Task Completed:** It only allows a user to perform a task if he has either completed or not completed another task.
+        - **Date:** It only allows user to perform a task before or after the set date.
+        - **Max Participants:** The task is locked after a certain number of users have completed it.
 
-- Finally, click on Add Task Button and your Retweet task has been added successfully. 
+![](../../images/LikeRetweetFrequency.png)
 
-#### Like a post on Twitter
+- Now the only thing left is to enter the URL of tweet that you want your participants to like and retweet, and under actions select the actions that you want the user to perform.
 
-- Like we did earlier, headover to Twitter box and now click on the Like option. 
-- Next, click on the basic details option to enter the Title, Description and Entries. It is advisable to elaborate the title and description so that participants have a much greater understanding of task. 
+![](../../images/LikeRetweetURL.png)
 
-![](../../images/LikeBasics.png)
-
-- Now the only thing left is to enter the URL of tweet that you want your participants to Like.
-
-![](../../images/LikeURL.png)
-
-- Finally, click on ** Add Task ** Button and your Like task has been added successfully. 
+- Finally, click on ** Add Task ** Button and your Like & Retweet task has been added successfully. 
 
 #### Tweet Specific Content on Twitter
 
@@ -56,25 +56,39 @@ Hence, if projects wants users to post a specific content, they can use the Twee
 
 - Click on the Twitter Box where you can find the Tweet Specific Content option. 
 
-![](../../images/TweetSpecificContent.png)
+![](../../images/TwitterOptions.png)
 
-- Next, click on the basic details option to enter the Title, Description and Entries. It is advisable to elaborate the title and description so that participants have a much greater understanding of task. 
+- Next, click on the basic details option to enter the Title, Description cFuel and XP. It is advisable to elaborate the title and description so that participants have a much greater understanding of task. 
 
 ![](../../images/TweetBasics.png)
 
+- Then expand 'Task Condition and Recurrence' option to set the task frequency and task conditions. 
+    - 'Task Frequency' determines how often users can complete a task. There are four options:
+        - **None:** The task can only be completed once.
+        - **Daily:** The task resets daily at midnight.
+        - **Weekly:** The task resets at the start of every week.
+        - **Monthly:** The task resets at the start of every month.
+
+    - 'Task Conditions' determines if a user can perform a task or not. There are four options:
+        - **Task Completed:** It only allows a user to perform a task if he has either completed or not completed another task.
+        - **Date:** It only allows user to perform a task before or after the set date.
+        - **Max Participants:** The task is locked after a certain number of users have completed it.
+
+![](../../images/TweetFrequency.png)
+
 - Moving forward, select the type of Tweet i.e. New Tweet, Quote Tweet, Reply. It means that, you are giving users the direction to reply a specific content in form of a New Tweet, or QT, or a simple reply.
 
-- Now, say in certain cases, if you dont want users to write anything and just add Hashtags or mention Specific users, in that case, just enter the required Hashtag and users as shown in screenshot below. You can also find option to tag specific number of friends on the Tweet being sent out. 
+- Now, say in certain cases, if you dont want users to write anything and just add Hashtags or mention Specific users, in that case, just enter the required Hashtag and users as shown in screenshot below. You can also specify the number of friends to tag, and number of media attachments to include in the Tweet being sent out.
+
+- You can also select the type of verification you want for the task. There are two options:
+    - Manually verify submissions: Manually select which submission to mark as valid. This is helpful in case of user generated content.
+    - Auto verify submissions: All submissions are automatically marked as valid.
 
 ![](../../images/TweetItems.png)
 
-- In another case, if you want users to post specific content, click on Tweet Specific Content toggle button and switch it on. You would be asked to add the text that you want your participants to tweet and tag any specific number of friends.
-
-![](../../images/TweetToggle.png)
-
 - Finally, click on the ** Add Task ** button to create this task. 
 
-Based on the conditions set by the project, AirLyft will automatically verify if participants have actually posted the same content or not, or have they actually mentioned the hashtags, or they have mentioned 3 of their friends or not. Only if all the conditions have been carried out, points for this specific tasks will be awarded to the participants. 
+**Note:** In case of 'Auto verify submissions', AirLyft will automatically verify if participants have actually posted the same content or not, or have they actually mentioned the hashtags, or they have mentioned 3 of their friends or not. Only if all the conditions have been carried out, points for this specific tasks will be awarded to the participants. 
 
 #### Follow an account on Twitter
 
@@ -85,7 +99,19 @@ Follow these simple steps below on how to create follow a Twitter account task o
 
 ![](../../images/FollowBasics.png)
 
-- Now the only thing left is to enter the URL of tweet that you want your participants to Like.
+- Then expand 'Task Condition and Recurrence' option to set the task frequency and task conditions. 
+    - 'Task Frequency' determines how often users can complete a task. There are four options:
+        - **None:** The task can only be completed once.
+        - **Daily:** The task resets daily at midnight.
+        - **Weekly:** The task resets at the start of every week.
+        - **Monthly:** The task resets at the start of every month.
+
+    - 'Task Conditions' determines if a user can perform a task or not. There are four options:
+        - **Task Completed:** It only allows a user to perform a task if he has either completed or not completed another task.
+        - **Date:** It only allows user to perform a task before or after the set date.
+        - **Max Participants:** The task is locked after a certain number of users have completed it.
+
+- Now the only thing left is to enter the URL of the Twitter account that you want your participants to Follow.
 
 ![](../../images/FollowURL.png)
 
@@ -99,7 +125,7 @@ For instance, let's suppose that a project XYZ is about to release a staking fun
 
 - Headover to Twitter option at AirLyft and click on the User Generated content option as shown in the screenshot below. 
 
-![](../../images/UGCMain.png)
+![](../../images/TwitterOptions.png)
 
 - At the very first step, enter the Basic Information of the UGC task that is being created. It is advisable to elaborate the title and description so that participants have a much greater understanding of task.
 
@@ -119,8 +145,6 @@ For instance, let's suppose that a project XYZ is about to release a staking fun
 
 - Lastly, click on ** Add task ** to create this task. 
 
-Based on the conditions set by the project, AirLyft will automatically verify if participants have actually posted the user generated content or not, or have they actually mentioned the hashtags, or they have mentioned 3 of their friends or not. Only if all the conditions have been carried out, points for this specific tasks will be awarded to the participants. 
+**Note:** Based on the conditions set by the project, AirLyft will automatically verify if participants have actually posted the user generated content or not, or have they actually mentioned the hashtags, or they have mentioned 3 of their friends or not. Only if all the conditions have been carried out, points for this specific tasks will be awarded to the participants. 
 
 If you are facing any issues with Twitter task creation, please drop a line at ** support@kyte.one **!
-
-
