@@ -4,13 +4,13 @@ Want to create a viral referral task for your campaign? Use AirLyft's AirBoost r
 
 Before starting, the important thing to note is that "**A Referral is only considered as successful if the referred individual completes at least anyone task in the event he/she is being referred for**".
 
-- First, log in to AirLyft and head over to the Select Apps action under event creation where you can find the AirBoost option.
+- First, log in to AirLyft and head over to the Quests tab under Campaign Information where you can find the AirBoost option.
 
     ![](../../images/airboostmain.png)
 
 - Next is the set-up option for referrals in which the very first parameter to set up is the basic details of the referral event such as the Title and Description. 
 
-- Next, you will have the option to enter the points that will have to be rewarded to users on each successful referral. You can also set up a limit on how many maximum referrals can per user do for their unique link. **Please note that entries once saved can't be updated. **
+- Next, you will have the option to enter the cFuel and XP that will have to be rewarded to users on each successful referral. You can also set up a limit on how many maximum referrals can per user do for their unique link. **Please note that entries once saved can't be updated. **
 
     ![](../../images/airboostentries.png) 
 

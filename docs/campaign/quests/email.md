@@ -6,13 +6,25 @@ For example, let's consider that you are a project providing crowd list early ac
 
 Let's dive deep on how we can create these actions at AirLyft.
 
-- Login to AirLyft and create an event. On the event page, click on select Apps tab where you can find the Verified Email block as shown in the screenshot below. 
+- Login to AirLyft and create an event. On the event page, click on Quests tab where you can find the Verified Email block as shown in the screenshot below. 
 
 ![Email Main Page](../../images/EmailMain.png)
 
-- Next, expand the basic details option to enter the Title, Description, and Entries. It is advisable to elaborate on the title and description so that participants have a much greater understanding of the task.
+- Next, expand the 'Basic Details' option to enter the Title, Description, cFuel and XP. It is advisable to elaborate on the title and description so that participants have a much greater understanding of the task.
 
-![email basic](../../images/emailbasic.png)
+- Then expand 'Task Condition and Recurrence' option to set the task frequency and task conditions. 
+    - 'Task Frequency' determines how often users can complete a task. There are four options:
+        - **None:** The task can only be completed once.
+        - **Daily:** The task resets daily at midnight.
+        - **Weekly:** The task resets at the start of every week.
+        - **Monthly:** The task resets at the start of every month.
+
+    - 'Task Conditions' determines if a user can perform a task or not. There are four options:
+        - **Task Completed:** It only allows a user to perform a task if he has either completed or not completed another task.
+        - **Date:** It only allows user to perform a task before or after the set date.
+        - **Max Participants:** The task is locked after a certain number of users have completed it.
+
+![email basic](../../images/EmailBasic.png)
 
 - Coming to the main part, which is Verification type, projects are provided with 2 options as mentioned below. 
     - **Reward Entries to all verified members**: As the name suggests, entries will be rewarded to every participant who would enter their email and verify those emails by clicking on the verification link that will be generated. Please check your SPAM folder too if the email isn't in your inbox. 

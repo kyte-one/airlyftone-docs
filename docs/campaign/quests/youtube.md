@@ -2,7 +2,7 @@
 
 Certain projects have the need to create video contents that give users a better perspective of the platform they are trying to understand. With that in mind, AirLyft has now integrated Youtube and supports the creation of Youtube tasks in your upcoming campaign. Let's dive deep into how we can create a Youtube task. 
 
-- Login to AirLyft and create an event. On the event page, click on select Apps tab where you can find the Youtube block. 
+- Login to AirLyft and create an event. On the event page, click on Quests tab where you can find the Youtube block. 
 
 ![Youtube Main](../../images/YoutubeMain.png)
 

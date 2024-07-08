@@ -8,7 +8,7 @@ Indexing Protocol is a way used by applications to query open APIs to get data t
 
 Based on what indexing protocol is implemented at your product to store on-chain data, you can select based on your requirements and then move ahead with the creation of on-chain decentralized action. Let's take a deep dive look at how we can create a decentralized action using Indexing Protocol integration.
 
-- Login to AirLyft and create an event. On the event page, click on the select Apps tab where you can find the Graph Indexer integration block. 
+- Login to AirLyft and create an event. On the event page, click on the Quests tab where you can find the Graph Indexer integration block. 
 
 ![Indexer Integration](../../images/indexMain.png)
 
@@ -16,8 +16,21 @@ Based on what indexing protocol is implemented at your product to store on-chain
 
 ![Indexer Types](../../images/indexTypes.png)
 
-- Expand the basic details option to enter the Title, Description, and Entries. It is advisable to elaborate on the title and description so that participants have a much greater understanding of the task. 
-- Secondly, select the type of blockchain on which you want to create this on-chain decentralized action. i.e. EVM, Dotsama, or any upcoming blockchains.
+- Expand the basic details option to enter the Title, Description, cFuel and XP. It is advisable to elaborate on the title and description so that participants have a much greater understanding of the task.
+
+- Then expand 'Task Condition and Recurrence' option to set the task frequency and task conditions. 
+    - 'Task Frequency' determines how often users can complete a task. There are four options:
+        - **None:** The task can only be completed once.
+        - **Daily:** The task resets daily at midnight.
+        - **Weekly:** The task resets at the start of every week.
+        - **Monthly:** The task resets at the start of every month.
+
+    - 'Task Conditions' determines if a user can perform a task or not. There are four options:
+        - **Task Completed:** It only allows a user to perform a task if he has either completed or not completed another task.
+        - **Date:** It only allows user to perform a task before or after the set date.
+        - **Max Participants:** The task is locked after a certain number of users have completed it.
+
+- After that, select the type of blockchain on which you want to create this on-chain decentralized action. i.e. EVM, Dotsama, or any upcoming blockchains.
 - Next, select the Blockchain for the participant's wallet, the network on which a participant will be performing the on-chain task. 
 
 ![Index Basic](../../images/IndexBasic.png)
