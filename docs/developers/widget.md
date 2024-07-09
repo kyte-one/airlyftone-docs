@@ -62,6 +62,6 @@ Coming Soon
 ## Caveats
 
 The AirLyft Widget is currently in Pre-Release mode. Please note the following caveats when using the platform:
-1. Currently, PolkadotJS does not work for login or quests. Ask users to use Subwallet, Talisman, or Novawallet for Substrate-based actions.
+1. Currently, PolkadotJS does not work for login or quests. Ask users to use Subwallet or Talisman for Substrate-based actions.
 1. Validating Telegram Quests is coming soon; currently, it does not work.
 
