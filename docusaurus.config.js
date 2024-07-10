@@ -93,7 +93,7 @@ const config = {
           {
             type: "doc",
             to: "docs",
-            docId: "overview/index",
+            docId: "community",
             position: "left",
             label: "Documentation",
           },
@@ -123,7 +123,7 @@ const config = {
             items: [
               {
                 label: "Tutorial",
-                to: "/overview",
+                to: "/community",
               },
             ],
           },
@@ -140,7 +140,7 @@ const config = {
               },
               {
                 label: "Discord",
-                href: "https://discord.gg/jtyMknRY",
+                href: "https://discord.gg/5F3R45FMca",
               },
             ],
           },

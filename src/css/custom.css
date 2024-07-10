@@ -82,3 +82,8 @@ html {
 .pagination-nav__link:hover {
   background-color: #eef2ff;
 }
+
+img {
+  width: auto;
+  max-height: 500px;
+}
