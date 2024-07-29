@@ -2,7 +2,7 @@
 
 The Terms & Conditions module allows companies to define the rules and guidelines for their giveaway campaigns. Before participants can engage in any tasks within the campaign, they must agree to the provided terms and conditions, ensuring compliance and informed participation. Please follow the steps below on how to create Terms & Conditions task.
 
-- Login to AirLyft and create an event. On the event page, click on Quests tab where you can find the Terms & Conditions block. 
+- On the event page, click on Quests tab where you can find the Terms & Conditions block. 
 
 ![Terms & Conditions Main](../../images/TermsConditionsMain.png)
 
