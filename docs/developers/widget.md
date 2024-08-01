@@ -29,7 +29,7 @@ Installing the AirLyft Widget on your website is quick and easy. Simply insert t
 
 ## Sidebar Widget
 
-![Sidebar Demo](../../docs/images/sidebar-demo.png)
+![Sidebar Demo](../images/sidebar-demo.png)
 
 The Sidebar Widget opens a panel on the side of your webpage, providing a non-intrusive way to engage users.
 
@@ -103,7 +103,7 @@ Copy the code below for an async script load sidebar (replace YOUR-WIDGET-ID wit
 
 ## Popup Widget
 
-![Popup Demo](../../docs/images/popup-demo.png)
+![Popup Demo](../images/popup-demo.png)
 
 The Popup Widget appears as a modal window over your webpage, creating a focused interaction space.
 
