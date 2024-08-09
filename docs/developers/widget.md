@@ -68,7 +68,7 @@ Copy the code below for a simple sidebar (replace YOUR-WIDGET-ID with the ID you
           const widget = await window.AirlyftWidget("YOUR-WIDGET-ID");
           widget.createSidebar({});
       } catch (err) {
-          consolr.error(err)
+          console.error(err)
       }
     })();              
 </script>
@@ -142,7 +142,7 @@ Copy the code below for a simple popup (replace YOUR-WIDGET-ID with the ID you g
           const widget = await window.AirlyftWidget("YOUR-WIDGET-ID");
           widget.createModal({});
       } catch (err) {
-          consolr.error(err)
+          console.error(err)
       }
     })();              
 </script>
