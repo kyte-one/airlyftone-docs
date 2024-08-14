@@ -1,6 +1,6 @@
 # Using Created AirToken
 
-Now that you have your ERC 721 abd ERC 1155 AirToken created, the next step is to understand on how can we use the created AirTokens for a campaign at AirLyft. Let's dive deep into the details.
+Now that you have your AirToken created, the next step is to understand on how can we use the created AirTokens for a campaign at AirLyft. Let's dive deep into the details.
 
 - Firstly, login to your AirLyft account with which you have signed in earlier and go to your dashboard. 
 
@@ -12,7 +12,7 @@ Now that you have your ERC 721 abd ERC 1155 AirToken created, the next step is t
 
     ![Reward Distribution](../images/rewarddistribution.png)
 
-- On the reward distribution page, you will be provided with multiple reward modules which is Whitelist, NFT Giveaway (ERC 721), NFT Giveaway (ERC 1155), Token Giveaway (ERC 20), Coupons, and secret codes. Now, if you want to distribute create NFT rewards on-chain, you can use the NFT giveaway blocks. Let's say for the sake of document, we want to do a ERC 721 NFT giveaway.
+- On the reward distribution page, you will be provided with multiple reward modules which is Whitelist, Substrate Token (Asset/Native), AssetHub NFT, NFT Giveaway (ERC 721), NFT Giveaway (ERC 1155), Token Giveaway (ERC 20), Coupons, and secret codes. Now, if you want to distribute create NFT rewards on-chain, you can use the NFT giveaway blocks. Let's say for the sake of document, we want to do a ERC 721 NFT giveaway.
 
 - Click on the NFT Giveaway (ERC721) and a popup window appears asking you to choose your selection between AirToken & AirPool. Click on the AirToken option here.
   

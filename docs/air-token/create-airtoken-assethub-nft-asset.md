@@ -28,6 +28,8 @@ This article focuses on how to create your first AssetHub NFT / Asset on AirLyft
 
 6. After filling in all the details and transferring tokens to the given wallet address, click on **Create** button to create your NFT/Asset.
 
+7. Once, you have created the AirToken, you can then use it to configure your campaign to give this as reward to your participants. [Click here](using-created-airtoken) to learn how to use your AirToken as reward.
+
 :::tip For instant help
 1. Email us at support@kyte.one
 2. Join our official [Telegram group](https://t.me/kyteone)
