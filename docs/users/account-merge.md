@@ -2,7 +2,7 @@
 
 Use this guide when you have created two different users and want to merge them into one. Please note your XP, Fuel etc. will not be merged and if you have performed a quest already then you will not be able to perform the same quest again from the same account etc.
 
-<iframe width="100%" src="https://www.youtube.com/embed/Okfi_-_ZP0M?si=p8VFg3qzc4vwryJt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500px" src="https://www.youtube.com/embed/Okfi_-_ZP0M?si=p8VFg3qzc4vwryJt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Difference Between User and Account
 A user can have multiple accounts and will have one "Logged In Account". Account is the authentication method (like wallet, twitter, email etc.) that you use 

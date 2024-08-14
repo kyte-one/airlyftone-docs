@@ -8,9 +8,11 @@ The AirLyft Widget allows you to create onboarding flows, run quests, and campai
 
 :::tip Pre Release
 
-The AirLyft Widget is currently in Pre-Release. To use this feature, you need to be in direct contact with an AirLyft Team member. Create a support ticket on our [Discord](https://discord.gg/bx6ZCTwbYw) to receive your Widget ID.
+The AirLyft Widget is currently in Pre-Release. If you face any problem while using this feature, please create a support ticket on our [Discord](https://discord.gg/bx6ZCTwbYw).
 
 :::
+
+<iframe width="100%" height="500px" src="https://www.youtube.com/embed/ru6Xj_m07Gw?si=BgFl8Zgr-JSC7HR-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Types of Widgets
 
@@ -23,13 +25,31 @@ AirLyft offers two main types of widget:
 
 Installing the AirLyft Widget on your website is quick and easy. Simply insert the JavaScript code into your website’s code.
 
-1. First get your `widgetId` by creating a support ticket on our [Discord](https://discord.gg/bx6ZCTwbYw)
+1. First get your `widgetId` by following the steps mentioned [here](#creation).
 2. Choose your widget style and variation.
 3. Add the respective script to the `<body>` of your website.
 
+## Creation
+
+Follow the steps given below to get your `widgetId`:
+
+1. Edit your campaign on [AirLyft Dashboard](https://account.airlyft.one), and select the `Widgets` tab.
+
+2. Click on the `Create Widget` button.
+
+![Widget Main](../images/widgetmain.png)
+
+3. Fill in the details, like the domain you are using the widget on, theme, and primary color. You can also customize all the colors by opening the **Customize Colors** option.
+
+![Widget Options](../images/widgetoption.png)
+
+4. After filling in all the details, click on **Create Widget**.
+
+5. You can then get your `widgetId` from the displayed script.
+
 ## Sidebar Widget
 
-![Sidebar Demo](../../docs/images/sidebar-demo.png)
+![Sidebar Demo](../images/sidebar-demo.png)
 
 The Sidebar Widget opens a panel on the side of your webpage, providing a non-intrusive way to engage users.
 
@@ -38,7 +58,7 @@ The Sidebar Widget opens a panel on the side of your webpage, providing a non-in
 - Basic implementation that opens a sidebar through a button click
 - Ideal for general onboarding flows and information display
 
-Copy the code below for a simple sidebar (replace YOUR-WIDGET-ID with the ID you receive from the team):
+Copy the code below for a simple sidebar (replace YOUR-WIDGET-ID with the ID you generated):
 
 ```
 <script src="https://assets.airlyft.one/widget/widget.js"></script>
@@ -48,7 +68,7 @@ Copy the code below for a simple sidebar (replace YOUR-WIDGET-ID with the ID you
           const widget = await window.AirlyftWidget("YOUR-WIDGET-ID");
           widget.createSidebar({});
       } catch (err) {
-          consolr.error(err)
+          console.error(err)
       }
     })();              
 </script>
@@ -59,7 +79,7 @@ Copy the code below for a simple sidebar (replace YOUR-WIDGET-ID with the ID you
 - Opens a specific quest directly in the sidebar
 - Perfect for targeted user engagement and guided experiences
 
-Copy the code below for an open quest directly sidebar (replace YOUR-WIDGET-ID with the ID you receive from the team, and TASK-ID with your task's ID):
+Copy the code below for an open quest directly sidebar (replace YOUR-WIDGET-ID with the ID you generated, and TASK-ID with your task's ID):
 
 ```
 <script src="https://assets.airlyft.one/widget/widget.js"></script>
@@ -81,7 +101,7 @@ Copy the code below for an open quest directly sidebar (replace YOUR-WIDGET-ID w
 - Loads the widget script asynchronously in the background
 - Improves website performance by not blocking other page elements from loading
 
-Copy the code below for an async script load sidebar (replace YOUR-WIDGET-ID with the ID you receive from the team):
+Copy the code below for an async script load sidebar (replace YOUR-WIDGET-ID with the ID you generated):
 
 ```
 <script
@@ -103,7 +123,7 @@ Copy the code below for an async script load sidebar (replace YOUR-WIDGET-ID wit
 
 ## Popup Widget
 
-![Popup Demo](../../docs/images/popup-demo.png)
+![Popup Demo](../images/popup-demo.png)
 
 The Popup Widget appears as a modal window over your webpage, creating a focused interaction space.
 
@@ -112,7 +132,7 @@ The Popup Widget appears as a modal window over your webpage, creating a focused
 - Basic implementation that opens a popup through a button click
 - Suitable for announcements, promotions, or brief interactions
 
-Copy the code below for a simple popup (replace YOUR-WIDGET-ID with the ID you receive from the team):
+Copy the code below for a simple popup (replace YOUR-WIDGET-ID with the ID you generated):
 
 ```
 <script src="https://assets.airlyft.one/widget/widget.js"></script>
@@ -122,7 +142,7 @@ Copy the code below for a simple popup (replace YOUR-WIDGET-ID with the ID you r
           const widget = await window.AirlyftWidget("YOUR-WIDGET-ID");
           widget.createModal({});
       } catch (err) {
-          consolr.error(err)
+          console.error(err)
       }
     })();              
 </script>
@@ -133,7 +153,7 @@ Copy the code below for a simple popup (replace YOUR-WIDGET-ID with the ID you r
 - Opens a specific quest directly in the popup
 - Ideal for immediate user engagement with particular content or tasks
 
-Copy the code below for an open quest directly popup (replace YOUR-WIDGET-ID with the ID you receive from the team, and TASK-ID with your task's ID):
+Copy the code below for an open quest directly popup (replace YOUR-WIDGET-ID with the ID you generated, and TASK-ID with your task's ID):
 
 ```
 <script src="https://assets.airlyft.one/widget/widget.js"></script>
@@ -155,7 +175,7 @@ Copy the code below for an open quest directly popup (replace YOUR-WIDGET-ID wit
 - Loads the widget script asynchronously in the background
 - Enhances page load times and overall site performance
 
-Copy the code below for an async script load popup (replace YOUR-WIDGET-ID with the ID you receive from the team):
+Copy the code below for an async script load popup (replace YOUR-WIDGET-ID with the ID you generated):
 
 ```
 <script
