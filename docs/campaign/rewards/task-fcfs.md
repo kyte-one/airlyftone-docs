@@ -1,6 +1,12 @@
+---
+sidebar_position: 1
+---
+
 # Task Based FCFS
 
 The “Specific Task-Based FCFS with Instant Claim” winner selection strategy allows users to instantly claim rewards from your campaign upon successful completion of designated tasks. Rewards can be claimed as long as there are sufficient funds in the reward pool.
+
+This strategy enables project owners to define specific tasks—whether on-chain or off-chain—that users must complete. The AirLyft platform verifies the completion of these tasks, ensuring that only those who meet the set criteria are eligible to claim rewards. A standout feature of FCFS approach is the instant claim option, allowing users to receive their rewards immediately upon fulfilling all task conditions, without needing to wait for the campaign to conclude.
 
 To implement this in your campaign, navigate to the “Rewards” section, select the type of reward you wish to offer, and choose “Specific Task-Based FCFS with Instant Claim” under the Winner Selection Strategy.
 

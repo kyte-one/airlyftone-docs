@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Ranked Random Raffle
 
 This is an automatic winner selection strategy that means that the winners will be chosen without any intervention from the community host.
