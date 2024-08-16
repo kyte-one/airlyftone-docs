@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Rewards
+# Reward Winner Selection
 
 AirLyft allows a range of reward types that you can distribute to your winners.
 
