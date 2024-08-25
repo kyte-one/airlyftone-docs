@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Task Based FCFS
 
 The “Specific Task-Based FCFS with Instant Claim” winner selection strategy allows users to instantly claim rewards from your campaign upon successful completion of designated tasks. Rewards can be claimed as long as there are sufficient funds in the reward pool.
@@ -16,13 +12,13 @@ You can then define the tasks that users need to complete and specify the reward
 
 In the case below, when users completes `BOTH` of the given tasks, they can claim `1` reward, the claim can happen instantly without waiting for the event end.
 
-![Task Based First Come First Serve](./images/tfcfs-1.png)
+![Task Based First Come First Serve](../images/tfcfs-1.png)
 
 ## Example 2 (OR): Reward after completing ANY of the selected tasks
 
 In the case below, when users completes `ANY` of the given tasks, they can claim `1` reward, the claim can happen instantly without waiting for the event end.
 
-![Task Based First Come First Serve](./images/tfcfs-2.png)
+![Task Based First Come First Serve](../images/tfcfs-2.png)
 
 In case you want the users to get multiple rewards based on many different conditions, then you can add more than one rule.
 
@@ -32,4 +28,4 @@ In case you want the users to get multiple rewards based on many different condi
 
 Which means, that users can claim a maximum of 3 Tokens from this Reward.
 
-![Task Based First Come First Serve](./images/tfcfs-3.png)
+![Task Based First Come First Serve](../images/tfcfs-3.png)
