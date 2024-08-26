@@ -10,36 +10,39 @@ Chain state functions in Substrate-based networks like Polkadot and its parachai
 
 Let's see how we can use chain state functions to verify if a user follows a space on [GrillApp](https://grillapp.net/).
 
-### Steps to fetch information on Polkadot.js
+### (Optional) Steps to fetch information on Polkadotjs
 
-1. Navigate to the [Polkadot.js Apps website](https://polkadot.js.org/apps/).
+If you are unsure which chain state function to call, you can also use this step to find your function on the polkadotjs UI. Configuration on AirLyft is in the [next step](#configuring-the-task-on-airlyft) which is very similar.
+
+1. Navigate to the [Polkadotjs Apps website](https://polkadot.js.org/apps/).
 2. Connect to the Subsocial parachain by selecting it from the network dropdown menu.
 3. Go to the "Developer" tab and select "Chain State".
-![Polkadot Chain State](../../images/pallets-1.png)
+    ![Polkadot Chain State](../../images/pallets-1.png)
 4. In the "selected state query" dropdown, choose `spaceFollows` > `spaceFollowedByAccount`.
 5. Enter the following parameters:
     - u64: The ID of the space you want to check.
     - AccountId32: The address of the user you want to verify.
-![Polkadot Query Details](../../images/pallets-2.png)
+
+    ![Polkadot Query Details](../../images/pallets-2.png)
 6. Click on the "**+**" button to execute the query.
 7. If the user follows the space, you'll receive a `true` response. Otherwise, you'll get `false`.
 
 ### Configuring the task on AirLyft
 
-AirLyft simplifies the process of creating Substrate Pallet tasks, making it as straightforward as using Polkadot.js. Here's how to configure this task:
+AirLyft simplifies the process of creating Substrate Pallet tasks, making it as straightforward as using Polkadotjs. Here's how to configure this task:
 
 1. In your campaign page, go to the "Quests" tab, and select the **Substrate Pallets** quest from the options.
-![Substrate Pallets Quest on AirLyft](../../images/pallets-3.png)
+    ![Substrate Pallets Quest on AirLyft](../../images/pallets-3.png)
 2. Fill in the basic quest information (name, description, cFuel, and XP).
 3. To configure the task add the following details:
     - Select **Subsocial** from the Blockchain dropdown.
     - Select **Space Follows(spaceFollows)** from the Storage entry to query dropdown. Then choose **spaceFollowedByAccount(spaceFollowedByAccount)**.
 4. The, toggle the button next to Account32 input box, and select **User's connected wallet** in the address field.
 5. Enter the ID of the space you want to check, in our case "1".
-![Pallet Task Configuration](../../images/pallets-4.png)
+    ![Pallet Task Configuration](../../images/pallets-4.png)
 6. In the output condition, write a JavaScript condition for task validation. You can customize it based on your needs, but in our case we'll leave it as it is.
 7. Then click on **Add Task** button. That's it your Substrate Pallets quest has been created.
-![Pallet Task Output condition](../../images/pallets-5.png)
+    ![Pallet Task Output condition](../../images/pallets-5.png)
 
 ## Demo Event
 
