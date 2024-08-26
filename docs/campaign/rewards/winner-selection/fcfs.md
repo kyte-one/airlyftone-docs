@@ -1,8 +1,4 @@
----
-sidebar_position: 2
----
-
-# First come first serve
+# First Come First Serve
 
 The  "First come first serve with instant claim" winner selection strategy allows you to set conditions based on the amount of fuel secured or the number of tasks completed (e.g., “Number of Tasks > X”).
 
@@ -16,13 +12,13 @@ You can then define the tasks that users need to complete and specify the reward
 
 In the case below, when users score `1` cFuel, they can claim `1` reward, the claim can happen instantly without waiting for the event end.
 
-![First Come First Serve](./images/fcfs-1.png)
+![First Come First Serve](../images/fcfs-1.png)
 
 ## Example 2 (Tasks): Reward after scoring certain number of tasks
 
 In the case below, when users successfully verify `1` task, they can claim `1` reward, the claim can happen instantly without waiting for the event end.
 
-![First Come First Serve](./images/fcfs-2.png)
+![First Come First Serve](../images/fcfs-2.png)
 
 In case you want the users to get multiple rewards based on many different conditions, then you can add more than one rule.
 
@@ -32,4 +28,4 @@ In case you want the users to get multiple rewards based on many different condi
 
 Which means, that users can claim a maximum of 3 Tokens from this Reward.
 
-![First Come First Serve](./images/fcfs-3.png)
+![First Come First Serve](../images/fcfs-3.png)
