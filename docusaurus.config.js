@@ -179,6 +179,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+        appId: 'V854NCB4A4',
+        apiKey: '63c6590d20fe5c6e70f93de62e324d2e',
+        indexName: 'airlyft',
+        debug: false
+      }
     }),
 };
 
