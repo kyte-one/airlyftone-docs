@@ -46,7 +46,7 @@ Paste the JSON ABI in the contract field on ABI as shown below.
 
 ![](../../images/web3Method.png)
 
-- Once you have the method selected, you will be asked to enter the inputs of the interaction method and output conditions.  So, for the example that we are discussing, select the Value under the interaction method as "Users Connected Wallet Address" or "Ask users to enter manually" and then select in output conditions (=, <, <=, >, >=) on your requirement and finally enter the criteria (numberic values only). 
+- Once you have the method selected, you will be asked to enter the inputs of the interaction method and output conditions.  So, for the example that we are discussing, select the Value under the interaction method as "Users Connected Wallet Address" or "Ask users to enter manually" and then select in output conditions (=, \<, \<=, >, >=) on your requirement and finally enter the criteria (numberic values only). 
 
 ![](../../images/web3Conditions.png)
 
