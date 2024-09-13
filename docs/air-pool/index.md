@@ -4,11 +4,23 @@ sidebar_position: 4
 
 # Air Pool
 
+<div style={{ position: "relative", paddingBottom: "50.59459459459459%", height: 0 }}>
+  <iframe 
+    src="https://www.loom.com/embed/4ccad8426fbc40ac80c809f3fd1aa98e?sid=8becaaf1-b495-43b8-b564-697733a927b1" 
+    frameBorder="0" 
+    webkitAllowFullScreen 
+    mozAllowFullScreen 
+    allowFullScreen 
+    style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%" }}
+  />
+</div>
+
 AirPool which is also known as **AirLyft Reward Pools** is a module where projects can lock their existing tokens be it 
-- ERC20 
-- XC20
-- ERC721 
-- ERC1155 
+- [Substrate Native / AssetHub Asset](../air-pool/create-airpool-substrate-asset.md)
+- [Substrate AsssetHub NFT](../air-pool/create-airpool-substrate-asset.md)
+- [ERC20/XC20](../air-pool/create-airpool-erc20.md)
+- [ERC721](../air-pool/create-airpool-erc721.md)
+- [ERC1155](../air-pool/create-airpool-erc1155.md)
 
 on AirLyft smart contract and use the locked rewards to distribute rewards on-chain in a campaign.
 

@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Substrate Tokens (Native or Asset)
 
 ## What are Substrate Tokens?

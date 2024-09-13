@@ -1,12 +1,22 @@
+---
+sidebar_position: 3
+---
+
 # Create ERC 1155 AirTokens
 
-This article focuses on how to create your first ERC 1155 AirToken on AirLyft.
+This article focuses on how to create your ERC 1155 AirToken on AirLyft.
 
-- Login to AirLyft and once you are on the dashboard, please click on AirToken icon as shown in the screenshot below.
+- There are two ways to create ERC 1155 AirToken. You can either create them from the AirToken tab, or you can click on **Create New Token** while adding a reward to your campaign.
 
-    ![AirToken Main](../images/airtokenmain.png)
+- In order to create AirToken from the Rewards, go to the Rewards tab under your campaign, and choose NFT Giveaway(ERC1155) and then choose AirToken Giveaway.
 
-- Next, you will be on the AirToken page where you can find your existing tokens or create a new one. Lets create a new AirToken by clicking on the Create AirToken button available on top right corner of the screen.
+    ![AirToken from Rewards Tab](../images/rewardstab.png)
+
+- Click on the **Select an AirToken** dropdown, and click on **Create New Token**.
+
+    ![Create New Token](../images/createnewtoken.png)
+
+- You can also go to the AirToken page where you can find your existing tokens or create a new one. Lets create a new AirToken by clicking on the Create AirToken button available on top right corner of the screen.
 
     ![Create AirToken](../images/airtokencreate.png)
 
@@ -16,15 +26,15 @@ This article focuses on how to create your first ERC 1155 AirToken on AirLyft.
 
     ![](../images/airtoken1155details.png)
 
-- Next, you will find advanced option in which you can set token to be soul bound or transferable and have custom token base URI set. 
+- Under Advanced Details, you can set token to be soul bound or transferable, and set a custom token base URI. 
     
-    ![](../images/airtoken721adv.png)
+    ![](../images/airtokenadvanced.png)
 
 - Once you have all the details uploaded, you will now find the option to create token on selected blockchain by paying a minimal network gas fees. 
   
-    ![](../images/airtoken721create.png)
+    ![](../images/airtoken1155create.png)
   
-- Carry out the actions on decentralized wallet by signing the transaction, paying the gas fees, and Woohoo your first ERC 1155 AirToken has been created successfully on the selected network. You can now check them on NFT marketplaces supported by the selected blockchain.
+- Carry out the actions on decentralized wallet by signing the transaction, paying the gas fees, and Woohoo your ERC 1155 AirToken has been created successfully on the selected network. You can now check them on NFT marketplaces supported by the selected blockchain.
 
 :::tip For instant help
 1. Email us at support@kyte.one

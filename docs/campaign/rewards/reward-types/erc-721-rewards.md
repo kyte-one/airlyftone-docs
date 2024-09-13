@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # NFT Giveaway (ERC721)
 
 ## What are ERC721 NFTs?

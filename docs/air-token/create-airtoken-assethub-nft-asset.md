@@ -1,8 +1,12 @@
+---
+sidebar_position: 1
+---
+
 # Create AssetHub NFT / Asset
 
-This article focuses on how to create your first AssetHub NFT / Asset on AirLyft.
+This article focuses on how to create your AssetHub NFT / Asset on AirLyft.
 
-1. Click on the AirToken Icon to got the AirToken tab.
+1. Click on the AirToken Icon to go to the AirToken tab.
 
 2. Next, you will be on the AirToken page where you can find your existing tokens or create a new one. Lets create a new AirToken by clicking on the Create AirToken button available on top right corner of the screen.
 

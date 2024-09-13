@@ -4,6 +4,17 @@ sidebar_position: 4
 
 # AirToken
 
+<div style={{ position: "relative", paddingBottom: "50.625%", height: 0 }}>
+  <iframe 
+    src="https://www.loom.com/embed/098ded20edb640d7a11e9ef995b9ad5a?sid=27850db4-0700-43ef-9f64-5ceabd85fe23" 
+    frameBorder="0" 
+    webkitAllowFullScreen 
+    mozAllowFullScreen 
+    allowFullScreen 
+    style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%" }}
+  />
+</div>
+
 At AirLyft, projects can now easily create their own ERC 721 and ERC 1155 standard tokens which can be deployed on any supported blockchains and can then be used in your AirLyft campaign for reward distribution over a specific network. 
 
 Some points to note here:
