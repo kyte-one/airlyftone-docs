@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Token Giveaway (ERC20)
 
 ## What are ERC20 Tokens?

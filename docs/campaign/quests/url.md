@@ -27,4 +27,4 @@ One of the examples giveaway is like and share facebook competition that you can
 
 ![](../../images/URLBasics.png)
 
-Use the URL functionality based on your campaign requirement and let AirLyft take care of the rest. If you are facing any issues with URL task creation, please drop a line at ** support@kyte.one **!
+Use the URL functionality based on your campaign requirement and let AirLyft take care of the rest. If you are facing any issues with URL task creation, please drop a line at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)!

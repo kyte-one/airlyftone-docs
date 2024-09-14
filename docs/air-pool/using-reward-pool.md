@@ -1,53 +1,42 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Using Created AirPool
 
 Now that you have your ERC 20, ERC 721, ERC 1155 AirPools created, the next step is to understand on how can we use the created reward pools at AirLyft. Let's dive deep into the details.
 
-- Firstly, login to your AirLyft account with which you have signed in earlier and go to your dashboard. 
+- Go to the Rewards Tab under your campaign.
 
-- Next, headover to top right part of your screen where you can see the button "Create Event". Click on the button as shown in screenshot below.
+    ![Rewards Tab](../images/rewardstab.png)
 
-- Next, fill up the basic details and then creation actions on the select apps tab. While these are self explanatory, however, you can still refer to the event creation and task creation documents here for a much better understanding. 
+- On the reward distribution page, you will find the types of Rewards you can add to your campaign. Now, if you want to distribute the created AirPool, you can use the NFT Giveaway or AssetHub NFT blocks. Let's take Token Giveaway(ERC20) as example:
 
-- Once your details are filled and tasks have been created, the last step is to create your reward distribution strategy. Just so that we are on the same page, here is a screenshot showing the reward distribution page. 
+- Click on the Token Giveaway (ERC20) and a popup window appears asking you to choose your selection between AirToken & AirPool. Click on the AirPool option here. 
 
-![Reward Distribution](../images/rewarddistribution.png)
+    ![AirPool Giveaway](../images/airpool20rewardoptions.png)
 
-- On the reward distribution page, you will be provided with multiple reward modules which is Whitelist, NFT Giveaway (ERC 721), NFT Giveaway (ERC 1155), Token Giveaway (ERC 20), Coupons, and secret codes. Now, if you want to distribute NFT rewards on-chain, you can use the NFT giveaway blocks. However, if you want to distribute your ERC20, XC20 rewards on-chain as part of campaign, you can use the token giveaway module. Let's say for the sake of document, we want to do a ERC 721 NFT giveaway.
+- After you click on AirPool Giveaway option, you will have the option to select the created AirPool. If you haven't created it yet, click on the create new pool option to create your own AirPool reward. 
 
-- Click on the NFT Giveaway (ERC721) and a popup window appears asking you to choose your selection between AirToken & AirPool. Click on the AirPool option here. 
-
-![AirPool Giveaway](../images/airpoolgiveaway.png)
-
-- After you click on AirPool Giveaway option, you will have the option to select the created AirPool that you did earlier. If you haven't created it yet, click on the create new pool option to create your own AirPool reward. 
-
-![Select Pool](../images/selectpool.png)
+    ![Select Pool](../images/airpoolselect.png)
 
 - Please also note that you can use the deposit more fund option here to add more liquidity to your reward pool. 
 
-![Deposit more fund](../images/depositmore.png)
+- Let's select the already created pool which shows we have a reward pool with name of "**Test DEV 2**" that has the **liquidity available of 0.1 DEV**. Now, as the liquidity is only 0.1 DEV, you can write 0.1 in the Total Amount field.
 
-- Let's select the already created pool which shows we have a reward pool with name of "**Test ERC 721 MOVR**" that has the **liquidity available of 1 MNRK**. Now, as the liquidity is only 1 MNRK, you can write 1 in the amount shown and then go ahead with the selection of distribution type.
+    ![Pool Amount](../images/poolamount.png)
 
-![Pool Amount](../images/poolamount.png)
+- Then select the [Winner Selection Strategy](../campaign/rewards/winner-selection/index.md) you'd like to use for the reward. You can then set the task rules depending upon the chosen strategy. Click [here](../campaign/rewards/winner-selection/index.md) to learn about them in detail.
 
-- Next is, select the best distribution strategy for your NFT giveaway which AirLyft would ensure reward distribution on. For instance, one of the distribution strategy is "Specific Task Based FCFS with instant claim" which means as soon as users complete specific number of tasks, they can claim the NFT instantly. There will be different strategies available in the list moving forward. Keep an eye on distribution strategy document available. 
+- If you only want to allow whitelisted wallet addresses to claim the reward, then check the **Whitelist Pre Condition** checkbox, and then upload a CSV file containing the whitelisted wallet addresses.
 
-- Now, as you have selected the specific task distribution, select specific task rules after which you want users to claim the NFT and then enter the reward amount which would be 1 if you want users to claim just 1 NFT. Finally, if you have any more rules, you can add it else click on create giveaway to finish creation of reward. 
+    ![AirPool Creation](../images/airpoolrules.png)
 
-![AirPool Finish](../images/airpoolfinish.png)
+- Finally click on Create Giveaway button to add the Reward to your campaign.
 
-- Finally, click on Publish and that's it... You have successfully used your AirPool reward to create a ERC721 NFT giveaway event.
-
-![Publish event](../images/publishevent.png)
-
-> Note: ***You can select any type of giveway module from the Reward Distribution page and then publish your event rewards. The same steps will have to be followed for ERC20, ERC1155 modules too. ***
+> **Note:** You can select any type of giveway module from the Reward Distribution page and then publish your event rewards. The same steps will have to be followed for ERC1155, Substrate Tokens, and AssetHub NFT modules too.
 
 :::tip For instant help
-1. Email us at support@kyte.one
+1. Email us at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)
 2. Join our official [Telegram group](https://t.me/kyteone)
 :::
-

@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # NFT Giveaway (ERC1155)
 
 ## What are ERC1155 NFTs?

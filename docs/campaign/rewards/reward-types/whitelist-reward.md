@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Whitelist / Shortlist
 
 ## What is a whitelist/shortlist?

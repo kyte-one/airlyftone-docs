@@ -56,4 +56,4 @@ Paste the JSON ABI in the contract field on ABI as shown below.
 
 These EVM-based tasks support conditions on all sorts of tokens such as ERC 20, ERC 721, and ERC 1155. You can have conditions set on them based on your campaign requirements and have these actions verified on-chain without any issues. 
 
-If you are facing any issues with EVM Based task creation, please drop a line at ** support@kyte.one **!
+If you are facing any issues with EVM Based task creation, please drop a line at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)!

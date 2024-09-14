@@ -50,4 +50,4 @@ On another note, if projects want AirLyft to verify if a participant has joined 
 
 > ** This bot will not send any message to your group/channel and you can revoke all access to this bot to just verify participation. **
 
-If you are facing any issues with Telegram task creation, please drop a line at ** support@kyte.one **!
+If you are facing any issues with Telegram task creation, please drop a line at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)!
