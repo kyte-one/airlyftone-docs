@@ -29,6 +29,6 @@ Some points to note here:
 There are tons of benefits that are associated with the AirTokens and we sincerely believe it can be a really helpful point to implement into your future growth strategy. Do check our next article on how to create your first AirToken.
 
 :::tip For instant help
-1. Email us at support@kyte.one
+1. Email us at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)
 2. Join our official [Telegram group](https://t.me/kyteone)
 :::

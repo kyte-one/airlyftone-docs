@@ -43,7 +43,7 @@ Want to know more? Read some Frequently asked questions
 
 :::tip Stuck somewhere?
 
-1. Email us at support@kyte.one
+1. Email us at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)
 2. Join [this Whatsapp group](https://chat.whatsapp.com/KSBWRBfGvKq95Lp6tXc8eN): https://chat.whatsapp.com/KSBWRBfGvKq95Lp6tXc8eN
 
 **_The AirLyft Team is there to help you. AirLyft is a platform to run marketing events, campaigns, quests and automatically distribute NFTs or Tokens as rewards._**

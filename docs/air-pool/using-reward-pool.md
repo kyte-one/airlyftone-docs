@@ -37,7 +37,6 @@ Now that you have your ERC 20, ERC 721, ERC 1155 AirPools created, the next step
 > **Note:** You can select any type of giveway module from the Reward Distribution page and then publish your event rewards. The same steps will have to be followed for ERC1155, Substrate Tokens, and AssetHub NFT modules too.
 
 :::tip For instant help
-1. Email us at support@kyte.one
+1. Email us at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)
 2. Join our official [Telegram group](https://t.me/kyteone)
 :::
-

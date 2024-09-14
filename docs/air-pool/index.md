@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
-# Air Pool
+# AirPool
 
 <div style={{ position: "relative", paddingBottom: "50.59459459459459%", height: 0 }}>
   <iframe 
@@ -39,6 +39,6 @@ Now, some points to worth note here is
 There are tons of benefits that are associated with the AirPool and we sincerely believe it can be really helpful point to implement into your future growth strategy. Do check our next article on how to create pools for your reward tokens.
 
 :::tip For instant help
-1. Email us at support@kyte.one
+1. Email us at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)
 2. Join our official [Telegram group](https://t.me/kyteone)
 :::

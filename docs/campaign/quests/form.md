@@ -48,4 +48,4 @@ Recently our partner used this integration in their giveaways where they created
 
 - Finally, Click on apply on Form Fields to add it to the form and then click on Add Tasks to create a Form Task. 
 
-If you are facing any issues with Form task creation, please drop a line at ** support@kyte.one **!
+If you are facing any issues with Form task creation, please drop a line at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)!

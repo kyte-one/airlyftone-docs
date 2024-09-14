@@ -22,4 +22,4 @@ You can choose if a particular question has a single correct answer or multiple 
 
 - Finally, click on Save and then Done to create the Quiz Action. 
 
-If you are facing any issues with Quiz task creation, please drop a line at ** support@kyte.one **!
+If you are facing any issues with Quiz task creation, please drop a line at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)!

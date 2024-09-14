@@ -147,4 +147,4 @@ For instance, let's suppose that a project XYZ is about to release a staking fun
 
 **Note:** Based on the conditions set by the project, AirLyft will automatically verify if participants have actually posted the user generated content or not, or have they actually mentioned the hashtags, or they have mentioned 3 of their friends or not. Only if all the conditions have been carried out, points for this specific tasks will be awarded to the participants. 
 
-If you are facing any issues with Twitter task creation, please drop a line at ** support@kyte.one **!
+If you are facing any issues with Twitter task creation, please drop a line at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)!

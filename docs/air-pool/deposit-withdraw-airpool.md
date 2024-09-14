@@ -31,6 +31,6 @@ It is possible that the marketing strategies change last minute and projects mig
 - And voila, your funds have been successfully withdrawn to your source account. 
 
 :::tip For instant help
-1. Email us at support@kyte.one
+1. Email us at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)
 2. Join our official [Telegram group](https://t.me/kyteone)
 ::: 
