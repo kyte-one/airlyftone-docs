@@ -32,7 +32,7 @@ There are two ways to create Substrate AssetHub NFT AirPool. You can either crea
 
 - In case you don't see your blockchain or asset available on the list, you can find the [Request Blockchain Addition](https://docs.google.com/forms/d/e/1FAIpQLScGG6eDTSPhpbfsdiQ9H6vlzZdBDwP4u_phpMyb5zh-D-de4A/viewform) or [Request Asset Whitelist](https://docs.google.com/forms/d/e/1FAIpQLSdmdE3BmNwWQ1kZbKZqFzzRoBX38ltecXiSjuS5VEthwH28Yw/viewform) options. Click on it and fill up the short form for us to manually add the blockchain or asset to the list. You can contact our support on [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com) for a faster resolution.
 
-- After you select your asset, choose the wallet yuo'd like to use for the transaction. Then click on **Fetch Accounts**. Then select the account you'd like to use, and then click on **Get NFTs**.
+- After you select your asset, choose the wallet you'd like to use for the transaction. Then click on **Fetch Accounts**. Then select the account you'd like to use, and then click on **Get NFTs**.
 
 - After your NFTs are fetched from the account, choose the NFTs you'd like to lock in the pool, if you want to use all the NFTs, check the **Select all** checkbox.
 
