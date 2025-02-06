@@ -47,13 +47,13 @@ Follow these simple steps below on how to create like & retweet tasks on AirLyft
 
 ![](../../images/LikeRetweetURL.png)
 
-- Finally, click on ** Add Task ** Button and your Like & Retweet task has been added successfully.
+- Finally, click on **Add Task** Button and your Like & Retweet task has been added successfully.
 
 #### Tweet Specific Content on Twitter
 
 Most of the times, projects wants user to post a specific content on Twitter pertaining to a certain release or upcoming events. For instance, let's suppose that a project XYZ is about to release a staking functionality in the month of January '23 and as a part of tasks, the project wants all its participants to tweet the below content on Twitter.
 
-> ** Hey!!! A new staking functionality will be live on XYZ App by January '23. #XYZ #Staking **
+> **Hey!!! A new staking functionality will be live on XYZ App by January '23. #XYZ #Staking**
 
 Hence, if projects wants users to post a specific content, they can use the Tweet Specific content functionality on AirLyft and the platform will validate if this particular specific content by posted by the participants or not. Please follow steps below on creating a Tweet Specific content task.
 
@@ -91,7 +91,7 @@ Hence, if projects wants users to post a specific content, they can use the Twee
 
 ![](../../images/TweetItems.png)
 
-- Finally, click on the ** Add Task ** button to create this task.
+- Finally, click on the **Add Task** button to create this task.
 
 **Note:** In case of 'Auto verify submissions', AirLyft will automatically verify if participants have actually posted the same content or not, or have they actually mentioned the hashtags, or they have mentioned 3 of their friends or not. Only if all the conditions have been carried out, points for this specific tasks will be awarded to the participants.
 
@@ -122,7 +122,7 @@ Follow these simple steps below on how to create follow a Twitter account task o
 
 ![](../../images/FollowURL.png)
 
-- Finally, click on ** Add Task ** Button and your Follow account task has been added successfully.
+- Finally, click on **Add Task** Button and your Follow account task has been added successfully.
 
 #### Allow Only Specific Accounts On Twitter
 
@@ -180,7 +180,7 @@ For instance, let's suppose that a project XYZ is about to release a staking fun
 
 ![](../../images/UGCTextImage.png)
 
-- Moving forward to next step which is ** Associate Uploaded Content **. Here you are provided with 2 options which is ** "By quoting a given tweet" or "As a reply to given tweet" **. This functionality is specifically built to help projects provide options to its participants if their submission is in form of a Quote Tweet or just a simple reply to Tweet. Based on option selection, just enter the URL of tweet on which users will be perfomring a quote tweet or reply.
+- Moving forward to next step which is **Associate Uploaded Content**. Here you are provided with 2 options which is **"By quoting a given tweet" or "As a reply to given tweet"**. This functionality is specifically built to help projects provide options to its participants if their submission is in form of a Quote Tweet or just a simple reply to Tweet. Based on option selection, just enter the URL of tweet on which users will be perfomring a quote tweet or reply.
 
 ![](../../images/UGCQTReply.png)
 
@@ -188,7 +188,7 @@ For instance, let's suppose that a project XYZ is about to release a staking fun
 
 ![](../../images/UGCHashtagMention.png)
 
-- Lastly, click on ** Add task ** to create this task.
+- Lastly, click on **Add task** to create this task.
 
 **Note:** Based on the conditions set by the project, AirLyft will automatically verify if participants have actually posted the user generated content or not, or have they actually mentioned the hashtags, or they have mentioned 3 of their friends or not. Only if all the conditions have been carried out, points for this specific tasks will be awarded to the participants.
 
