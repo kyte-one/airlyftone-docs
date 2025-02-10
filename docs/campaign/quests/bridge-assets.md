@@ -54,7 +54,7 @@ This task requires participants to bridge tokens from an XCM-compatible parachai
 
 - Click on **Add Task**, and the XCM to Moonbeam task will be successfully created.
 
-### Bridge assets to Moonbeam using Axelar | SquidRouter
+### Bridge assets to Moonbeam using Axelar
 
 This task verifies whether participants have successfully bridged assets to the Moonbeam network using Axelar or SquidRouter.
 
