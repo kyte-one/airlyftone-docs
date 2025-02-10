@@ -4,18 +4,19 @@ sidebar_position: 5
 
 # Participants
 
-AirLyft provides projects the flexibility to view participant-wise data at any point during a campaign. You can check the number of the quests a particular user has done, their total fuel & XP, and drill down into the quests have they performed as a part of this campaign. Let's take a deep look at where can we view the participant list. 
+AirLyft provides projects the flexibility to view participant-wise data at any point during a campaign. You can check the number of the quests a particular user has done, their total fuel & XP, and drill down into the quests have they performed as a part of this campaign. Let's take a deep look at where can we view the participant list.
 
 - Open the [Campaigns page (https://account.airlyft.one/campaigns)](https://account.airlyft.one/campaigns)
-1. In the "Action" column select 
+
+1. In the "Action" column select
 2. Hover on "More"
 3. And then select "Participants"
 
 - The Participant view provides a overall view of users who have participated from multiple sources such as Email, Metamask, Twitter, Telegram etc. You can also view what are the entries a particular user has been rewarded and how many tasks have they completed.
 
-![Participants](../images/participants.jpg)
-- Alternatively, if you want to check for what all tasks has a particular user completed, you can simply click on the **Details** option specific to that user and check the drill down of different actions performed by them on this event. 
+  ![Participants](../images/participants.jpg)
 
+- Alternatively, if you want to check for what all tasks has a particular user completed, you can simply click on the **Details** option specific to that user and check the drill down of different actions performed by them on this event.
 
 - You can also filter submissions based user the quest, participation date or user.
 

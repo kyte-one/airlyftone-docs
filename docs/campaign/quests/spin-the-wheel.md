@@ -4,15 +4,15 @@ The **Spin the Wheel** task allows projects to reward participants with **cFuel*
 
 - Login to AirLyft and create a campaign. On the campaign page, click on Quests tab where you can find the Spin the Wheel block.
 
-![Spin the wheel main](../../images/SpinTheWheelMain.png)
+  ![Spin the wheel main](../../images/SpinTheWheelMain.png)
 
 - To set up a **Spin the Wheel** task, begin by configuring the **Basic Details**, including the title, description for the task. Providing a clear and engaging description helps participants understand the task and its rewards.
 
-![Spin Basics](../../images/SpinTheWheelBasics.png)
+  ![Spin Basics](../../images/SpinTheWheelBasics.png)
 
 - Next, you can personalize the task further by adding a **custom task icon**.
 
-![Spin main](../../images/SpinTheWheelCustom.png)
+  ![Spin main](../../images/SpinTheWheelCustom.png)
 
 - Next, expand 'Task Condition and Recurrence' option to set the task frequency and task conditions.
 
@@ -28,7 +28,7 @@ The **Spin the Wheel** task allows projects to reward participants with **cFuel*
     - **Date:** It only allows user to perform a task before or after the set date.
     - **Max Participants:** The task is locked after a certain number of users have completed it.
 
-![Spin reward](../../images/SpinTheWheelChoose.png)
+  ![Spin reward](../../images/SpinTheWheelChoose.png)
 
 - Now, choose the **reward type**, either **cFuel** or **XP**, based on what you want participants to receive.
 
