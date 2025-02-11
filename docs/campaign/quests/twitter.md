@@ -23,6 +23,9 @@ Creating these actions are very simple and straight forward at AirLyft. Let's di
 Follow these simple steps below on how to create like & retweet tasks on AirLyft.
 
 - As shown in screenshot above, click on the Twitter box where you can find the Like & Retweet option. Click on it.
+
+![](../../images/LikeRetweetBasics.png)
+
 - Next, click on the basic details option to enter the Title, Description, cFuel and XP. It is advisable to elaborate the title and description so that participants have a much greater understanding of task.
 
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.

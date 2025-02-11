@@ -12,6 +12,8 @@ Let's dive deep on how we can create these actions at AirLyft.
 
 - Next, expand the 'Basic Details' option to enter the Title, Description, cFuel and XP. It is advisable to elaborate on the title and description so that participants have a much greater understanding of the task.
 
+![Email Basic](../../images/EmailBasics.png)
+
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
 - Coming to the main part, which is Verification type, projects are provided with 2 options as mentioned below.

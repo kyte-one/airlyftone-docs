@@ -24,6 +24,8 @@ Let's dive deep on how we can create these actions at AirLyft.
 
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
+![](../../images/faucetBasics.png)
+
 - Next, select the **Blockchain**, and AirLyft will automatically fetch the wallet address. Ensure that your faucet wallet has sufficient funds to process the token claims.
 
 - The key part of the setup is Token Allocation, where communities can choose between two distribution methods.
