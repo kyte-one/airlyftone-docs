@@ -8,6 +8,8 @@ Projects love engaging with the community and on a regular basis perform engagem
 
 - Next, expand the basic details option to enter the Title, Description, and Entries. It is advisable to elaborate on the title and description so that participants have a much greater understanding of the task. You can also provide a screenshot example that gives a better perspective of what type of contents users need to upload. **Do take a note of the dimensions which is 640px X 360px!**
 
+- To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
+
 - You can also select the type of verification you want for the task. There are two options:
 
   - **Manually verify submissions:** Manually select which submission to mark as valid.

@@ -14,6 +14,9 @@ Certain projects have the need to create image/video contents that give users a 
   ![instagram options](../../images/InstagramOptions.png)
 
 - Select the required action, enter the basic details, frequency and conditions of the task, and enter the URL of Instagram profile or post that you want your users to visit.
+
+- To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
+
 - Finally click on Add Task to add this to your campaign.
 
 > **NOTE:** For Instagram, there were open end points earlier provided by the Facebook but due to recent Instagram API policy changes, validating actions won't be possible. They currently provide options to just visit a particular page or post via AirLyft. We can redirect participants to those particular page they need to follow but due to Instagram policy changes, we won't be able to verify if they have followed or liked.

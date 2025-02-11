@@ -15,7 +15,11 @@ One of the examples giveaway is like and share facebook competition that you can
 
   ![](../../images/URLOptions.png)
 
-- Once you click on the share a link action, you will be asked to enter the basic details of the action that is being created and the URL of the website that you want your participants to share. Enter the details and finally click on Add Task button to create a Share Link task.
+- Once you click on the share a link action, you will be asked to enter the basic details of the action that is being created and the URL of the website that you want your participants to share.
+
+- To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
+
+- Enter the details and finally click on Add Task button to create a Share Link task.
 
   ![](../../images/URLBasics.png)
 

@@ -6,7 +6,9 @@ The AirLyft module allows you to add tasks for users to perform directly on AirL
 
   ![AirLyft Module](../../images/AirLyftMain.png)
 
-- Expand Basic Details option to add a title, description, cFuel, and XP. Set task conditions by expanding Task Condition option.
+- Expand Basic Details option to add a title, description, cFuel, and XP.
+
+- To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
 - Add the link to the AirLyft community you want users to follow. If valid, the community name will auto-populate next to the link.
 

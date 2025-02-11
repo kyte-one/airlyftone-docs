@@ -60,19 +60,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 
    ![](../../images/palletAssetHubAssetBalance.png)
 
-3. - Next, expand 'Task Condition and Recurrence' option to set the task frequency and task conditions.
-
-- 'Task Frequency' determines how often users can complete a task. There are four options:
-
-  - **None:** The task can only be completed once.
-  - **Daily:** The task resets daily at midnight.
-  - **Weekly:** The task resets at the start of every week.
-  - **Monthly:** The task resets at the start of every month.
-
-- 'Task Conditions' determines if a user can perform a task or not. There are four options:
-  - **Task Completed:** It only allows a user to perform a task if he has either completed or not completed another task.
-  - **Date:** It only allows user to perform a task before or after the set date.
-  - **Max Participants:** The task is locked after a certain number of users have completed it.
+3. To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
 4. Choose the **Blockchain** where the balance should be checked (e.g., Polkadot AssetHub, Subsocial, etc.). Enter the **Minimum balance** that users must hold to be eligible for completing the quest. This ensures that only users meeting the criteria can proceed.
 
@@ -90,19 +78,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 
    ![](../../images/palletStake.png)
 
-3. - Next, expand 'Task Condition and Recurrence' option to set the task frequency and task conditions.
-
-- 'Task Frequency' determines how often users can complete a task. There are four options:
-
-  - **None:** The task can only be completed once.
-  - **Daily:** The task resets daily at midnight.
-  - **Weekly:** The task resets at the start of every week.
-  - **Monthly:** The task resets at the start of every month.
-
-- 'Task Conditions' determines if a user can perform a task or not. There are four options:
-  - **Task Completed:** It only allows a user to perform a task if he has either completed or not completed another task.
-  - **Date:** It only allows user to perform a task before or after the set date.
-  - **Max Participants:** The task is locked after a certain number of users have completed it.
+3. To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
 4. Select the **Blockhain** where the staking amount should be checked and enter the **Minimum amount** that users must have to qualify.
 
@@ -120,19 +96,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 
    ![](../../images/palletAssetHubAssetBalance.png)
 
-3. - Next, expand 'Task Condition and Recurrence' option to set the task frequency and task conditions.
-
-- 'Task Frequency' determines how often users can complete a task. There are four options:
-
-  - **None:** The task can only be completed once.
-  - **Daily:** The task resets daily at midnight.
-  - **Weekly:** The task resets at the start of every week.
-  - **Monthly:** The task resets at the start of every month.
-
-- 'Task Conditions' determines if a user can perform a task or not. There are four options:
-  - **Task Completed:** It only allows a user to perform a task if he has either completed or not completed another task.
-  - **Date:** It only allows user to perform a task before or after the set date.
-  - **Max Participants:** The task is locked after a certain number of users have completed it.
+3. To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
 4. Select the **Blockhain** and then enter the **Asset ID**. Give the **Minimum amount** of the asset you want the user to hold along with the **Asset Decimals**.
 
@@ -148,19 +112,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 2. Fill in the basic quest information (name, description, cFuel, and XP).
    ![](../../images/palletAssetHubNft.png)
 
-3. - Next, expand 'Task Condition and Recurrence' option to set the task frequency and task conditions.
-
-- 'Task Frequency' determines how often users can complete a task. There are four options:
-
-  - **None:** The task can only be completed once.
-  - **Daily:** The task resets daily at midnight.
-  - **Weekly:** The task resets at the start of every week.
-  - **Monthly:** The task resets at the start of every month.
-
-- 'Task Conditions' determines if a user can perform a task or not. There are four options:
-  - **Task Completed:** It only allows a user to perform a task if he has either completed or not completed another task.
-  - **Date:** It only allows user to perform a task before or after the set date.
-  - **Max Participants:** The task is locked after a certain number of users have completed it.
+3. To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
 4. Select your **Blockhain** and then enter the **NFT ID** and **Requirement Type**.
 
@@ -197,19 +149,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 2. Fill in the basic quest information (name, description, cFuel, and XP).
    ![](../../images/palletPool.png)
 
-3. - Next, expand 'Task Condition and Recurrence' option to set the task frequency and task conditions.
-
-- 'Task Frequency' determines how often users can complete a task. There are four options:
-
-  - **None:** The task can only be completed once.
-  - **Daily:** The task resets daily at midnight.
-  - **Weekly:** The task resets at the start of every week.
-  - **Monthly:** The task resets at the start of every month.
-
-- 'Task Conditions' determines if a user can perform a task or not. There are four options:
-  - **Task Completed:** It only allows a user to perform a task if he has either completed or not completed another task.
-  - **Date:** It only allows user to perform a task before or after the set date.
-  - **Max Participants:** The task is locked after a certain number of users have completed it.
+3. To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
 4. Select the **Blockhain** and then enter the **Pool ID**.
 
@@ -225,19 +165,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 2. Fill in the basic quest information (name, description, cFuel, and XP).
    ![](../../images/palletsValidator.png)
 
-3. - Next, expand 'Task Condition and Recurrence' option to set the task frequency and task conditions.
-
-- 'Task Frequency' determines how often users can complete a task. There are four options:
-
-  - **None:** The task can only be completed once.
-  - **Daily:** The task resets daily at midnight.
-  - **Weekly:** The task resets at the start of every week.
-  - **Monthly:** The task resets at the start of every month.
-
-- 'Task Conditions' determines if a user can perform a task or not. There are four options:
-  - **Task Completed:** It only allows a user to perform a task if he has either completed or not completed another task.
-  - **Date:** It only allows user to perform a task before or after the set date.
-  - **Max Participants:** The task is locked after a certain number of users have completed it.
+3. To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
 4. Select the **Blockhain** and then enter the **Validator Address**.
 

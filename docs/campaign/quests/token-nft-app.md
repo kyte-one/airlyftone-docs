@@ -18,7 +18,9 @@ Creating these actions are very simple and straight forward at AirLyft.
 #### Hold a Token
 
 - Expand the basic details option to enter the Title, Description, cFuel and XP.
-- You can also set the task frequency and conditions by expanding Task Conditions & Recurrence option.
+
+- To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
+
 - Select the blockchain, and the token to check for.
 - Enter the amount of tokens to verify in the participant's wallet. You can specify either a minimum number of tokens or a range of token amounts to verify.
 
