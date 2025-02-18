@@ -20,7 +20,14 @@ The **Spin the Wheel** task allows projects to reward participants with **cFuel*
 
 - Now, choose the **reward type**, either **cFuel** or **XP**, based on what you want participants to receive.
 
-- Once selected, enter the **reward amounts** and their respective **winning probabilities**. This setup ensures that different rewards have different chances of being won, creating an exciting and dynamic experience for participants.
+- Once selected, enter the **reward amounts** and their respective **winning probabilities**. For example:
+
+  - You can set up different reward tiers like:
+    - 100 cFuel with 10% probability (rare reward)
+    - 50 cFuel with 30% probability (uncommon reward)
+    - 20 cFuel with 60% probability (common reward)
+
+  The probabilities must add up to 100%. This setup ensures that different rewards have different chances of being won, creating an exciting and dynamic experience for participants. In the example above, when a user spins the wheel, they have a 60% chance to win 20 cFuel, a 30% chance to win 50 cFuel, and a 10% chance to win 100 cFuel.
 
 - Finally, click **Add Task** to activate the Spin the Wheel task.
 

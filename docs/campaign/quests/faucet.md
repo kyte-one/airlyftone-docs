@@ -4,7 +4,7 @@ Faucets are a powerful tool for engaging and rewarding early-stage users within 
 
 Imagine you are running a Web3 project that grants early access to users who have supported you since the beginning. You want to reward these users by allowing them to claim tokens, but only after verifying their eligibility. With AirLyft, you can create tasks that ensure only qualified participants can claim rewards.
 
-For example, you can check if their wallet address is on an approved whitelist. This streamlined process ensures that rewards go to genuine supporters while maintaining security and fairness within your community.
+For example, you can only allow users to claim the faucet if their wallet address is on an approved whitelist. This streamlined process ensures that rewards go to genuine supporters while maintaining security and fairness within your community.
 
 Let's dive deep on how we can create these actions at AirLyft.
 
@@ -14,7 +14,7 @@ Let's dive deep on how we can create these actions at AirLyft.
 
 - Select an action from the list below that you would want the participants to perform.
 
-  - Select **Dotsama Faucet** to Transfer native dotsama asset to a participant .
+  - Select **Dotsama Faucet** to Transfer native dotsama asset to a participant (e.g., DOT, KSM, PAS, ASTR).
 
   - Select **EVM Faucet** to Transfer EVM gas token to a participant.
 

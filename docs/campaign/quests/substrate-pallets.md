@@ -68,7 +68,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 
 #### Check Substrate Stake Amount
 
-- Staking plays a vital role in securing blockchain networks, and this option enables you to check if a user has staked a specific amount of tokens. By using this task, you can create campaigns that incentivize users to participate in staking, ensuring they are actively contributing to network security before earning rewards.
+- This option enables you to check if a user has staked a specific amount of tokens. By using this task, you can create campaigns that incentivize users to participate in staking.
 
 1. Navigate to the "Quests" tab in your campaign page and select the Substrate Pallets quest. From the available options, choose **Substrate Stake Amount**, as shown in the image below.
 
@@ -86,7 +86,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 
 #### Check Substrate AssetHub Asset Balance
 
-- Many blockchain ecosystems have multiple assets, and this option lets you verify if a user holds a required amount of a specific token on Substrate AssetHub. This feature is ideal for projects looking to engage users who hold specific assets, ensuring they meet the criteria before progressing in a campaign.
+- This option lets you verify if a user holds a required amount of a specific token on Substrate AssetHub.
 
 1. Select the **Substrate AssetHub Asset Balance** option, as shown in the screenshot below.
 
@@ -114,7 +114,17 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 
 3. To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
-4. Select your **Blockhain** and then enter the **NFT ID** and **Requirement Type**.
+4. Select your **Blockchain** and then enter the **NFT ID** and **Requirement Type**.
+
+   To find an NFT ID:
+
+   1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/#/explorer)
+   2. Connect to the relevant AssetHub (e.g., Polkadot AssetHub)
+   3. Go to Developer > Chain State
+   4. Select `uniques` pallet > `asset` query
+   5. Enter the collection ID and item ID
+
+   The NFT ID format is typically `{collectionId}-{itemId}` (e.g., "123-456")
 
 5. Then click on **Add Task** button. That's it your Substrate Pallets quest has been created.
 
@@ -141,7 +151,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 
 #### Substrate Bond to Pool
 
-- In Proof-of-Stake networks, users can delegate their tokens to validators who help secure the blockchain. This option checks if a user has nominated a validator, ensuring they are actively participating in governance and network security. Campaigns using this task can reward users who contribute to the decentralization and efficiency of the network.
+- This option checks if a user has nominated a validator, ensuring they are actively participating in governance and network security.
 
 1. Select the Substrate Bond to Pool option, as shown in the screenshot below.
    ![](../../images/palletsOptions.png)

@@ -1,6 +1,6 @@
 # Beamswap
 
-Beamswap allows users to complete quests by performing specific on-chain actions, such as swapping tokens or allocating stGLINT. With AirLyft, communities can create tasks that require participants to engage with Beamswap, ensuring meaningful interactions while rewarding them for their participation.
+[Beamswap](https://beamswap.io/) allows users to complete quests by performing specific on-chain actions, such as swapping tokens or allocating stGLINT. With AirLyft, communities can create tasks that require participants to engage with Beamswap, ensuring meaningful interactions while rewarding them for their participation.
 
 For example, if you want users to swap tokens on Beamswap, you can create a task that verifies their transaction and rewards them accordingly. Similarly, if your campaign involves staking or liquidity allocation, you can set up a task that ensures users have allocated a minimum amount of stGLINT before claiming rewards. These tasks help drive engagement while maintaining transparency and fairness within your community.
 
@@ -19,7 +19,7 @@ Let's dive deep on how we can create these actions at AirLyft.
 
 ### Swap any two tokens on Beamswap
 
-Follow these simple steps below on how to Swap any two tokens on Beamswap.
+Follow these simple steps below on how to [Swap any two tokens on Beamswap](https://app.beamswap.io/exchange/braindex).
 
 - As shown in screenshot above, click on the Swap Tokens option.
 
@@ -40,7 +40,7 @@ Follow these simple steps below on how to Swap any two tokens on Beamswap.
 
 ### Allocate stGLINT on Beamswap
 
-This task requires participants to allocate a specified amount of stGLINT on Beamswap.
+This task requires participants to [allocate a specified amount of stGLINT on Beamswap](https://app.beamswap.io/staking).
 
 - As shown in screenshot above, click on the Allocate stGLINT option.
 

@@ -22,6 +22,13 @@ To set up a bridge asset quest, follow these steps:
 
 This task requires participants to bridge tokens from an XCM-compatible parachain to the Moonbeam chain.
 
+You can use any of these official bridges for XCM transfers:
+
+- [Moonbeam DApp](https://apps.moonbeam.network/moonbeam/xcm) - Official Moonbeam XCM transfer interface
+- [Polkadot.js Apps](https://polkadot.js.org/apps/#/xcm-transfer) - Official Polkadot XCM transfer interface
+- [Stellaswap](https://app.stellaswap.com/bridge) - DEX with integrated XCM bridge
+- [BeamSwap](https://beamswap.io/bridge) - DEX with integrated XCM bridge
+
 - As shown in screenshot above, Select the "XCM to Moonbeam" option.
 
 - Next, click on the basic details option to enter the Title, Description, cFuel and XP. It is advisable to elaborate the title and description so that participants have a much greater understanding of task.
