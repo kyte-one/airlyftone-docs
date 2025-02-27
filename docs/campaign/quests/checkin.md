@@ -4,10 +4,10 @@ The Checkin module adds a simple checkin task to the campaign. Users visit the c
 
 - On the event page, click on Quests tab where you can find the 'Checkin' block.
 
-![Chekin Main](../../images/CheckinMain.png)
+  ![Chekin Main](../../images/CheckinMain.png)
 
 - Click on the basic details option to enter the amount of cFuel and XP the participant will get each time they checkin.
 
 - Click on **Add Task**. The Checkin task will be added.
 
-![Checkin Basics](../../images/CheckinBasic.png)
+  ![Checkin Basics](../../images/CheckinBasic.png)

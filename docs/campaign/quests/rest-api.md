@@ -4,7 +4,7 @@ Since not all data is stored on a blockchain, AirLyft offers a comprehensive sol
 
 AirLyft integrates with any system that provides REST API access. Users can link their EVM/Substrate wallets, provide signatures for ownership verification, and then transmit their wallet address to the API, either as query params, body, or headers.
 
-![](../../images/restapi1.png)
+    ![](../../images/restapi1.png)
 
 ### What variables can AirLyft pass to the API?
 
@@ -14,7 +14,7 @@ AirLyft can pass the following information as a query/body param or header.
 2. **Secure User Field**: Any user input that is taken from the participant in the UI and securely sent to your API without being saved or logged in AirLyft's servers. Use this for usernames, keys, or any information your API might need to validate app installs, sign ups etc.
 3. **Connected Wallet**: User's connected wallet address (Substrate or EVM depending on the quest type selected). Use this in case your dApp uses a wallet connection & you need to validate whether the user has used your particular feature.
 
-![](../../images/restapi2.png)
+   ![](../../images/restapi2.png)
 
 These value types are available in all three params - Query, Body and Header.
 
@@ -40,8 +40,9 @@ Say, your dApp allows users to do a transaction X, and you want to create a ques
 
 The API should return some data that can then be used in the condition function to validate whether the user performed the task or not.
 
-Now, you can configure your params in the UI similar to this:
-![](../../images/restapi3.png)
+- Now, you can configure your params in the UI similar to this:
+
+  ![](../../images/restapi3.png)
 
 #### Validate with User Input from the UI
 
@@ -53,11 +54,13 @@ Your REST API should look like the following:
 
 The API should return some data that can then be used in the condition function to validate whether the user signed up or not.
 
-Now, you can configure your params in the UI similar to this:
-![](../../images/restapi4.png)
+- Now, you can configure your params in the UI similar to this:
 
-Finally, the data returned by your API will be send to the condition function. You can modify your condition function to validate the data and return `1` if this is a valid case or `0` if this is an invalid case.
-![](../../images/restapi5.png)
+  ![](../../images/restapi4.png)
+
+- Finally, the data returned by your API will be send to the condition function. You can modify your condition function to validate the data and return `1` if this is a valid case or `0` if this is an invalid case.
+
+  ![](../../images/restapi5.png)
 
 :::note
 **Caveats when only using Secure User Field without wallet connection**

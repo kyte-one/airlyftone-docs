@@ -10,22 +10,23 @@ You can then define the tasks that users need to complete and specify the reward
 
 ## Example 1 (AND): Reward after completing ALL selected tasks
 
-In the case below, when users completes `BOTH` of the given tasks, they can claim `1` reward, the claim can happen instantly without waiting for the event end.
+- In the case below, when users completes `BOTH` of the given tasks, they can claim `1` reward, the claim can happen instantly without waiting for the event end.
 
-![Task Based First Come First Serve](../images/tfcfs-1.png)
+       ![Task Based First Come First Serve](../images/tfcfs-1.png)
 
 ## Example 2 (OR): Reward after completing ANY of the selected tasks
 
-In the case below, when users completes `ANY` of the given tasks, they can claim `1` reward, the claim can happen instantly without waiting for the event end.
+- In the case below, when users completes `ANY` of the given tasks, they can claim `1` reward, the claim can happen instantly without waiting for the event end.
 
-![Task Based First Come First Serve](../images/tfcfs-2.png)
+        ![Task Based First Come First Serve](../images/tfcfs-2.png)
 
 In case you want the users to get multiple rewards based on many different conditions, then you can add more than one rule.
 
 ## Example 3: Mutliple rules for multiple rewards
-1. Get 1 Token for completing BOTH the "Follow" & "Like" Task
-2. Get 2 MORE Tokens for completing the "Omni LS - Mint vGLMR" Task.
 
-Which means, that users can claim a maximum of 3 Tokens from this Reward.
+1.  Get 1 Token for completing BOTH the "Follow" & "Like" Task
+2.  Get 2 MORE Tokens for completing the "Omni LS - Mint vGLMR" Task.
 
-![Task Based First Come First Serve](../images/tfcfs-3.png)
+- Which means, that users can claim a maximum of 3 Tokens from this Reward.
+
+        ![Task Based First Come First Serve](../images/tfcfs-3.png)

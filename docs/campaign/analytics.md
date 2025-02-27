@@ -23,7 +23,7 @@ AirLyft provides projects the flexibility to check the overall view of an event 
 4. Conversion Percentage
 5. Task Level Conversion Percentage
 
-![Overview](../images/overview.png)
+   ![Overview](../images/overview.png)
 
 We have very strategically placed the above parameters in a single view as it gives a greater picture of your campaign performance. Some of the insights you can receive are
 
