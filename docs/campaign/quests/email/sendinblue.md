@@ -13,7 +13,7 @@ To integrate Sendinblue with your AirLyft campaign, you'll need to obtain your A
 - Navigate to the "API Keys" tab
 - Generate a new API key
 
-![Sendinblue API Key](../../../images/EmailSendinblueAPI.png)
+![Sendinblue API Key](../../../images/EmailSendinBlueAPI.png)
 
 ### Finding your List ID:
 
@@ -21,7 +21,7 @@ To integrate Sendinblue with your AirLyft campaign, you'll need to obtain your A
 - Create a new list or select an existing one
 - On the lists tab, locate the ID of the created list
 
-![Sendinblue List ID](../../../images/EmailSendinblueLists.png)
+![Sendinblue List ID](../../../images/EmailSendinBlueLists.png)
 
 ### Managing Subscribers
 

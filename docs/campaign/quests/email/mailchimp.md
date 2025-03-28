@@ -22,7 +22,7 @@ To integrate Mailchimp with your AirLyft campaign, you'll need to obtain your AP
 - Click on "All Contacts"
 - Your Audience ID will be displayed on this page (it appears as a string of letters and numbers)
 
-![Email Mailchimp Aduience Id](../../../images/EmailMailchimpAudienceID.png)
+![Email Mailchimp Aduience Id](../../../images/EmailMailchimpAudienceId.png)
 
 You can view all subscribers in your Mailchimp account under Audience → All Contacts.
 

@@ -12,7 +12,7 @@ To integrate Mailjet with your AirLyft campaign, you'll need to obtain your API 
 - Navigate to the "API" tab → "API Key Management"
 - Generate or copy your existing API Key and Secret Key
 
-![Mailjet API Keys](../../../images/EmailMailjetAPI.png)
+![Mailjet API Keys](../../../images/EmailMailJetAPI.png)
 
 ### Managing Subscribers
 
