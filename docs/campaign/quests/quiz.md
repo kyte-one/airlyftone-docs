@@ -4,22 +4,23 @@ Most projects have moved from the same repetitive marketing method and moved tow
 
 - First, log in to AirLyft and head over to the Quests tab under Campaign Information where you can find the Quiz option.
 
-![](../../images/QuizMain.png)
+  ![](../../images/QuizMain.png)
 
-- Next, enter the Quiz Title and Description. It can be anything, say, KYTE's ROADMAP QUIZ, KYTE's WHITEPAPER & ROADMAP QUIZ, or anything based on your campaign requirements. Enter the quiz title and description in a catchy way so that the user has a great understanding of the type of questions they would be answering and be prepared for it. 
+- Next, enter the Quiz Title and Description. It can be anything, say, KYTE's ROADMAP QUIZ, KYTE's WHITEPAPER & ROADMAP QUIZ, or anything based on your campaign requirements. Enter the quiz title and description in a catchy way so that the user has a great understanding of the type of questions they would be answering and be prepared for it.
 
-![](../../images/QuizBasics.png)
+  ![](../../images/QuizBasics.png)
 
-- Next, click on the "Create Quiz & Proceed" button. The first thing you need to enter is the question that participants need to answer and assign cFuel and XP to each correct answer. 
+- Next, click on the "Create Quiz & Proceed" button. The first thing you need to enter is the question that participants need to answer and assign cFuel and XP to each correct answer.
 
-- Next is the selection of Question Type. AirLyft provides two Question Types 
-    - Single Correct Answers(Radio)
-    - Multiple Correct Answers(Checkbox)
+- Next is the selection of Question Type. AirLyft provides two Question Types
 
-You can choose if a particular question has a single correct answer or multiple correct answers. If you want to add more questions, follow the same process again and have further questions added.
+  - Single Correct Answers(Radio)
+  - Multiple Correct Answers(Checkbox)
 
-![](../../images/QuizType.png)
+- You can choose if a particular question has a single correct answer or multiple correct answers. If you want to add more questions, follow the same process again and have further questions added.
 
-- Finally, click on Save and then Done to create the Quiz Action. 
+  ![](../../images/QuizType.png)
+
+- Finally, click on Save and then Done to create the Quiz Action.
 
 If you are facing any issues with Quiz task creation, please drop a line at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)!
