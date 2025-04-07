@@ -1,26 +1,102 @@
-# Media with AI Verification ✨
+# AI-Powered Verification UGC Task
 
-Projects love engaging with the community and on a regular basis perform engagement activities such as creating a meme, infographics, writing contents, creating funny videos, creating telegram stickers, and many more. Using this task, you can create meme competitions, video creation competitions, and other innovative tasks. AirLyft has introduced a Media functionality in which projects can ask users to create certain contents in form of an image, or video, or simple document and upload their content as an submission for which participants will be rewarded entries. Let's take a look on how we can create Media actions.
+<div style={{ position: "relative", paddingBottom: "50.625%", height: 0 }}>
+  <iframe 
+    src="https://www.loom.com/embed/af5d107eb1874c6b94733a39abcb6629" 
+    frameBorder="0" 
+    webkitAllowFullScreen 
+    mozAllowFullScreen 
+    allowFullScreen 
+    style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%" }}
+  />
+</div>
 
-- Login to AirLyft and create an event. On the event page, click on Quests tab where you can find the **Media with AI verification** block.
+---
+
+AirLyft's **AI Agentic Verification** enables projects to automate the verification of User Generated Content (UGC) submissions. This powerful feature helps ensure content authenticity and saves 100+ hours for marketing and community teams.
+
+## 🧠 What is AI-Powered Verification?
+
+Instead of manually checking every UGC submission, you can configure AI-powered rules to **automatically verify** the content and award points only when it meets the campaign criteria. This prevents irrelevant or fake submissions (like blank screenshots or gibberish text) from being accepted.
+
+---
+
+## ✅ Steps to Create an AI-Powered UGC Task
+
+### 1. Login to the AirLyft Dashboard
+
+Go to [account.airlyft.one](https://account.airlyft.one) and log in to your project dashboard.
+
+---
+
+### 2. Create a Campaign
+
+Click on **"Create Campaign"** and fill out the basic campaign details such as campaign name, description, and duration.
+
+---
+
+### 3. Add a New Task
+
+Within your campaign:
+
+- Click on Quests tab and Choose the task type: **Media with AI verification**.
 
   ![Media Main](../../images/aimediaQuestboard.png)
 
-- Next, expand the basic details option to enter the Title, Description, and Entries. It is advisable to elaborate on the title and description so that participants have a much greater understanding of the task. You can also provide a screenshot example that gives a better perspective of what type of contents users need to upload. **Do take a note of the dimensions which is 640px X 360px!**
+---
+
+### 4. Configure Task Settings
+
+Fill out the following details:
+
+- **Task Title**: Name of the task
+- **Points**: How many points to reward for successful submission
+- **Custom Icon**: (Optional) Icon that represents the task
 
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
   ![Media Basics](../../images/MediaBasics.png)
 
-- You can also select the type of verification you want for the task. There are three options:
+---
 
-  - **Manually verify submissions:** Manually select which submission to mark as valid.
-  - **Accept all submissions:** All submissions are automatically marked as valid.
-  - **AI-powered verification:** Use AI to automatically verify if the uploaded content matches your requirements. You'll need to provide clear instructions for the AI to verify against (e.g., "The image should be a meme that talks about AirLyft").
+### 5. Set Verification Type
 
-  ![Media Options](../../images/mediaOptions.png)
+Scroll to the **Verification Type** section and select AI Powered Verification
 
-- Finally click on **Add Task** and that's it. Your media task creation is complete and ready for campaign.
+:::note
+There are three available options:
+
+- **Manually verify submissions:** Manually select which submission to mark as valid.
+- **Accept all submissions:** All submissions are automatically marked as valid.
+- **AI-powered verification:** Use AI to automatically verify if the uploaded content matches your requirements.
+  :::
+
+![Media Options](../../images/mediaOptions.png)
+
+### 6. Enter the AI Prompt
+
+In the **Prompt Box**, describe in detail what the AI should check in the submission.
+
+> 💡 **The better your prompt, the more accurate the AI's verification will be.**
+
+#### 📘 Example Prompt:
+
+You are provided with a screenshot. Please verify the following:
+The screenshot is from Medium.com. Confirm this by checking layout, branding, URL (if visible), or common Medium elements (like title style, author block, etc.).
+
+The user has clapped for the article. Confirm if the clap icon (hand emoji) appears filled in solid black (not just outlined).
+
+### 7. Save the Task
+
+Click **Save** to add the AI-powered UGC task to your campaign. Once saved, the task will be live, and submissions will be automatically verified based on your prompt.
+
+## 🔍 Tips for Better Results
+
+- Be as specific as possible in your prompt.
+- Avoid vague instructions—clarity improves AI accuracy.
+- Test the task yourself to validate the AI response before launching publicly.
+
+---
 
 :::tip For instant help
 
