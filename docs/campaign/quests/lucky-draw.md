@@ -30,7 +30,7 @@ Within your campaign:
   - [**Slot Machine**](#to-setup-slot-machine-task): Spin the slot machine and stand a chance to win amazing prices.
   - [**Mystery Box**](#to-setup-mystery-box-task): Open the mystery box and stand a chance to win amazing prices.
 
-  ![Lucky draw options](../../images/LuckyDrawOption.png)
+  ![Lucky draw options](../../images/luckydrawOption.png)
 
 ---
 
