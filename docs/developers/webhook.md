@@ -113,13 +113,27 @@ This signature is sent in the signature variable in the HTTP body so that the cl
 
 ### Steps to get the secret
 
-1. Go to https://account.airlyft.one/settings/community/advance & click on "Generate Signature"
+1. Navigate to the Integration Page in your AirLyft dashboard.
 
-![Community Advance Setting](./../images/webhookGenSecret.png)
+   ![Integration Page](../images/integrationPage.png)
 
-2. Copy the secret & use it on your end
+2. Locate and click on the Webhook integration block from the available options.
 
-![Communtiy Advance Setting](./../images/webhookCopySecret.png)
+3. Click the "Generate Signature" button.
+
+   ![SendGrid Block](../images/webhookGenerate.png)
+
+4. Copy the secret & use it on your end.
+
+5. Click in the "Add Webhook" button to start the configuration process.
+
+   ![Add Integration](../images/webhookAdd.png)
+
+6. Enter the following required information.
+
+   ![SendGrid Integration](../images/webhookForm.png)
+
+7. Review your entered credentials and click "Save" to complete the integration setup.
 
 ### How to verify the signature on your end
 
