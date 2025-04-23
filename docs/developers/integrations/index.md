@@ -17,7 +17,7 @@ AirLyft currently supports the following integrations:
 - [MailerLite](./mailerlite) - Integrate with MailerLite for subscriber verification
 - [Sendinblue](./sendinblue) - Connect your Sendinblue account for email marketing integration
 - [Shopify](./shopify) - Verify Shopify customers and integrate store purchases into your campaigns
-- [Telegram](./telegram) - Connect your Telegram groups and channels with AirLyft campaigns
+- [Telegram](./telegram-integration) - Connect your Telegram groups and channels with AirLyft campaigns
 - [Zapier](./zapier) - Connect AirLyft with thousands of apps through Zapier automation
 - [Kit](./kit) - Use our developer kit to create custom integrations
 
