@@ -46,7 +46,25 @@ To integrate Zapier with your AirLyft campaigns, you'll need to set up both your
 
 7. Click "Continue" and test the connection to ensure it works properly.
 
-### Step 4: Set Up the Action
+### Step 4: Configure Webhook in AirLyft
+
+1. Return to your AirLyft dashboard and navigate to the Zapier integration page.
+
+   ![Zapier add webhook](../../images/zapierAdd.png)
+
+2. Click on "Add Webhook" to open the configuration form.
+
+   ![Zapier form](../../images/zapierForm.png)
+
+3. Enter a descriptive name for your webhook (e.g., "Participation Data").
+4. Paste the Webhook URL you copied from Zapier.
+5. Click "Save" to create the webhook connection.
+
+   ![Zapier webhook](../../images/zapierCreated.png)
+
+### Example: Setting Up an Action
+
+_Note: This is an example of how to set up an action. The specific steps will depend on your selected action type._
 
 1. Choose the app you want to connect with AirLyft (e.g., Google Sheets, Slack, Discord).
 
@@ -77,21 +95,7 @@ To integrate Zapier with your AirLyft campaigns, you'll need to set up both your
    - Click the "Test & Continue" button to run a test of your complete Zap.
    - Review the test results to ensure all data is being passed correctly.
 
-### Step 5: Configure Webhook in AirLyft
-
-1. Return to your AirLyft dashboard and navigate to the Zapier integration page.
-
-   ![Zapier add webhook](../../images/zapierAdd.png)
-
-2. Click on "Add Webhook" to open the configuration form.
-
-   ![Zapier form](../../images/zapierForm.png)
-
-3. Enter a descriptive name for your webhook (e.g., "Participation Data").
-4. Paste the Webhook URL you copied from Zapier.
-5. Click "Save" to create the webhook connection.
-
-   ![Zapier webhook](../../images/zapierCreated.png)
+> **Note:** The Participation webhook will only be integrated with the Campaign, while the Subscribe Newsletter webhook will only be integrated with Email Quest. The Subscribe Newsletter webhook will be integrated in the same way as the Participation data.
 
 :::tip For instant help
 
