@@ -18,7 +18,7 @@ To integrate Shopify with your AirLyft campaign, you'll need to obtain your Acce
 
 > - If it's not created, click "Configure Admin API Scopes"
 
-![Detailed view of Shopify API Scopes configuration](../../images/shopifyConfigure.png)
+![Detailed view of Shopify API Scopes configuration](../images/shopifyConfigure.png)
 
 > - In the permissions list, scroll to find the "Customers" section
 > - Check both boxes:
@@ -26,19 +26,19 @@ To integrate Shopify with your AirLyft campaign, you'll need to obtain your Acce
 >   ✓ "write_customers" (to manage customer information)
 > - Click "Save" to apply these permissions
 
-![Customer permissions configuration screen](../../images/shopifyAddCongifure.png)
+![Customer permissions configuration screen](../images/shopifyAddCongifure.png)
 
 > - Return to the "API credentials" tab
 > - Look for the "Install App" button and click it
 > - Confirm the installation when prompted
 
-![App installation confirmation screen](../../images/shopifyInstall.png)
+![App installation confirmation screen](../images/shopifyInstall.png)
 
 > - After installation, your Access Token will be displayed
 
 - Copy this token.
 
-![Access Token generation screen](../../images/EmailShopifyAPI.png)
+![Access Token generation screen](../images/EmailShopifyAPI.png)
 
 ### Finding your Store Name:
 
@@ -47,7 +47,7 @@ To integrate Shopify with your AirLyft campaign, you'll need to obtain your Acce
 - The highlighted portion is your store name
 - You can also find your store name in the URL: "admin.shopify.com/store/`8medwf-2m`"
 
-![Shopify Store Name](../../images/EmailShopifyStore.png)
+![Shopify Store Name](../images/EmailShopifyStore.png)
 
 ### Managing Customers
 
@@ -61,7 +61,7 @@ Follow these steps to configure your Shopify integration:
 
    - Navigate to the Integration Page in your AirLyft dashboard.
 
-     ![Integration Page](../../images/integrationPage.png)
+     ![Integration Page](../images/integrationPage.png)
 
 2. **Select Shopify**
    .
@@ -72,7 +72,7 @@ Follow these steps to configure your Shopify integration:
 
    - Click the "Add Integration" button to start the configuration process.
 
-     ![Shopify Block](../../images/shopifyAdd.png)
+     ![Shopify Block](../images/shopifyAdd.png)
 
 4. **Configure Integration Details**
 
@@ -82,7 +82,7 @@ Follow these steps to configure your Shopify integration:
      - Store Name: Enter your Shopify store name (e.g., '8medwf-2m').
      - Access Token: Enter your Shopify Admin API Access Token.
 
-       ![Add Integration](../../images/shopifyForm.png)
+       ![Add Integration](../images/shopifyForm.png)
 
 5. **Verification and Completion**
 
@@ -90,7 +90,7 @@ Follow these steps to configure your Shopify integration:
    - Click "Save" to complete the integration setup.
    - Your Shopify integration is now ready for use in campaign tasks.
 
-     ![Shopify Integration](../../images/shopifyCreated.png)
+     ![Shopify Integration](../images/shopifyCreated.png)
 
 Note: Double-check all credentials before saving to ensure proper connectivity with your Shopify store.
 

@@ -30,7 +30,7 @@ To set up any integration:
 3. Click **Add Integration** and follow the specific setup instructions
 4. Once configured, you can use the integration in your campaign tasks
 
-![Integration Page](../../images/integrationPage.png)
+![Integration Page](../images/integrationPage.png)
 
 ## Using Integrations in Campaigns
 

@@ -13,7 +13,7 @@ To integrate Sendinblue with your AirLyft campaign, you'll need to obtain your A
 - Navigate to the "API Keys" tab
 - Generate a new API key
 
-![Sendinblue API Key](../../images/EmailSendinBlueAPI.png)
+![Sendinblue API Key](../images/EmailSendinBlueAPI.png)
 
 ### Finding your List ID:
 
@@ -21,7 +21,7 @@ To integrate Sendinblue with your AirLyft campaign, you'll need to obtain your A
 - Create a new list or select an existing one
 - On the lists tab, locate the ID of the created list
 
-![Sendinblue List ID](../../images/EmailSendinBlueLists.png)
+![Sendinblue List ID](../images/EmailSendinBlueLists.png)
 
 ### Managing Subscribers
 
@@ -35,7 +35,7 @@ Follow these steps to configure your Sendinblue integration:
 
    - Navigate to the Integration Page in your AirLyft dashboard.
 
-     ![Integration Page](../../images/integrationPage.png)
+     ![Integration Page](../images/integrationPage.png)
 
 2. **Select Sendinblue**
 
@@ -45,7 +45,7 @@ Follow these steps to configure your Sendinblue integration:
 
    - Click the "Add Integration" button to start the configuration process.
 
-     ![MailerLite Block](../../images/sendinblueAdd.png)
+     ![MailerLite Block](../images/sendinblueAdd.png)
 
 4. **Configure Integration Details**
 
@@ -55,7 +55,7 @@ Follow these steps to configure your Sendinblue integration:
      - API Key: Enter your Sendinblue API key.
      - List ID: Input your Sendinblue List ID.
 
-       ![Sendinblue Block](../../images/sendinblueForm.png)
+       ![Sendinblue Block](../images/sendinblueForm.png)
 
 5. **Verification and Completion**
 
@@ -63,7 +63,7 @@ Follow these steps to configure your Sendinblue integration:
    - Click "Save" to complete the integration setup.
    - Your Sendinblue integration is now ready for use in campaign tasks.
 
-     ![Sendinblue Integration](../../images/sendinblueCreated.png)
+     ![Sendinblue Integration](../images/sendinblueCreated.png)
 
 Note: Double-check all credentials before saving to ensure proper connectivity with your Sendinblue account.
 

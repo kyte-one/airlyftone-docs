@@ -14,7 +14,7 @@ To integrate Mailchimp with your AirLyft campaign, you'll need to obtain your AP
 - Navigate to "Extras" and then "API Key"
 - Generate a new API key or copy your existing one
 
-![Email Mailchimp API Key](../../images/EmailMailchimpApiKey.png)
+![Email Mailchimp API Key](../images/EmailMailchimpApiKey.png)
 
 ### Finding your Audience ID:
 
@@ -22,7 +22,7 @@ To integrate Mailchimp with your AirLyft campaign, you'll need to obtain your AP
 - Click on "All Contacts"
 - Your Audience ID will be displayed on this page (it appears as a string of letters and numbers)
 
-![Email Mailchimp Aduience Id](../../images/EmailMailchimpAudienceId.png)
+![Email Mailchimp Aduience Id](../images/EmailMailchimpAudienceId.png)
 
 You can view all subscribers in your Mailchimp account under Audience → All Contacts.
 
@@ -34,7 +34,7 @@ Follow these steps to set up your Mailchimp integration in AirLyft:
 
    - Navigate to the Integration Page in your AirLyft dashboard.
 
-     ![Integration Page](../../images/integrationPage.png)
+     ![Integration Page](../images/integrationPage.png)
 
 2. **Select Mailchimp**
 
@@ -44,7 +44,7 @@ Follow these steps to set up your Mailchimp integration in AirLyft:
 
    - Click the "Add Integration" button to begin the setup process.
 
-     ![Mailchimp Block](../../images/mailchimpAdd.png)
+     ![Mailchimp Block](../images/mailchimpAdd.png)
 
 4. **Configure Integration Details**
 
@@ -54,14 +54,14 @@ Follow these steps to set up your Mailchimp integration in AirLyft:
      - API Key: Paste your Mailchimp API key.
      - List ID: Enter your Mailchimp Audience ID.
 
-       ![Add Integration](../../images/mailchimpIntegration.png)
+       ![Add Integration](../images/mailchimpIntegration.png)
 
 5. **Completion**
 
    - Your Mailchimp integration is now ready to use.
    - You can utilize this integration when creating campaign tasks.
 
-     ![Mailchimp Integration](../../images/mailchimpCreated.png)
+     ![Mailchimp Integration](../images/mailchimpCreated.png)
 
 > Note: Ensure all credentials are entered correctly to avoid connection issues.
 

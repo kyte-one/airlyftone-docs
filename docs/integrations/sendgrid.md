@@ -13,7 +13,7 @@ To integrate SendGrid with your AirLyft campaign, you'll need to obtain your API
 - Click on the "API Keys" tab
 - Generate a new API key
 
-![SendGrid API Key](../../images/EmailSendGridAPI.png)
+![SendGrid API Key](../images/EmailSendGridAPI.png)
 
 ### Managing Subscribers
 
@@ -30,7 +30,7 @@ Follow these steps to configure your SendGrid integration:
 
    - Navigate to the Integration Page in your AirLyft dashboard.
 
-     ![Integration Page](../../images/integrationPage.png)
+     ![Integration Page](../images/integrationPage.png)
 
 2. **Select SendGrid**
 
@@ -40,7 +40,7 @@ Follow these steps to configure your SendGrid integration:
 
    - Click the "Add Integration" button to start the configuration process.
 
-     ![SendGrid Block](../../images/sendgridAdd.png)
+     ![SendGrid Block](../images/sendgridAdd.png)
 
 4. **Configure Integration Details**
 
@@ -49,7 +49,7 @@ Follow these steps to configure your SendGrid integration:
      - Integration Name: Provide a descriptive name for easy identification.
      - API Key: Enter your SendGrid API key.
 
-     ![Add Integration](../../images/sendgridForm.png)
+     ![Add Integration](../images/sendgridForm.png)
 
 5. **Verification and Completion**
 
@@ -57,7 +57,7 @@ Follow these steps to configure your SendGrid integration:
    - Click "Save" to complete the integration setup.
    - Your SendGrid integration is now ready for use in campaign tasks.
 
-     ![SendGrid Integration](../../images/sendgridCreated.png)
+     ![SendGrid Integration](../images/sendgridCreated.png)
 
 > Note: Double-check all credentials before saving to ensure proper connectivity with your SendGrid account.
 

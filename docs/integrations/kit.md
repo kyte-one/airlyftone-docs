@@ -14,7 +14,7 @@ To integrate ConvertKit with your AirLyft campaign, you'll need to obtain your A
 - Navigate to the "Developer" tab
 - Generate a v3 API Key or copy your existing one
 
-![ConvertKit API](../../images/EmailConvertKitAPI.png)
+![ConvertKit API](../images/EmailConvertKitAPI.png)
 
 ### Finding your Form ID:
 
@@ -23,13 +23,13 @@ To integrate ConvertKit with your AirLyft campaign, you'll need to obtain your A
 - Create a new form (Clear Form) with email input box only
 - Save the form
 
-![ConvertKit Form](../../images/EmailConvertKitForm.png)
+![ConvertKit Form](../images/EmailConvertKitForm.png)
 
 - Go to the settings and then the "Incentive" tab
 - Uncheck "Send incentive email" and check "Auto-confirm new subscribers"
 - Save the settings
 
-![ConvertKit Form](../../images/EmailConvertKitSettings.png)
+![ConvertKit Form](../images/EmailConvertKitSettings.png)
 
 - Copy the Form ID from the URL: "app.convertkit.com/forms/designers/`7840253`/edit".
 
@@ -43,7 +43,7 @@ Follow these steps to configure your ConvertKit integration:
 
    - Navigate to the Integration Page in your AirLyft dashboard.
 
-     ![Integration Page](../../images/integrationPage.png)
+     ![Integration Page](../images/integrationPage.png)
 
 2. **Select ConvertKit**
 
@@ -53,7 +53,7 @@ Follow these steps to configure your ConvertKit integration:
 
    - Click the "Add Integration" button to start the configuration process.
 
-     ![ConvertKit Block](../../images/convertkitAdd.png)
+     ![ConvertKit Block](../images/convertkitAdd.png)
 
 4. **Configure Integration Details**
 
@@ -63,7 +63,7 @@ Follow these steps to configure your ConvertKit integration:
      - API Key: Enter your ConvertKit v3 API key.
      - Form ID: Input your ConvertKit Form ID.
 
-       ![Add Integration](../../images/converkitForm.png)
+       ![Add Integration](../images/converkitForm.png)
 
 5. **Verification and Completion**
 
@@ -71,7 +71,7 @@ Follow these steps to configure your ConvertKit integration:
    - Click "Save" to complete the integration setup.
    - Your ConvertKit integration is now ready for use in campaign tasks.
 
-     ![ConvertKit Integration](../../images/convertkitCreated.png)
+     ![ConvertKit Integration](../images/convertkitCreated.png)
 
 > Note: Double-check all credentials before saving to ensure proper connectivity with your ConvertKit account.
 

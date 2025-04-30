@@ -13,7 +13,7 @@ To integrate Klaviyo with your AirLyft campaign, you'll need to obtain your API 
 - Navigate to "Account" → "API Keys"
 - Generate a private API key
 
-![Klaviyo API Key](../../images/EmailKlaviyoPrivateKey.png)
+![Klaviyo API Key](../images/EmailKlaviyoPrivateKey.png)
 
 ### Finding your List ID:
 
@@ -24,7 +24,7 @@ To integrate Klaviyo with your AirLyft campaign, you'll need to obtain your API 
 - In "Opt-in process", select the "Single opt-in" option
 - Your List ID can be found in the URL: "klaviyo.com/list/`Y5HSa4`"
 
-![Klaviyo List ID](../../images/EmailKlaviyoSetting.png)
+![Klaviyo List ID](../images/EmailKlaviyoSetting.png)
 
 You can view all subscribers by opening the list from the Audience section.
 
@@ -36,7 +36,7 @@ Follow these steps to configure your Klaviyo integration:
 
    - Navigate to the Integration Page in your AirLyft dashboard.
 
-     ![Integration Page](../../images/integrationPage.png)
+     ![Integration Page](../images/integrationPage.png)
 
 2. **Select Klaviyo**
 
@@ -46,7 +46,7 @@ Follow these steps to configure your Klaviyo integration:
 
    - Click the "Add Integration" button to start the configuration process.
 
-     ![Klaviyo Block](../../images/klaviyoAdd.png)
+     ![Klaviyo Block](../images/klaviyoAdd.png)
 
 4. **Configure Integration Details**
 
@@ -56,7 +56,7 @@ Follow these steps to configure your Klaviyo integration:
      - API Key: Enter your Klaviyo private API key.
      - List ID: Input your Klaviyo List ID.
 
-     ![Add Integration](../../images/klaviyoForm.png)
+     ![Add Integration](../images/klaviyoForm.png)
 
 5. **Verification and Completion**
 
@@ -64,7 +64,7 @@ Follow these steps to configure your Klaviyo integration:
    - Click "Save" to complete the integration setup.
    - Your Klaviyo integration is now ready for use in campaign tasks.
 
-     ![Klaviyo Integration](../../images/klayviyoCreated.png)
+     ![Klaviyo Integration](../images/klayviyoCreated.png)
 
 > Note: Double-check all credentials before saving to ensure proper connectivity with your Klaviyo account.
 

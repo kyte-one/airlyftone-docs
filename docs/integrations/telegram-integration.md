@@ -24,7 +24,7 @@ Follow these steps to configure your Telegram integration:
 
    - Navigate to the Integration Page in your AirLyft dashboard.
 
-     ![Integration Page](../../images/integrationPage.png)
+     ![Integration Page](../images/integrationPage.png)
 
 2. **Select Telegram**
 
@@ -34,7 +34,7 @@ Follow these steps to configure your Telegram integration:
 
    - Click the "Add Integration" button to start the configuration process.
 
-     ![Telegram Block](../../images/telegramAdd.png)
+     ![Telegram Block](../images/telegramAdd.png)
 
 4. **Configure Integration Details**
 
@@ -43,7 +43,7 @@ Follow these steps to configure your Telegram integration:
      - Integration Name: Provide a descriptive name for easy identification.
      - Bot API Key: Paste your Telegram Bot Token.
 
-     ![Add Integration](../../images/telegramForm.png)
+     ![Add Integration](../images/telegramForm.png)
 
 5. **Verification and Completion**
 
@@ -51,7 +51,7 @@ Follow these steps to configure your Telegram integration:
    - Click "Save" to complete the integration setup.
    - Your Telegram integration is now ready for use in campaign tasks.
 
-     ![Telegram Integration](../../images/telegramCreated.png)
+     ![Telegram Integration](../images/telegramCreated.png)
 
 :::tip For instant help
 

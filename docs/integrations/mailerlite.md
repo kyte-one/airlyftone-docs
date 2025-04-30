@@ -12,7 +12,7 @@ To integrate MailerLite with your AirLyft campaign, you'll need to obtain your A
 - Navigate to "Integrations" → "API"
 - Generate an API Token
 
-![MailerLite API Token](../../images/EmailMailerLiteAPIKey.png)
+![MailerLite API Token](../images/EmailMailerLiteAPIKey.png)
 
 ### Managing Subscribers
 
@@ -26,7 +26,7 @@ Follow these steps to configure your MailerLite integration:
 
    - Navigate to the Integration Page in your AirLyft dashboard.
 
-     ![Integration Page](../../images/integrationPage.png)
+     ![Integration Page](../images/integrationPage.png)
 
 2. **Select MailerLite**
 
@@ -36,7 +36,7 @@ Follow these steps to configure your MailerLite integration:
 
    - Click the "Add Integration" button to start the configuration process.
 
-     ![MailerLite Block](../../images/mailerliteAdd.png)
+     ![MailerLite Block](../images/mailerliteAdd.png)
 
 4. **Configure Integration Details**
 
@@ -45,7 +45,7 @@ Follow these steps to configure your MailerLite integration:
      - Integration Name: Provide a descriptive name for easy identification.
      - Access Token: Enter your MailerLite API Access Token.
 
-       ![Add Integration](../../images/mailerliteForm.png)
+       ![Add Integration](../images/mailerliteForm.png)
 
 5. **Verification and Completion**
 
@@ -53,7 +53,7 @@ Follow these steps to configure your MailerLite integration:
    - Click "Save" to complete the integration setup.
    - Your MailerLite integration is now ready for use in campaign tasks.
 
-     ![MailerLite Integration](../../images/mailerliteCreated.png)
+     ![MailerLite Integration](../images/mailerliteCreated.png)
 
 Note: Double-check all credentials before saving to ensure proper connectivity with your MailerLite account.
 
