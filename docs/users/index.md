@@ -1,10 +1,11 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Participation Guides
 
 :::tip This document is in progress, for instant help
+
 1. Email us at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)
 2. Join [this Telegram group](https://t.me/kyteone): https://t.me/kyteone
 
