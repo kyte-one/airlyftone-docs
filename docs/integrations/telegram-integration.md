@@ -8,7 +8,7 @@ To integrate Telegram with your AirLyft campaign, you'll need to obtain a Bot AP
 
 ### Creating a Telegram Bot:
 
-For detailed step-by-step instructions on how to create a Telegram bot for verification using BotFather, please refer to our guide: [Set Up Telegram Bot](https://kyteone.medium.com/airlyft-update-improved-telegram-integration-c5636f19c8e5)
+For detailed step-by-step instructions on how to create a Telegram bot for verification using BotFather, please refer to our guide: [Set Up Telegram Bot](../docs/how-to-create-telegram-bot.md)
 
 This guide covers:
 

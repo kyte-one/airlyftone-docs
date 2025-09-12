@@ -29,7 +29,7 @@ AirLyft now supports Telegram integration and you can create Telegram-based task
 
   ![](../../images/TelegramVerification.png)
 
-- After you have clicked on Setup Telegram Integration, you will be asked to enter a BOT API Key that you can create using Godfather. To know in-depth how to create a Telegram bot for verification using Godfather, please click on this link [Set Up Telegram Bot](https://kyteone.medium.com/airlyft-update-improved-telegram-integration-c5636f19c8e5) where step by step details about bot creation is mentioned.
+- After you have clicked on Setup Telegram Integration, you will be asked to enter a BOT API Key that you can create using Godfather. To know in-depth how to create a Telegram bot for verification using Godfather, please click on this link [Set Up Telegram Bot](../../docs/how-to-create-telegram-bot.md) where step by step details about bot creation is mentioned.
 
   ![](../../images/TelegramBot.png)
 
