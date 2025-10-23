@@ -12,7 +12,7 @@ Before starting, the important thing to note is that "**a Referral is only consi
 
 - Then, you will have the option to enter the cFuel and XP that will have to be rewarded to users on each successful referral. You can also set up a limit on how many maximum referrals can per user do for their unique link.
 
-  > **Please note that entries once saved can't be updated.**
+  > **Please note that cFuel/XP once saved can't be updated.**
 
   ![Referral Task Details](../../images/ReferralTaskDetails.png)
 

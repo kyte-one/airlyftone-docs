@@ -2,7 +2,7 @@
 
 Emails are one of the best for of communication and gathering early-stage users. With that in mind, the team at AirLyft has created an innovative functionality for our projects that will give them the power to capture verified email addresses of their participants and also automatically create a method to check if they belong to a particular list or not.
 
-For example, let's consider that you are a project providing crowd list early access to users who have been with you since the start. Now, you want them to reward entries where only the early access list users can verify a particular task. From checking a verified email to cross-checking if a user's email address is available in the list or not, these tasks can be easily created at AirLyft.
+For example, let's consider that you are a project providing crowd list early access to users who have been with you since the start. Now, you want them to reward cFuel/XP where only the early access list users can verify a particular task. From checking a verified email to cross-checking if a user's email address is available in the list or not, these tasks can be easily created at AirLyft.
 In this module, we'll be discussing below Email actions:
 
 - [Collect Verified Email](#collect-verified-email)

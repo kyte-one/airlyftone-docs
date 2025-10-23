@@ -63,7 +63,7 @@ export const EventTemplates: EventTemplate[] = [
   },
   {
     title: 'Multichain HODL Contest',
-    description: 'Reward entries to HODLers of your token on one or more chains (together!).',
+    description: 'Reward cFuel/XP to HODLers of your token on one or more chains (together!).',
     preview: require('./templates/hodlbanner.jpeg'),
     website: 'https://app.airlyft.one/airlyft-docs/hodl-a-token',
     source: 'https://account.airlyft.one',
