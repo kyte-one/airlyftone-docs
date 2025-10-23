@@ -6,9 +6,9 @@ Bridging assets involves transferring tokens between different blockchain networ
 
 To set up a bridge asset quest, follow these steps:
 
-- Login to AirLyft and create a campaign. Navigate to the Campaign page and click on the Quests tab, where you will find the Bridge Asset block as shown in the screenshot below.
+- Navigate to the Campaign page and click on the Quests tab, where you will find the **Bridge Assets** block as shown in the screenshot below.
 
-  ![](../../images/bridgeQuest.png)
+  ![Bridge Assets Task Main](../../images/bridgeQuest.png)
 
 - Choose the bridging method. Select how you want participants to bridge their assets from the following options:
 
@@ -16,7 +16,7 @@ To set up a bridge asset quest, follow these steps:
   - [Axelar Bridge to Moonbeam](#bridge-assets-to-moonbeam-using-axelar)
   - [Wormhole Bridge to Moonbeam](#bridge-assets-to-moonbeam-using-wormhole)
 
-  ![](../../images/bridgeOption.png)
+  ![Bridge Assets Task Options](../../images/bridgeOption.png)
 
 ### Bridge tokens using XCM to Moonbeam chain
 
@@ -31,13 +31,11 @@ You can use any of these official bridges for XCM transfers:
 
 - As shown in screenshot above, Select the "XCM to Moonbeam" option.
 
-- Next, click on the basic details option to enter the Title, Description, cFuel and XP. It is advisable to elaborate the title and description so that participants have a much greater understanding of task.
-
-  ![](../../images/bridgeBasics.png)
+- Next, configure the basic details for your XCM bridge task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
-  ![](../../images/bridgeXCM.png)
+  ![Bridge Assets Task XCM Details](../../images/bridgeXCM.png)
 
 - Configure the bridge conditions.
 
@@ -55,13 +53,11 @@ This task verifies whether participants have successfully bridged assets to the 
 
 - Select the "Axelar Bridge to Moonbeam" option.
 
-- Next, click on the basic details option to enter the Title, Description, cFuel and XP. It is advisable to elaborate the title and description so that participants have a much greater understanding of task.
-
-  ![](../../images/bridgeBasics.png)
+- Next, configure the basic details for your Axelar bridge task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
-  ![](../../images/bridgeAxelar.png)
+  ![Bridge Assets Task Axelar Details](../../images/bridgeAxelar.png)
 
 - Select the **Source Blockchain** and **Asset** from the given list.
 
@@ -77,13 +73,11 @@ This task verifies whether participants have successfully bridged assets to the 
 
 - Select the "Wormhole Bridge to Moonbeam" option.
 
-- Next, click on the basic details option to enter the Title, Description, cFuel and XP. It is advisable to elaborate the title and description so that participants have a much greater understanding of task.
-
-  ![](../../images/bridgeBasics.png)
+- Next, configure the basic details for your Wormhole bridge task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
-  ![](../../images/bridgeWormhole.png)
+  ![Bridge Assets Task Wormhole Details](../../images/bridgeWormhole.png)
 
 - Select the **Source Blockchain** and **Asset** from the available options.
 

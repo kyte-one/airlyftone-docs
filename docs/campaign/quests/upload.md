@@ -1,4 +1,4 @@
-# AI-Powered Verification UGC Task
+# Media Upload - AI Powered Verification
 
 <div style={{ position: "relative", paddingBottom: "50.625%", height: 0 }}>
   <iframe 
@@ -13,90 +13,23 @@
 
 ---
 
-AirLyft's **AI Agentic Verification** enables projects to automate the verification of User Generated Content (UGC) submissions. This powerful feature helps ensure content authenticity and saves 100+ hours for marketing and community teams.
+- Click on Quests tab and choose the **Media with AI verification** task module.
 
-## 🧠 What is AI-Powered Verification?
+  ![Media Main](../../images/UploadTaskMain.png)
 
-Instead of manually checking every UGC submission, you can configure AI-powered rules to **automatically verify** the content and award points only when it meets the campaign criteria. This prevents irrelevant or fake submissions (like blank screenshots or gibberish text) from being accepted.
-
----
-
-## ✅ Steps to Create an AI-Powered UGC Task
-
-### 1. Login to the AirLyft Dashboard
-
-Go to [account.airlyft.one](https://account.airlyft.one) and log in to your project dashboard.
-
----
-
-### 2. Create a Campaign
-
-Click on **"Create Campaign"** and fill out the basic campaign details such as campaign name, description, and duration.
-
----
-
-### 3. Add a New Task
-
-Within your campaign:
-
-- Click on Quests tab and Choose the task type: **Media with AI verification**.
-
-  ![Media Main](../../images/aimediaQuestboard.png)
-
----
-
-### 4. Configure Task Settings
-
-Fill out the following details:
-
-- **Task Title**: Name of the task
-- **Points**: How many points to reward for successful submission
-- **Custom Icon**: (Optional) Icon that represents the task
+- Next, configure the basic details for your Like & Retweet task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
-  ![Media Basics](../../images/MediaBasics.png)
+- You can also add an example image, which the participants can refer to while making their submissions.
 
----
+  ![Upload Task Details](../../images/UploadTaskDetails.png)
 
-### 5. Set Verification Type
+- You can also specify the file format from **Allowed File Types** dropdown. You can leave it blank to allow all the file types, or you can choose one or more formats incluing PNG, JPG, JPEG, WebP, WebM, MOV, and MP4.
 
-Scroll to the **Verification Type** section and select AI Powered Verification
+- You can also select the type of verification you want for the task. You can learn more about the available verification options by reading the [Verification Types](../quest-verification-type.md) guide.
 
-:::note
-There are three available options:
-
-- **Manually verify submissions:** Manually select which submission to mark as valid.
-- **Accept all submissions:** All submissions are automatically marked as valid.
-- **AI-powered verification:** Use AI to automatically verify if the uploaded content matches your requirements.
-  :::
-
-![Media Options](../../images/mediaOptions.png)
-
-### 6. Enter the AI Prompt
-
-In the **Prompt Box**, describe in detail what the AI should check in the submission.
-
-> 💡 **The better your prompt, the more accurate the AI's verification will be.**
-
-#### 📘 Example Prompt:
-
-You are provided with a screenshot. Please verify the following:
-The screenshot is from Medium.com. Confirm this by checking layout, branding, URL (if visible), or common Medium elements (like title style, author block, etc.).
-
-The user has clapped for the article. Confirm if the clap icon (hand emoji) appears filled in solid black (not just outlined).
-
-### 7. Save the Task
-
-Click **Save** to add the AI-powered UGC task to your campaign. Once saved, the task will be live, and submissions will be automatically verified based on your prompt.
-
-## 🔍 Tips for Better Results
-
-- Be as specific as possible in your prompt.
-- Avoid vague instructions—clarity improves AI accuracy.
-- Test the task yourself to validate the AI response before launching publicly.
-
----
+- Click **Save** to add the AI-powered UGC task to your campaign. Once saved, the task will be live, and submissions will be automatically verified based on your prompt.
 
 :::tip For instant help
 

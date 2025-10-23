@@ -17,7 +17,7 @@ Creating these actions are very simple and straight forward at AirLyft.
 
 #### Hold a Token
 
-- Expand the basic details option to enter the Title, Description, cFuel and XP.
+- Configure the basic details for your token/NFT task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
@@ -30,7 +30,7 @@ Creating these actions are very simple and straight forward at AirLyft.
 
 #### Hold NFT (ERC721)
 
-- Add the basic details and task conditions using the given options.
+- Configure the basic details and task conditions. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide. For task conditions, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 - Select the blockchain, and add the token address that you want to check for.
 - Enter the amount of NFTs to verify in the participant's wallet. You can specify either a minimum number of NFTs or a range of NFT amounts to verify.
 

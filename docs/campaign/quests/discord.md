@@ -2,19 +2,17 @@
 
 AirLyft now supports Discord integration to promote your discord server. You can create Discord based tasks to check if participants have joined your discord server or not. Please follow the steps below on how to create a Discord tasks.
 
-- When [creating a campaign](/campaign/#creating-a-campaign), you can find the Discord block in the quests section
+- When [creating a campaign](/campaign/#creating-a-campaign), you can find the **Discord** block in the quests section
 
-  ![](../../images/DiscordMain.png)
+  ![Discord Task Main](../../images/DiscordTaskMain.png)
 
-- Click on the basic details option to enter the Title, Description cFuel and XP. It is advisable to elaborate the title and description so that participants have a much greater understanding of task.
+- Configure the basic details for your Discord task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
-  - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
+- To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
-  ![](../../images/DiscordBasics.png)
+  ![Discord Task Basics](../../images/DiscordTaskBasic.png)
 
 - After entering the basic details, enter your project's discord server invite link here. Please note that if your discord invite link is correct, AirLyft will auto populate the server it belongs to. Take a look at the screenshot below.
-
-  ![](../../images/DiscordLink.png)
 
 Make sure your Discord link does not expire before the end of the campaign.
 

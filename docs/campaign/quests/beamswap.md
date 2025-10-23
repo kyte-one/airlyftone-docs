@@ -6,30 +6,28 @@ For example, if you want users to swap tokens on Beamswap, you can create a task
 
 Let's dive deep on how we can create these actions at AirLyft.
 
-- Login to AirLyft and create a campaign. On the Campaign page, click on Quests tab where you can find the Beamswap block as shown in the screenshot below.
+- On the Campaign page, click on Quests tab where you can find the **Beamswap** block as shown in the screenshot below.
 
-  ![](../../images/beamswapQuest.png)
+  ![Beamswap Task Main](../../images/beamswapQuest.png)
 
 - Select an action from the list below that you would want the participants to perform.
 
   - [Swap Tokens](#swap-any-two-tokens-on-beamswap)
   - [Allocate stGLINT](#allocate-stglint-on-beamswap)
-
-  ![](../../images/faucetOptions.png)
+ 
+  ![Beamswap Task Options](../../images/BeamswapTaskOptions.png)
 
 ### Swap any two tokens on Beamswap
 
 Follow these simple steps below on how to [Swap any two tokens on Beamswap](https://app.beamswap.io/exchange/braindex).
 
-- As shown in screenshot above, click on the Swap Tokens option.
+- As shown in screenshot above, click on the **Swap Tokens** option.
 
-- Next, click on the basic details option to enter the Title, Description, cFuel and XP. It is advisable to elaborate the title and description so that participants have a much greater understanding of task.
-
-  ![](../../images/beamswapTokenBasics.png)
+- Next, configure the basic details for your token swap task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
-  ![](../../images/beamswapTokenSwap.png)
+  ![Beamswap Task Swap Details](../../images/beamswapTokenSwap.png)
 
 - Configure the swap conditions.
 
@@ -44,13 +42,11 @@ This task requires participants to [allocate a specified amount of stGLINT on Be
 
 - As shown in screenshot above, click on the Allocate stGLINT option.
 
-- Next, click on the basic details option to enter the Title, Description, cFuel and XP. It is advisable to elaborate the title and description so that participants have a much greater understanding of task.
-
-  ![](../../images/beamswapTokenBasics.png)
+- Next, configure the basic details for your stGLINT allocation task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
-  ![](../../images/beamswapPool.png)
+  ![Beamswap Task stGLINT Details](../../images/beamswapPool.png)
 
 - Enter the **Minimum Amount** of stGLINT that participants need to allocate.
 

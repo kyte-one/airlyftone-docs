@@ -6,13 +6,9 @@ AirLyft now supports Telegram integration and you can create Telegram-based task
 
   ![](../../images/TelegramMain.png)
 
-- Next, enter the basic details of the Telegram tasks that you are creating. Click on the basic details option to enter the Title, Description, and Entries. It is advisable to elaborate on the title and description so that participants have a much greater understanding of the task.
-
-  ![](../../images/TelegramBasics.png)
+- Next, configure the basic details for your Telegram task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
-
-  ![](../../images/TelegramFrequency.png)
 
 - After you have filled in the basic details, the next step is to enter the public group or channel handle. Once you have entered the handle, AirLyft will fetch its validity and show the name of the group/channel that you are entering. Please take a look at the screenshot below.
 
@@ -35,10 +31,10 @@ AirLyft now supports Telegram integration and you can create Telegram-based task
 
 - Finally, click on Create to associate the bot API key for verification and then Add the task to create a Telegram Action.
 
-> ** NOTE: You can always delete this bot post-event completion by navigating to the BotFather window on Telegram and using the command “/deletebot”! **
+> **NOTE: You can always delete this bot post-event completion by navigating to the BotFather window on Telegram and using the command “/deletebot”!**
 
-> ** AirLyft does not read any group/channel messages, we also do not read any user PII through this bot. **
+> **AirLyft does not read any group/channel messages, we also do not read any user PII through this bot.**
 
-> ** This bot will not send any message to your group/channel and you can revoke all access to this bot to just verify participation. **
+> **This bot will not send any message to your group/channel and you can revoke all access to this bot to just verify participation.**
 
 If you are facing any issues with Telegram task creation, please drop a line at [support@airlyft.freshdesk.com](mailto:support@airlyft.freshdesk.com)!
