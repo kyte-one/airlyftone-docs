@@ -4,7 +4,7 @@ Geo-Fence tasks allow you to control campaign participation based on geographica
 
 - On the event page, click on Quests tab where you can find the **Geo-Fence** block.
 
-  ![Geo-Fence Task Main](../../images/GeoFenceTaskMain.png)
+  ![Geo-Fence Task Main](../../images/GeofenceTaskMain.png)
 
 - Configure the basic details for your Geo-Fence task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
