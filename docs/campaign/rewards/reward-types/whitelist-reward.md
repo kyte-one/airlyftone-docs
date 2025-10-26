@@ -41,3 +41,5 @@ For example:
 
 1. **[Manual selection at the end of the campaign](../winner-selection/manual):** If you select this then you will have the option to manually select winners from the participants after the campaign ends.
 2. **[Ranked Random Raffle at the end of the campaign](../winner-selection/ranked-random):** In this, AirLyft will automatically select winners in a random way (but selecting those with higher points first). For more details on how Ranked Random Raffle work [read this page.](../winner-selection/ranked-random)
+3. **[Ranked Random Raffle at specific time](../winner-selection/ranked-random-specific.md):** Similarly to the previous one, AirLyft will automatically select winners in a random way (but selecting those with higher points first), but you can choose the rewards to be distributed at a specific time.
+4. **[Pure Random Raffle at the end of the campaign](../winner-selection/pure-random-specific.md):** In this, AirLyft will automatically select winners in a random way, completely randomly, irrespective of how many points participants have scored. You can choose the rewards to be distributed at a specific time.

@@ -1,12 +1,12 @@
-# Youtube
+# YouTube
 
 Certain projects have the need to create video contents that give users a better perspective of the platform they are trying to understand. With that in mind, AirLyft has now integrated Youtube and supports the creation of Youtube tasks in your upcoming campaign. Let's dive deep into how we can create a Youtube task.
 
-- Login to AirLyft and create an event. On the event page, click on Quests tab where you can find the Youtube block.
+- Login to AirLyft and create an event. On the event page, click on Quests tab where you can find the **YouTube** block.
 
-  ![Youtube Main](../../images/YoutubeMain.png)
+  ![Youtube Main](../../images/YouTubeTaskMain.png)
 
-- Next, expand on the basic details option to enter the Title, Description, and Entries. It is advisable to elaborate on the title and description so that participants have a much greater understanding of the task if it is to visit a video or Youtube channel.
+- Next, configure the basic details for your YouTube task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 

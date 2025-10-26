@@ -12,13 +12,13 @@ AirLyft provides projects the flexibility to view participant-wise data at any p
 2. Hover on "More"
 3. And then select "Participants"
 
-- The Participant view provides a overall view of users who have participated from multiple sources such as Email, Metamask, Twitter, Telegram etc. You can also view what are the entries a particular user has been rewarded and how many tasks have they completed.
+- The Participant view provides a overall view of users who have participated in the campaign. You can also view what are the cFuel/XP a particular user has been rewarded and how many tasks have they completed.
 
-  ![Participants](../images/participants.jpg)
+  ![Participants](../images/participants.png)
 
 - Alternatively, if you want to check for what all tasks has a particular user completed, you can simply click on the **Details** option specific to that user and check the drill down of different actions performed by them on this event.
 
-- You can also filter submissions based user the quest, participation date or user.
+- You can also filter participants based on specific quests performed and participation date range.
 
 - You can also use [**"Export CSV"**](./export-data#submissions-data-export) to get all the participation data in a CSV for further analysis.
 

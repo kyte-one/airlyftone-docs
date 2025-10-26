@@ -56,7 +56,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 
    ![](../../images/palletsOptions.png)
 
-2. Enter basic information such as the **Quest Name, a brief Description, the cFuel allocation, and XP rewards**. This information helps define the purpose of the quest and the incentives for completing it.
+2. Next, configure the basic details for your task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
    ![](../../images/palletAssetHubAssetBalance.png)
 
@@ -74,7 +74,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 
    ![](../../images/palletsOptions.png)
 
-2. Fill in the basic quest information (name, description, cFuel, and XP).
+2. Next, configure the basic details for your task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
    ![](../../images/palletStake.png)
 
@@ -92,7 +92,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 
    ![](../../images/palletsOptions.png)
 
-2. Fill in the basic quest information (name, description, cFuel, and XP).
+2. Next, configure the basic details for your task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
    ![](../../images/palletAssetHubAssetBalance.png)
 
@@ -109,7 +109,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 1. Select the Substrate AssetHub Hold NFT option, as shown in the screenshot below.
    ![](../../images/palletsOptions.png)
 
-2. Fill in the basic quest information (name, description, cFuel, and XP).
+2. Next, configure the basic details for your task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
    ![](../../images/palletAssetHubNft.png)
 
 3. To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
@@ -132,7 +132,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 
 - This option verifies whether a user has bonded their tokens to a staking pool, an essential process in decentralized finance and staking ecosystems. By using this task, you can encourage users to engage in staking pools, supporting network security while earning passive income.
 
-1. Fill in the basic quest information (name, description, cFuel, and XP).
+1. Next, configure the basic details for your task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
 2. To configure the task add the following details:
 
@@ -156,7 +156,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 1. Select the Substrate Bond to Pool option, as shown in the screenshot below.
    ![](../../images/palletsOptions.png)
 
-2. Fill in the basic quest information (name, description, cFuel, and XP).
+2. Next, configure the basic details for your task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
    ![](../../images/palletPool.png)
 
 3. To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
@@ -172,7 +172,7 @@ AirLyft simplifies the process of creating Substrate Pallet tasks, making it as 
 1. Select the Substrate Nominate Validator option, as shown in the screenshot below.
    ![](../../images/palletsOptions.png)
 
-2. Fill in the basic quest information (name, description, cFuel, and XP).
+2. Next, configure the basic details for your task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
    ![](../../images/palletsValidator.png)
 
 3. To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.

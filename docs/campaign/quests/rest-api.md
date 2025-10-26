@@ -2,17 +2,29 @@
 
 Since not all data is stored on a blockchain, AirLyft offers a comprehensive solution for those seeking to create and validate more in-depth actions based on your own product functionality. Simply let your development team create custom endpoints and connect them to our quests making your campaign experience smoother.
 
-AirLyft integrates with any system that provides REST API access. Users can link their EVM/Substrate wallets, provide signatures for ownership verification, and then transmit their wallet address to the API, either as query params, body, or headers.
+AirLyft integrates with any system that provides REST API access. Users can link their EVM, Substrate, Cosmos, or Solana wallets, provide signatures for ownership verification, and then transmit their wallet address to the API, either as query params, body, or headers.
 
-    ![](../../images/restapi1.png)
+- Head over to the Quests tab under Campaign Information where you can find the **REST API Integration** module.
+
+![Rest Task Main](../../images/RestTaskMain.png)
+
+AirLyft has implemented 5 type of REST API tasks:
+
+- Basic REST API: For REST API integration that do not require a wallet address
+- REST API - EVM Wallet: For REST API integration with blockchains based on EVM
+- REST API - Dotsama Wallet: For REST API integration with blockchains based on Dotsama
+- REST API - Solana Wallet: For REST API integration with blockchains based on Solana
+- REST API - Cosmos Wallet: For REST API integration with blockchains based on Cosmos
+
+  ![Rest Task Options](../../images/RestTaskOptions.png)
 
 ### What variables can AirLyft pass to the API?
 
 AirLyft can pass the following information as a query/body param or header.
 
-1. **Logged In user's id**: User's AirLyft UUID. Use this in case you have to save some data and match it with the exported data from the event.
+1. **Logged In user's ID**: User's AirLyft UUID. Use this in case you have to save some data and match it with the exported data from the event.
 2. **Secure User Field**: Any user input that is taken from the participant in the UI and securely sent to your API without being saved or logged in AirLyft's servers. Use this for usernames, keys, or any information your API might need to validate app installs, sign ups etc.
-3. **Connected Wallet**: User's connected wallet address (Substrate or EVM depending on the quest type selected). Use this in case your dApp uses a wallet connection & you need to validate whether the user has used your particular feature.
+3. **Connected Wallet**: User's connected wallet address (EVM, Substrate, Cosmos, or Solana depending on the quest type selected). Use this in case your dApp uses a wallet connection & you need to validate whether the user has used your particular feature.
 
    ![](../../images/restapi2.png)
 
@@ -30,9 +42,21 @@ Configuring the REST API Integration often needs support from the dev or devrel 
 
 REST APIs are best used when the quest you want to create is complex and cannot be easily validated using a smart contract function or an indexer.
 
+### API Dry Run
+
+You can not test your API's response and the result of the validation function.
+
+- To Dry Run the API, expand the **Dry Run API** section, enter your wallet address for testing, then click on **Validate** button.
+
+- Then on the basis of the response and validaiton function, the UI will show a test passed or failed response.
+
+- If you want to debug, you can expand the **Debug Info** section to check the response of the API, and adjust your validation function based on that.
+
+  ![REST API Dry Run](../../images/RestTaskDryRun.png)
+
 ### Common Examples
 
-#### Validate with EVM/Substrate Wallet
+#### Validate with EVM/Substrate/Cosmos/Solana Wallet
 
 Say, your dApp allows users to do a transaction X, and you want to create a quest that validates that action. Your REST API should look like the following:
 

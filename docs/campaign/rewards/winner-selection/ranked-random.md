@@ -1,4 +1,4 @@
-# Ranked Random Raffle
+# Ranked Random Raffle (End)
 
 This is an automatic winner selection strategy that means that the winners will be chosen without any intervention from the community host.
 
@@ -6,6 +6,7 @@ The ranked random strategy works as following:
 1. Sort all participants as per the amount of XP they have scored **in the particular campaign.** 
 2. Select winners from top to bottom
 3. If the no. of people who have scored the same XP are greater than number of winners left to select, then Randomly select the remaining winners.
+4. The rewards are distributed when the campaign ends.
 
 *Please Note:  The community leaderboard ranking is based on the XP you have earned across all campaigns in a community but the Ranked Random Raffle will only consider the XP that you have earned within the campaign. In case you want to show the users their ranks before hand then enable a Campaign Leaderboard*
 

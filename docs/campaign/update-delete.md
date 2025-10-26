@@ -18,7 +18,7 @@ Campaign details can only be updated when the campaign is in "Scheduled" state. 
 
 :::note
 
-In case you are editing a task that already has participants, the earlier particaption entries remain unchanged.
+In case you are editing a task that already has participants, the earlier particaption cFuel/XP remain unchanged.
 
 :::
 

@@ -2,21 +2,23 @@
 
 Forms are an integral part of growth activities when you want to take users' input for some or the other action. With that in mind, AirLyft has successfully integrated its Form using which you can receive users' data which would be accessible just by the project owners. Let's dive deep into how to create form tasks at AirLyft.
 
-- First, log in to AirLyft and head over to the Quests tab under Campaign Information where you can find the Form option.
+- Click on Quest where you can find the **Form** option.
 
-  ![](../../images/FormMain.png)
+  ![Form Task Main](../../images/FormTaskMain.png)
 
-- Next, click on the basic details option to enter the Title, Description, cFuel and XP. It is advisable to elaborate on the title and description so that participants have a much greater understanding of the task.
+- Next, configure the basic details for your form task. For detailed instructions on setting up basic details, refer to the [Quest Basic Details](../quest-basic-details.md) guide.
 
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
-  ![](../../images/FormBasics.png)
+  ![Form Task Basics](../../images/FormTaskBasic.png)
 
-- Once the basic details have been filled in, the next step is to click on **Add New Form Field**.
+- Once the basic details have been filled in, click on the **Add New Form Field** button.
 
-- You will now be presented with three options which are Question, Required, and Answer Type. In the Questions Field, you can ask what users need to enter based on which the participants would be filling the form and then you can mark this question as Required or Not.
+- You will now be presented with three options which are Question, Required, and Answer Type. In the Questions Field, you can ask what users need to enter based on which the participants would be filling the form.
 
-- Next step is to choose the Answer Type. At AirLyft, answer types are of 5 different types.
+- You can mark a question as Required or Not.
+
+- Next step is to choose the Answer Type. At AirLyft, answer types are of 8 different types.
   - Simple Input Field - For entries on a single line.
   - Multiline Input Field - For entries on multiple lines.
   - Radio - For entries of choosing single options.
@@ -28,14 +30,9 @@ Forms are an integral part of growth activities when you want to take users' inp
 
 Recently our partner used this integration in their giveaways where they created a form to collect Names (Simple Input Field), addresses (Multiline Input Field), Tshirt Size (Radio Button), and Colors (Checkboxes). Similarly, based on your requirements and campaign strategy, you can create form tasks and accept users' inputs. Some of the giveaways campaigns you can run here are reward survey, optin form, online contest entry form, etc.
 
-![](../../images/FormElements.png)
+![Form Task Questions Configuration](../../images/FormTaskQuestions.png)
 
-- You can also select the type of verification you want for the task. There are two options:
-
-  - **Manually verify submissions:** Manually select which submission to mark as valid.
-  - **Accept all submissions:** All submissions are automatically marked as valid.
-
-  ![](../../images/FormVerification.png)
+- You can also select the type of verification you want for the task. To learn more about the verification types offered by AirLyft, you can refer to [Verification Types](../quest-verification-type.md) guide.
 
 - Finally, Click on apply on Form Fields to add it to the form and then click on Add Tasks to create a Form Task.
 
