@@ -76,7 +76,7 @@ To use giveaway as a reward type, you must first create a giveaway with the [Luc
 
 - Similar to **Spin the Wheel**, select the **reward type** for each tier (cFuel, cXP, or Giveaway), enter the **reward amounts**, and set their respective **winning probabilities**.
 
-  ![Mystery Box Task Reward](../../images/mysterybox.png)
+  ![Mystery Box Task Reward](../../images/LuckydrawTaskSpinBox.png)
 
 - Click **Add Task** to add the Lucky Draw task to your campaign.
 

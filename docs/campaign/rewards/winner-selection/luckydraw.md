@@ -43,7 +43,6 @@ The Lucky Draw winner selection strategy is perfect for:
 
 ## Important Notes
 
-- To use this winner selection strategy, you must first create a Lucky Draw task in your campaign
 - The Lucky Draw task configuration (reward types and probabilities) determines who receives which giveaway rewards
 - Each participant's Lucky Draw result directly impacts which giveaway they win
 - Hidden rewards add an element of mystery, while visible rewards let users know exactly what they're playing for

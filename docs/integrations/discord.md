@@ -42,6 +42,18 @@ Follow these steps to configure your Discord integration:
 
    - Your Discord integration is now ready for use in campaign tasks.
 
+### Reconnecting Your Discord Account
+
+Sometimes Discord authorization may expire or get revoked. If this happens, you can easily reconnect your account:
+
+- Click on the refresh icon next to your connected Discord account to reconnect and refresh the authorization.
+
+  ![Reconnect Discord Account](../images/DiscordReconnect.png)
+
+- You will be redirected to Discord's authorization page again to grant permissions.
+
+- After successful reconnection, your account will sync with the latest settings and permissions.
+
 ## Using Discord Integration in Campaigns
 
 Once your Discord account is connected, you can:

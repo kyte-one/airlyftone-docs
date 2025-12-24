@@ -65,6 +65,8 @@ Before creating a role-checking task, you must first set up a Discord integratio
 
 - **Add AirLyft Bot to Server:** If the AirLyft bot is not already added to your selected server, a prompt will appear with instructions. Follow the on-screen steps to add the bot to your server. This is required for AirLyft to verify user roles.
 
+  ![Discord Bot Add](../../images/DiscordBotAdd.png)
+
 - **Select Roles:** After the bot is added, a list of all roles in your server will be displayed. Select which role(s) you want to check for.
 
 - **Role Condition (for multiple roles):** If you select multiple roles, you can specify whether users need:

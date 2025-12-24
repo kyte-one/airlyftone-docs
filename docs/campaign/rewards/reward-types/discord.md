@@ -30,6 +30,8 @@ Use Discord Role Giveaway when you want to:
 
    - **Add Bot to Server:** If AirLyft's bot is not already added to your selected server, you will see on-screen instructions. Follow these instructions to add the bot to your server. This is required for AirLyft to assign roles to winners.
 
+   ![Discord Bot Add](../../../images/DiscordBotAdd.png)
+
    - **Role:** Select the role that you want to award to winners. A list of all available roles in your selected server will be displayed.
 
    - **Winner Selection Strategy:** Choose how you want winners to be selected. Click [here](../winner-selection) to learn more about the types of winner selection strategies.
