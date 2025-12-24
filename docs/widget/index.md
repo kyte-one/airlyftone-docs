@@ -18,8 +18,8 @@ The AirLyft Widget is currently in Pre-Release. If you face any problem while us
 
 AirLyft offers two main types of widget:
 
-1. [Sidebar Widget](#sidebar-widget)
-2. [Popup Widget](#popup-widget)
+1. Sidebar Widget
+2. Popup Widget
 
 ## Demo Website
 

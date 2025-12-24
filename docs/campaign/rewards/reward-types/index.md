@@ -12,6 +12,8 @@ AirLyft allows a range of reward types that you can distribute to your winners.
 4. [Tokens (ERC20)](./erc-20-rewards)
 5. [Substrate Tokens](./substrate-tokens)
 6. [AssetHub NFT](./assethub-nft)
+7. [Secret Rewards](./secret-rewards)
+8. [Discord Giveaway](./discord)
 
 Also, every quest has [XP & Fuel](../../xp-fuel) rewards that are given to the users. XP determines the rank of a user on leaderboards and Fuel can be redeemed for rewards in the Shop.
 For more details on XP & Fuel [read this.](../../xp-fuel.md)

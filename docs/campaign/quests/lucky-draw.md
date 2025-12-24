@@ -18,27 +18,55 @@ Lucky Draw tasks add an exciting element of chance to your campaigns, helping bo
 
 - To configure the **Task Condition & Recurrence**, refer to the [Task Condition & Recurrence](../task-condition-and-recurrence.md) page.
 
-- Choose the **reward type**, you can either choose between cFuel or XP.
+## Task Mode
+
+Lucky Draw tasks offer two distinct modes of operation:
+
+- **Standalone Task:** The task behaves like a regular quest task and is visible to all participants from the start. Users can complete it at any time during the campaign.
+
+- **Bonus Reward:** The task remains hidden until specific conditions are met. You'll need to configure conditions in the **Task Condition & Recurrence** section. Once participants meet these conditions, the Lucky Draw task becomes visible and accessible to them. This mode is perfect for rewarding loyal participants or those who have achieved specific milestones.
+
+## Configuring Rewards
+
+Lucky Draw tasks support multiple reward types, and each reward tier can have a different type:
+
+- **cFuel:** Award campaign fuel points
+- **cXP:** Award experience points
+- **Giveaway:** Award rewards from a Lucky Draw giveaway
+
+You can mix and match reward types within the same Lucky Draw task. For example:
+
+- Reward 1: 100 cFuel
+- Reward 2: 50 cXP
+- Reward 3: A giveaway reward (NFT, tokens, Discord roles, etc.)
+
+### Using Giveaway Rewards
+
+To use giveaway as a reward type, you must first create a giveaway with the [Lucky Draw distribution type](../rewards/winner-selection/luckydraw.md). Once created, you can select it while configuring your Lucky Draw task. Winners of the Lucky Draw task will automatically be entered into the giveaway based on what they win.
+
+> **Important:** Once a reward is created with its probability, reward type, and amount, these values cannot be modified. Plan your reward structure carefully before adding the task.
 
 #### To setup Spin The Wheel Task
 
-- Enter the **reward amounts** and their respective **winning probabilities**. For example:
+- Select the **reward type** for each tier (cFuel, cXP, or Giveaway), enter the **reward amounts**, and set their respective **winning probabilities**. For example:
 
-  You can add upto 10 reward tiers, and set them up like:
+  You can add up to 10 reward tiers, and set them up like:
 
   - 100 cFuel with 10% probability (rare reward)
-  - 50 cFuel with 30% probability (uncommon reward)
-  - 20 cFuel with 60% probability (common reward)
+  - 50 cXP with 30% probability (uncommon reward)
+  - Giveaway reward with 60% probability (common reward)
 
   ![Spin the Wheel Task Reward](../../images/LuckydrawTaskSpinBox.png)
 
 #### To setup Slot Machine Task
 
-- In this task, the winning probabilities are predefined, but you can manually set the reward amount for each tier. The predefined tiers and their probabilities are as follows:
+- In this task, the winning probabilities are predefined, but you can select the reward type (cFuel, cXP, or Giveaway) and manually set the reward amount for each tier. The predefined tiers and their probabilities are as follows:
 
-  - **Jackpot:** All three slot icons are same (Winning Probaiity: 11%)
-  - **Small Win:** All three slot icons are different (Winning Probaiity: 67%)
-  - **Big Win:** Any two slot icons are same (Winning Probaiity: 22%)
+  - **Jackpot:** All three slot icons are same (Winning Probability: 11%)
+  - **Small Win:** All three slot icons are different (Winning Probability: 67%)
+  - **Big Win:** Any two slot icons are same (Winning Probability: 22%)
+
+- Each tier can have a different reward type. For example, Jackpot could award a Giveaway reward, Big Win could award cXP, and Small Win could award cFuel.
 
 - Optionally, you can also add custom slot icons, or use the default ones.
 
@@ -46,13 +74,13 @@ Lucky Draw tasks add an exciting element of chance to your campaigns, helping bo
 
 #### To setup Mystery Box Task
 
-- Similar to **Spin the Wheel**, enter the **reward amounts** and their respective **winning probabilities**.
+- Similar to **Spin the Wheel**, select the **reward type** for each tier (cFuel, cXP, or Giveaway), enter the **reward amounts**, and set their respective **winning probabilities**.
 
-  ![Mystery Box Task Reward](../../images/mysterybox.png)
+  ![Mystery Box Task Reward](../../images/LuckydrawTaskSpinBox.png)
 
 - Click **Add Task** to add the Lucky Draw task to your campaign.
 
-> **Note:** The probabilities must add up to 100%. This setup ensures that different rewards have different chances of being won, creating an exciting and dynamic experience for participants. In the example above, when a user spins the wheel, they have a 60% chance to win 20 cFuel, a 30% chance to win 50 cFuel, and a 10% chance to win 100 cFuel.
+> **Note:** The probabilities must add up to 100%. This setup ensures that different rewards have different chances of being won, creating an exciting and dynamic experience for participants. Each reward tier can have a different reward type, allowing you to create diverse prize pools that include cFuel, cXP, and giveaway rewards.
 
 :::tip For instant help
 

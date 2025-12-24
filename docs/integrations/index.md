@@ -20,6 +20,7 @@ AirLyft currently supports the following integrations:
 - [Telegram](./telegram-integration) - Connect your Telegram groups and channels with AirLyft campaigns
 - [Zapier](./zapier) - Connect AirLyft with thousands of apps through Zapier automation
 - [Kit](./kit) - Use our developer kit to create custom integrations
+- [Discord](./discord) - Connect your Discord account to reward and verify user with roles in your server
 
 ## Setting Up Integrations
 
