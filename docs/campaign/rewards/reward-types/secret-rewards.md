@@ -69,3 +69,4 @@ When you enter multiple secrets (more than one coupon, file, or link):
 1. **[FCFS](../winner-selection/fcfs):** In this, you can set conditions based on the amount of fuel secured or the number of tasks completed (e.g., “Number of Tasks > X”).
 2. **[Task FCFS](../winner-selection/task-fcfs):** In this, AirLyft allows users to instantly claim rewards from your campaign upon successful completion of designated tasks.
 3. **[Manual selection at the end of the campaign](../winner-selection/manual):** If you select this then you will have the option to manually select winners from the participants after the campaign ends.
+4. **[Lucky Draw](../winner-selection/luckydraw.md):** Winners are selected based on the results of a Lucky Draw task (Spin the Wheel, Slot Machine, or Mystery Box).
