@@ -6,7 +6,7 @@ Telegram is a popular messaging platform with powerful group and channel feature
 
 To integrate Telegram with your AirLyft campaign, you'll need to obtain a Bot API Key by creating a Telegram bot using BotFather.
 
-### Creating a Telegram Bot:
+### Creating a Telegram Bot
 
 For detailed step-by-step instructions on how to create a Telegram bot for verification using BotFather, please refer to our guide: [Set Up Telegram Bot](../docs/how-to-create-telegram-bot.md)
 
