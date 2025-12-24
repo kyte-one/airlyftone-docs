@@ -41,10 +41,10 @@ If you are unsure which chain state function to call, you can also use this step
 - [Check Substrate Balance](#check-substrate-balance)
 - [Check Substrate Stake amount](#check-substrate-stake-amount)
 - [Check Substrate AssetHub Asset Balance](#check-substrate-assethub-asset-balance)
-- [Check If Substrate AssetHub Hold NFT](#allow-only-specific-accounts-on-twitter)
+- [Check If Substrate AssetHub Hold NFT](#check-if-substrate-assethub-hold-nft)
 - [Substrate Raw Querry](#substrate-raw-querry)
-- [Substrate Bond to Pool](#check-if-account-bonded-to-pool)
-- [Substrate Nominate Validator](#check-if-account-has-nominated-validator)
+- [Substrate Bond to Pool](#substrate-bond-to-pool)
+- [Substrate Nominate Validator](#substrate-nominate-validator)
 
 AirLyft simplifies the process of creating Substrate Pallet tasks, making it as straightforward as using Polkadotjs. Let's dive deep into it.
 
